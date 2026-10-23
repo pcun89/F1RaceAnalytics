@@ -78,5 +78,3 @@ Add screenshots to `powerbi/screenshots/` and `tableau/screenshots/`, then embed
 ![Power BI championship page](powerbi/screenshots/championship.png)
 ![Tableau race strategy](tableau/screenshots/strategy.png)
 ```
-
-
