@@ -79,6 +79,4 @@ Add screenshots to `powerbi/screenshots/` and `tableau/screenshots/`, then embed
 ![Tableau race strategy](tableau/screenshots/strategy.png)
 ```
 
-## License
 
-MIT
