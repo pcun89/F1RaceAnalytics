@@ -98,3 +98,24 @@ def collect_laps(path, refresh):
             for lap in r.get("Laps", []):
                 laps.setdefault(int(lap["number"]), []).extend(lap["Timings"])
     return laps
+# ---------------------------------------------------------------- parsing helpers
+
+
+def to_int(x):
+    try:
+        return int(x)
+    except (TypeError, ValueError):
+        return None
+
+
+def secs(t):
+    """'1:26.123' -> 86.123 ; '23.456' -> 23.456 ; missing/invalid -> None"""
+    if not t:
+        return None
+    try:
+        v = 0.0
+        for part in str(t).split(":"):
+            v = v * 60 + float(part)
+        return round(v, 3)
+    except ValueError:
+        return None
