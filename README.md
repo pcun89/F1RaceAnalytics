@@ -63,6 +63,20 @@ erDiagram
 - Realistic gaps: occasional missing humidity, attendance, pit duration and qualifying times; retired drivers have no finish time.
 - Points: 25-18-15-12-10-8-6-4-2-1, plus 1 point for fastest lap inside the top 10.
 
+## Live data
+
+`src/fetch_f1_reference.py` pulls the current teams, drivers, standings and race calendars from the
+[Jolpica F1 API](https://api.jolpi.ca/ergast/f1/). The simulator uses the standings to set how fast
+each car and driver is, so stronger teams in real life are stronger in the simulation.
+
+Notes:
+
+- Results are **simulated, not real race results**.
+- Both seasons use the current driver and team lineup, on the real calendars for the last two seasons.
+- Lap length and base lap time per circuit are approximate values stored in `src/live_world.py`,
+  because the API does not provide them. Tracks not in that list get plausible random values.
+- This project is unofficial and not affiliated with Formula 1, the FIA, any team or driver, or Jolpica.
+
 ## SQL
 
 `sql/analysis_queries.sql` holds 12 queries: championship standings, running points with window functions, constructor standings, win rate by grid slot, tyre degradation, pit stop performance, DNF rates, wet vs dry form, teammate head-to-head (self join), LAG-based position changes, and ranked fastest laps.
