@@ -72,7 +72,6 @@ each car and driver is, so stronger teams in real life are stronger in the simul
 Notes:
 
 - Results are **simulated, not real race results**.
-- Both seasons use the current driver and team lineup, on the real calendars for the last two seasons.
 - Lap length and base lap time per circuit are approximate values stored in `src/live_world.py`,
   because the API does not provide them. Tracks not in that list get plausible random values.
 - This project is unofficial and not affiliated with Formula 1, the FIA, any team or driver, or Jolpica.
