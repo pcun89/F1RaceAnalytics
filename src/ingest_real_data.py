@@ -219,3 +219,41 @@ def write_outputs(T):
             [tuple(r[c] for c in cols) for r in rows])
     con.commit()
     return con
+
+
+# ---------------------------------------------------------------- data quality checks
+CHECKS = [  # (label, SQL returning a count of problems, severity)
+    ("races without any results",
+     "SELECT COUNT(*) FROM races r WHERE NOT EXISTS (SELECT 1 FROM race_results x WHERE x.race_id=r.race_id)", "FAIL"),
+    ("races with no winner (no position 1)",
+     "SELECT COUNT(*) FROM races r WHERE NOT EXISTS (SELECT 1 FROM race_results x WHERE x.race_id=r.race_id AND x.position=1)", "FAIL"),
+    ("duplicate finishing positions within a race",
+     "SELECT COUNT(*) FROM (SELECT race_id, position FROM race_results GROUP BY race_id, position HAVING COUNT(*)>1)", "FAIL"),
+    ("results pointing at a missing driver or constructor",
+     "SELECT COUNT(*) FROM race_results x WHERE x.driver_id NOT IN (SELECT driver_id FROM drivers) "
+     "OR x.constructor_id NOT IN (SELECT constructor_id FROM constructors)", "FAIL"),
+    ("negative points",
+     "SELECT COUNT(*) FROM race_results WHERE points < 0", "FAIL"),
+    ("races with an unusual number of entries (<16 or >26)",
+     "SELECT COUNT(*) FROM (SELECT race_id FROM race_results GROUP BY race_id HAVING COUNT(*)<16 OR COUNT(*)>26)", "WARN"),
+    ("races with no qualifying data",
+     "SELECT COUNT(*) FROM races r WHERE NOT EXISTS (SELECT 1 FROM qualifying q WHERE q.race_id=r.race_id)", "WARN"),
+    ("pit stops outside 10-120 s",
+     "SELECT COUNT(*) FROM pit_stops WHERE duration_s < 10 OR duration_s > 120", "WARN"),
+    ("lap times outside 40-300 s",
+     "SELECT COUNT(*) FROM lap_times WHERE lap_time_s < 40 OR lap_time_s > 300", "WARN"),
+    ("races with pit stops but no lap data (only meaningful with --laps)",
+     "SELECT COUNT(*) FROM races r WHERE EXISTS (SELECT 1 FROM pit_stops p WHERE p.race_id=r.race_id) "
+     "AND NOT EXISTS (SELECT 1 FROM lap_times l WHERE l.race_id=r.race_id)", "INFO"),
+]
+
+
+def run_checks(con):
+    print("\nData quality checks")
+    failed = False
+    for label, sql, level in CHECKS:
+        n = con.execute(sql).fetchone()[0]
+        status = "PASS" if n == 0 else level
+        failed |= (status == "FAIL")
+        print(f"  [{status:4}] {label}: {n}")
+    return failed
