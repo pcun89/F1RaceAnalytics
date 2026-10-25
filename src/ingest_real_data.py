@@ -189,3 +189,33 @@ def ingest_season(season, with_laps, refresh, T, skipped):
                     T["lap_times"].append(dict(
                         race_id=race_id, driver_id=t["driverId"], lap_number=lap_no,
                         position=to_int(t.get("position")), lap_time_s=secs(t.get("time"))))
+
+
+# ---------------------------------------------------------------- output
+TABLES = ["circuits", "constructors", "drivers", "races",
+          "race_results", "qualifying", "pit_stops", "lap_times"]
+
+
+def rows_of(T, name):
+    return list(T[name].values()) if isinstance(T[name], dict) else T[name]
+
+
+def write_outputs(T):
+    os.makedirs(CSV_DIR, exist_ok=True)
+    os.makedirs(os.path.dirname(DB), exist_ok=True)
+    con = sqlite3.connect(DB)
+    con.executescript(open(SCHEMA).read())
+    for name in TABLES:
+        rows = rows_of(T, name)
+        if not rows:
+            continue
+        cols = list(rows[0].keys())
+        with open(f"{CSV_DIR}/{name}.csv", "w", newline="") as f:      # CSVs for Power BI / Tableau
+            w = csv.DictWriter(f, fieldnames=cols)
+            w.writeheader()
+            w.writerows(rows)
+        con.executemany(                                                # upsert = safe to re-run
+            f"INSERT OR REPLACE INTO {name} ({','.join(cols)}) VALUES ({','.join('?' * len(cols))})",
+            [tuple(r[c] for c in cols) for r in rows])
+    con.commit()
+    return con
