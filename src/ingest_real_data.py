@@ -257,3 +257,47 @@ def run_checks(con):
         failed |= (status == "FAIL")
         print(f"  [{status:4}] {label}: {n}")
     return failed
+
+# ---------------------------------------------------------------- main
+
+
+def parse_seasons(text):
+    out = []
+    for part in text.split(","):
+        if "-" in part:
+            a, b = part.split("-")
+            out += range(int(a), int(b) + 1)
+        else:
+            out.append(int(part))
+    return sorted(set(out))
+
+
+def main(argv=None):
+    now = datetime.now().year
+    ap = argparse.ArgumentParser(
+        description="Ingest real F1 data from the Jolpica API")
+    ap.add_argument(
+        "--seasons", default=f"{now - 4}-{now}", help="e.g. 2021-2025, 2026, or 2019,2023")
+    ap.add_argument("--laps", action="store_true",
+                    help="also pull lap times (many requests per race)")
+    ap.add_argument("--refresh", action="store_true",
+                    help="ignore the cache (use for a season in progress)")
+    args = ap.parse_args(argv)
+
+    T = {name: ({} if name in ("circuits", "constructors",
+                "drivers", "races") else []) for name in TABLES}
+    skipped = {"pit_stops": 0, "lap_times": 0}
+    for season in parse_seasons(args.seasons):
+        ingest_season(season, args.laps, args.refresh, T, skipped)
+    if not T["races"]:
+        sys.exit("No race data was loaded.")
+
+    con = write_outputs(T)
+    print("\nRows loaded:", {n: len(rows_of(T, n)) for n in TABLES})
+    if any(skipped.values()):
+        print("Skipped rows with unknown drivers:", skipped)
+    sys.exit(1 if run_checks(con) else 0)
+
+
+if __name__ == "__main__":
+    main()
