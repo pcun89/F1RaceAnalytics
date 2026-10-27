@@ -271,3 +271,45 @@ for race in races:
         for k in st:
             if not st[k]["out"]:
                 st[k]["laps_done"]=lap
+# results
+    fin = sorted(
+        st, key=lambda k: (-st[k]["laps_done"], st[k]["cum"] if not st[k]["out"] else 1e12))
+    leader_t = st[fin[0]]["cum"]
+    fl = min((k for k in st if st[k]["best"]), key=lambda k: st[k]["best"][0])
+    for pos, did in enumerate(fin, 1):
+        s = st[did]; d = s["d"]
+        p = pts[pos-1] if pos <= 10 and not s["out"] else 0
+        flp = (did == fl and pos <= 10 and not s["out"])
+        status = "Finished" if not s["out"] else s["reason"]
+        if not s["out"] and s["laps_done"] < L: status = "Lapped"
+        results.append(dict(result_id=rid(), race_id=race["race_id"], driver_id=did, constructor_id=d["constructor_id"],
+            grid_position=s["grid"], finish_position=pos, points=p+int(flp), laps_completed=s["laps_done"],
+            total_time_s=round(s["cum"], 3) if not s["out"] else None,
+            gap_to_winner_s=round(
+                s["cum"]-leader_t, 3) if (not s["out"] and pos > 1) else None,
+            fastest_lap_time_s=round(s["best"][0], 3) if s["best"] else None,
+            fastest_lap_number=s["best"][1] if s["best"] else None,
+            fastest_lap_award=int(flp), pit_stops=s["pitcount"], status=status, positions_gained=s["grid"]-pos))
+    race["total_laps"] = L
+
+
+def w(name, rows, cols=None):
+    cols = cols or list(rows[0].keys())
+    with open(f"{OUT}/{name}.csv", "w", newline="") as f:
+        wr = csv.DictWriter(f, fieldnames=cols,
+                            extrasaction="ignore"); wr.writeheader()
+        for r in rows: wr.writerow(
+            {k: ("" if r.get(k) is None else r.get(k)) for k in cols})
+    print(name, len(rows))
+
+
+w("constructors", constructors)
+for d in drivers: d["rookie"] = int(d["rookie"])
+w("drivers", drivers, ["driver_id", "first_name", "last_name", "code",
+  "driver_number", "nationality", "date_of_birth", "constructor_id", "rookie"])
+w("circuits", circuits)
+w("races", races, ["race_id", "season", "round", "circuit_id", "race_date", "total_laps",
+  "weather", "air_temp_c", "track_temp_c", "humidity_pct", "attendance", "safety_car_laps"])
+w("qualifying", quali); w("race_results", results); w(
+    "pit_stops", pits); w("lap_times", laps)
+
