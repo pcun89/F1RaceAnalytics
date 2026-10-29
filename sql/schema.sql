@@ -1,0 +1,13 @@
+PRAGMA foreign_keys = ON;
+CREATE TABLE constructors (constructor_id INTEGER PRIMARY KEY, name TEXT NOT NULL, nationality TEXT, car_pace_delta REAL, reliability REAL, base_budget_musd INTEGER);
+CREATE TABLE circuits (circuit_id INTEGER PRIMARY KEY, name TEXT NOT NULL, country TEXT, length_km REAL, laps INTEGER, base_lap_time_s REAL, pit_loss_s REAL, rain_probability REAL, overtaking_ease REAL, tyre_wear_factor REAL);
+CREATE TABLE drivers (driver_id INTEGER PRIMARY KEY, first_name TEXT, last_name TEXT, code TEXT, driver_number INTEGER, nationality TEXT, date_of_birth DATE, constructor_id INTEGER REFERENCES constructors(constructor_id), rookie INTEGER);
+CREATE TABLE races (race_id INTEGER PRIMARY KEY, season INTEGER, round INTEGER, circuit_id INTEGER REFERENCES circuits(circuit_id), race_date DATE, total_laps INTEGER, weather TEXT, air_temp_c REAL, track_temp_c REAL, humidity_pct INTEGER, attendance INTEGER, safety_car_laps INTEGER);
+CREATE TABLE qualifying (qualifying_id INTEGER PRIMARY KEY, race_id INTEGER REFERENCES races(race_id), driver_id INTEGER REFERENCES drivers(driver_id), qualifying_position INTEGER, best_lap_time_s REAL, grid_position INTEGER, grid_penalty INTEGER);
+CREATE TABLE race_results (result_id INTEGER PRIMARY KEY, race_id INTEGER REFERENCES races(race_id), driver_id INTEGER REFERENCES drivers(driver_id), constructor_id INTEGER REFERENCES constructors(constructor_id), grid_position INTEGER, finish_position INTEGER, points INTEGER, laps_completed INTEGER, total_time_s REAL, gap_to_winner_s REAL, fastest_lap_time_s REAL, fastest_lap_number INTEGER, fastest_lap_award INTEGER, pit_stops INTEGER, status TEXT, positions_gained INTEGER);
+CREATE TABLE pit_stops (pit_stop_id INTEGER PRIMARY KEY, race_id INTEGER REFERENCES races(race_id), driver_id INTEGER REFERENCES drivers(driver_id), stop_number INTEGER, lap INTEGER, pit_duration_s REAL, tyre_from TEXT, tyre_to TEXT, under_safety_car INTEGER);
+CREATE TABLE lap_times (lap_id INTEGER PRIMARY KEY, race_id INTEGER REFERENCES races(race_id), driver_id INTEGER REFERENCES drivers(driver_id), lap_number INTEGER, position INTEGER, lap_time_s REAL, tyre_compound TEXT, tyre_age_laps INTEGER, is_pit_lap INTEGER, safety_car INTEGER, cumulative_time_s REAL, gap_to_leader_s REAL);
+CREATE INDEX idx_results_race ON race_results(race_id);
+CREATE INDEX idx_results_driver ON race_results(driver_id);
+CREATE INDEX idx_laps_race_driver ON lap_times(race_id, driver_id);
+CREATE INDEX idx_pits_race ON pit_stops(race_id);
