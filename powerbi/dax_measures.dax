@@ -36,4 +36,3 @@ RETURN
         FILTER ( ALL ( dim_race[round] ), dim_race[round] <= _round ),
         VALUES ( dim_race[season] )
     )
-    
