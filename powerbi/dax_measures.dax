@@ -7,3 +7,33 @@ Poles = CALCULATE ( COUNTROWS ( fact_race_results ), fact_race_results[grid_posi
 Win Rate % = DIVIDE ( [Wins], [Races Entered] )
 Podium Rate % = DIVIDE ( [Podiums], [Races Entered] )
 Points Per Race = DIVIDE ( [Total Points], [Races Entered] )
+// ===== Reliability =====
+DNFs =
+CALCULATE (
+    COUNTROWS ( fact_race_results ),
+    NOT ( fact_race_results[status] IN { "Finished", "Lapped" } )
+)
+DNF Rate % = DIVIDE ( [DNFs], [Races Entered] )
+
+// ===== Grid vs finish =====
+Avg Grid Position = AVERAGE ( fact_race_results[grid_position] )
+Avg Finish Position = AVERAGE ( fact_race_results[finish_position] )
+Avg Positions Gained =
+CALCULATE (
+    AVERAGE ( fact_race_results[positions_gained] ),
+    fact_race_results[status] IN { "Finished", "Lapped" }
+)
+
+// ===== Standings =====
+Driver Rank =
+RANKX ( ALL ( dim_driver[driver_name] ), [Total Points], , DESC, DENSE )
+
+Cumulative Points =
+VAR _round = MAX ( dim_race[round] )
+RETURN
+    CALCULATE (
+        [Total Points],
+        FILTER ( ALL ( dim_race[round] ), dim_race[round] <= _round ),
+        VALUES ( dim_race[season] )
+    )
+    
