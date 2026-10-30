@@ -1,0 +1,9 @@
+// ===== Core results =====
+Total Points = SUM ( fact_race_results[points] )
+Races Entered = COUNTROWS ( fact_race_results )
+Wins = CALCULATE ( COUNTROWS ( fact_race_results ), fact_race_results[finish_position] = 1 )
+Podiums = CALCULATE ( COUNTROWS ( fact_race_results ), fact_race_results[finish_position] <= 3 )
+Poles = CALCULATE ( COUNTROWS ( fact_race_results ), fact_race_results[grid_position] = 1 )
+Win Rate % = DIVIDE ( [Wins], [Races Entered] )
+Podium Rate % = DIVIDE ( [Podiums], [Races Entered] )
+Points Per Race = DIVIDE ( [Total Points], [Races Entered] )
