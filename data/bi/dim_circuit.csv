@@ -1,0 +1,25 @@
+circuit_id,circuit_name,circuit_country,length_km,laps,base_lap_time_s,pit_loss_s,rain_probability,overtaking_ease,tyre_wear_factor
+694916,Sakhir Desert Circuit,Bahrain,5.41,56,95.0,25.6,0.02,0.5,0.76
+609597,Jeddah Corniche,Saudi Arabia,6.17,49,90.5,24.5,0.01,0.4,1.38
+658582,Melbourne Park,Australia,5.28,58,80.5,24.1,0.2,0.5,0.79
+598369,Suzuka Hills,Japan,5.81,52,91.5,25.6,0.25,0.35,0.82
+653306,Shanghai International,China,5.45,56,96.0,25.0,0.2,0.6,1.0
+322086,Miami Marina,United States,5.41,56,90.0,25.4,0.12,0.55,1.23
+823378,Imola Autodromo,Italy,4.91,62,77.0,19.6,0.18,0.3,0.92
+804314,Monaco Harbour,Monaco,3.34,91,72.5,23.2,0.15,0.05,1.01
+642717,Montreal Island,Canada,4.36,70,73.5,21.6,0.25,0.65,0.87
+167136,Barcelona Catalunya,Spain,4.66,65,78.0,20.7,0.1,0.35,1.11
+341292,Red Bull Alpine Ring,Austria,4.32,71,66.0,22.7,0.2,0.6,0.71
+842225,Silverstone Plains,United Kingdom,5.89,52,88.0,23.0,0.3,0.55,0.86
+132938,Hungaroring,Hungary,4.38,70,78.5,24.9,0.2,0.25,0.75
+349565,Spa Ardennes,Belgium,7.0,44,105.0,20.2,0.4,0.6,1.04
+665427,Zandvoort Dunes,Netherlands,4.26,72,72.0,19.1,0.2,0.25,1.35
+698782,Monza Park,Italy,5.79,53,82.0,22.6,0.1,0.7,0.87
+595948,Baku Old City,Azerbaijan,6.0,51,103.0,24.5,0.08,0.6,0.83
+201639,Marina Bay Night,Singapore,4.94,62,96.0,23.3,0.25,0.3,0.95
+531071,Austin Americas,United States,5.51,55,95.0,21.7,0.1,0.55,1.21
+806073,Mexico City Altitude,Mexico,4.3,71,78.0,23.2,0.1,0.45,1.15
+163556,Sao Paulo Interlagos,Brazil,4.31,71,70.5,21.2,0.35,0.6,0.94
+214576,Las Vegas Strip,United States,6.2,49,94.0,20.0,0.02,0.7,0.83
+570405,Lusail Desert,Qatar,5.38,57,84.0,19.1,0.01,0.5,0.83
+585100,Yas Marina,United Arab Emirates,5.28,58,86.0,20.0,0.01,0.45,1.35

@@ -1,0 +1,21 @@
+driver_id,first_name,last_name,code,driver_number,nationality,date_of_birth,constructor_id,rookie,driver_name,constructor_name
+356702,Theo,Yamada,YAM,14,Italy,1996-05-14,770487,0,Theo Yamada,Apex Dynamics
+771088,Hiro,Mercer,MER,50,Denmark,1998-06-29,770487,0,Hiro Mercer,Apex Dynamics
+905635,Marco,Santos,SAN,37,Mexico,1987-04-04,126225,1,Marco Santos,Scuderia Valtorri
+430776,Sergio,Lindqvist,LIN,60,Japan,1992-01-03,126225,0,Sergio Lindqvist,Scuderia Valtorri
+694731,Callum,Kowalski,KOW,83,United States,1993-01-21,356787,0,Callum Kowalski,Nordhaus Racing
+774079,Tomas,Ito,ITO,48,Australia,1989-03-16,356787,0,Tomas Ito,Nordhaus Racing
+688637,Mateo,Hartmann,HAR,22,Canada,1991-11-23,246316,0,Mateo Hartmann,Falcon Works
+711878,Noah,Reyes,REY,49,Japan,1994-02-13,246316,0,Noah Reyes,Falcon Works
+634277,Daniel,Larsen,LAR,47,Australia,1988-01-15,809570,0,Daniel Larsen,Kestrel GP
+260265,Felix,Duval,DUV,28,Finland,1989-08-03,809570,0,Felix Duval,Kestrel GP
+166613,Diego,Alvarez,ALV,87,Japan,1994-07-24,191161,0,Diego Alvarez,Aurora Motorsport
+363626,Oskar,Rossi,ROS,36,Canada,1986-04-05,191161,1,Oskar Rossi,Aurora Motorsport
+663054,Ethan,Okafor,OKA,91,Mexico,1991-12-26,542417,0,Ethan Okafor,Sakura Racing
+407757,Leon,Berg,BER,89,Japan,1989-07-19,542417,0,Leon Berg,Sakura Racing
+854639,Kai,Costa,COS,84,Spain,1997-03-24,131244,0,Kai Costa,Iberia Speed
+211579,Jonas,Novak,NOV,11,Thailand,2000-01-10,131244,0,Jonas Novak,Iberia Speed
+738551,Ivan,Tanaka,TAN,79,France,1989-06-06,329258,1,Ivan Tanaka,Maple Leaf Racing
+916449,Rafael,Dubois,DUB,23,United States,1997-11-23,329258,0,Rafael Dubois,Maple Leaf Racing
+612340,Luca,Castillo,CAS,70,United Kingdom,1988-07-05,629903,0,Luca Castillo,Outback GP
+972064,Max,Moretti,MOR,95,Mexico,1992-11-24,629903,0,Max Moretti,Outback GP

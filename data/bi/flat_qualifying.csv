@@ -1,0 +1,961 @@
+qualifying_id,race_id,driver_id,qualifying_position,best_lap_time_s,grid_position,grid_penalty,season,round,race_label,code,driver_name,constructor_name
+431535,947272,771088,1,92.16,1,0,2024,1,2024 R01 Sakhir Desert Circuit,MER,Hiro Mercer,Apex Dynamics
+176066,947272,774079,2,,2,0,2024,1,2024 R01 Sakhir Desert Circuit,ITO,Tomas Ito,Nordhaus Racing
+751332,947272,694731,3,92.443,3,0,2024,1,2024 R01 Sakhir Desert Circuit,KOW,Callum Kowalski,Nordhaus Racing
+204837,947272,356702,4,92.471,4,0,2024,1,2024 R01 Sakhir Desert Circuit,YAM,Theo Yamada,Apex Dynamics
+323508,947272,711878,5,92.616,5,0,2024,1,2024 R01 Sakhir Desert Circuit,REY,Noah Reyes,Falcon Works
+238890,947272,905635,6,92.774,6,0,2024,1,2024 R01 Sakhir Desert Circuit,SAN,Marco Santos,Scuderia Valtorri
+172132,947272,430776,7,92.817,7,0,2024,1,2024 R01 Sakhir Desert Circuit,LIN,Sergio Lindqvist,Scuderia Valtorri
+487477,947272,260265,8,92.93,8,0,2024,1,2024 R01 Sakhir Desert Circuit,DUV,Felix Duval,Kestrel GP
+559469,947272,634277,9,93.143,9,0,2024,1,2024 R01 Sakhir Desert Circuit,LAR,Daniel Larsen,Kestrel GP
+837715,947272,688637,10,93.21,13,1,2024,1,2024 R01 Sakhir Desert Circuit,HAR,Mateo Hartmann,Falcon Works
+946305,947272,916449,11,93.492,10,1,2024,1,2024 R01 Sakhir Desert Circuit,DUB,Rafael Dubois,Maple Leaf Racing
+108203,947272,363626,12,93.69,11,1,2024,1,2024 R01 Sakhir Desert Circuit,ROS,Oskar Rossi,Aurora Motorsport
+681542,947272,166613,13,93.703,12,1,2024,1,2024 R01 Sakhir Desert Circuit,ALV,Diego Alvarez,Aurora Motorsport
+795613,947272,663054,14,93.737,14,0,2024,1,2024 R01 Sakhir Desert Circuit,OKA,Ethan Okafor,Sakura Racing
+240814,947272,211579,15,93.809,15,0,2024,1,2024 R01 Sakhir Desert Circuit,NOV,Jonas Novak,Iberia Speed
+212235,947272,407757,16,93.862,16,0,2024,1,2024 R01 Sakhir Desert Circuit,BER,Leon Berg,Sakura Racing
+262998,947272,854639,17,93.91,17,0,2024,1,2024 R01 Sakhir Desert Circuit,COS,Kai Costa,Iberia Speed
+734210,947272,972064,18,93.918,18,0,2024,1,2024 R01 Sakhir Desert Circuit,MOR,Max Moretti,Outback GP
+459536,947272,738551,19,94.04,19,0,2024,1,2024 R01 Sakhir Desert Circuit,TAN,Ivan Tanaka,Maple Leaf Racing
+765046,947272,612340,20,94.26,20,0,2024,1,2024 R01 Sakhir Desert Circuit,CAS,Luca Castillo,Outback GP
+753064,997546,356702,1,87.801,1,0,2024,2,2024 R02 Jeddah Corniche,YAM,Theo Yamada,Apex Dynamics
+216242,997546,694731,2,87.802,2,0,2024,2,2024 R02 Jeddah Corniche,KOW,Callum Kowalski,Nordhaus Racing
+624108,997546,771088,3,87.806,3,0,2024,2,2024 R02 Jeddah Corniche,MER,Hiro Mercer,Apex Dynamics
+117233,997546,905635,4,87.934,4,0,2024,2,2024 R02 Jeddah Corniche,SAN,Marco Santos,Scuderia Valtorri
+702980,997546,774079,5,87.937,13,1,2024,2,2024 R02 Jeddah Corniche,ITO,Tomas Ito,Nordhaus Racing
+250551,997546,430776,6,88.185,5,1,2024,2,2024 R02 Jeddah Corniche,LIN,Sergio Lindqvist,Scuderia Valtorri
+101640,997546,688637,7,88.552,6,1,2024,2,2024 R02 Jeddah Corniche,HAR,Mateo Hartmann,Falcon Works
+352249,997546,260265,8,88.57,7,1,2024,2,2024 R02 Jeddah Corniche,DUV,Felix Duval,Kestrel GP
+296412,997546,711878,9,88.772,8,1,2024,2,2024 R02 Jeddah Corniche,REY,Noah Reyes,Falcon Works
+189772,997546,634277,10,88.793,11,1,2024,2,2024 R02 Jeddah Corniche,LAR,Daniel Larsen,Kestrel GP
+478120,997546,211579,11,88.852,16,1,2024,2,2024 R02 Jeddah Corniche,NOV,Jonas Novak,Iberia Speed
+651613,997546,663054,12,88.891,9,1,2024,2,2024 R02 Jeddah Corniche,OKA,Ethan Okafor,Sakura Racing
+924613,997546,363626,13,89.122,10,1,2024,2,2024 R02 Jeddah Corniche,ROS,Oskar Rossi,Aurora Motorsport
+681070,997546,738551,14,89.363,12,1,2024,2,2024 R02 Jeddah Corniche,TAN,Ivan Tanaka,Maple Leaf Racing
+592972,997546,972064,15,89.421,14,1,2024,2,2024 R02 Jeddah Corniche,MOR,Max Moretti,Outback GP
+505674,997546,407757,16,89.448,15,1,2024,2,2024 R02 Jeddah Corniche,BER,Leon Berg,Sakura Racing
+365971,997546,854639,17,89.461,17,0,2024,2,2024 R02 Jeddah Corniche,COS,Kai Costa,Iberia Speed
+474440,997546,166613,18,89.523,18,0,2024,2,2024 R02 Jeddah Corniche,ALV,Diego Alvarez,Aurora Motorsport
+461551,997546,916449,19,89.655,19,0,2024,2,2024 R02 Jeddah Corniche,DUB,Rafael Dubois,Maple Leaf Racing
+789023,997546,612340,20,90.086,20,0,2024,2,2024 R02 Jeddah Corniche,CAS,Luca Castillo,Outback GP
+676429,677057,694731,1,77.503,1,0,2024,3,2024 R03 Melbourne Park,KOW,Callum Kowalski,Nordhaus Racing
+700534,677057,771088,2,77.719,2,0,2024,3,2024 R03 Melbourne Park,MER,Hiro Mercer,Apex Dynamics
+912764,677057,356702,3,77.784,3,0,2024,3,2024 R03 Melbourne Park,YAM,Theo Yamada,Apex Dynamics
+484682,677057,774079,4,77.981,4,0,2024,3,2024 R03 Melbourne Park,ITO,Tomas Ito,Nordhaus Racing
+893547,677057,905635,5,78.076,5,0,2024,3,2024 R03 Melbourne Park,SAN,Marco Santos,Scuderia Valtorri
+853905,677057,711878,6,78.271,6,0,2024,3,2024 R03 Melbourne Park,REY,Noah Reyes,Falcon Works
+329157,677057,634277,7,78.273,7,0,2024,3,2024 R03 Melbourne Park,LAR,Daniel Larsen,Kestrel GP
+207391,677057,260265,8,78.35,8,0,2024,3,2024 R03 Melbourne Park,DUV,Felix Duval,Kestrel GP
+785424,677057,430776,9,78.485,9,0,2024,3,2024 R03 Melbourne Park,LIN,Sergio Lindqvist,Scuderia Valtorri
+412170,677057,688637,10,78.868,10,0,2024,3,2024 R03 Melbourne Park,HAR,Mateo Hartmann,Falcon Works
+133796,677057,663054,11,79.0,11,0,2024,3,2024 R03 Melbourne Park,OKA,Ethan Okafor,Sakura Racing
+465509,677057,211579,12,79.154,12,0,2024,3,2024 R03 Melbourne Park,NOV,Jonas Novak,Iberia Speed
+191208,677057,166613,13,79.219,13,0,2024,3,2024 R03 Melbourne Park,ALV,Diego Alvarez,Aurora Motorsport
+223088,677057,363626,14,79.325,14,0,2024,3,2024 R03 Melbourne Park,ROS,Oskar Rossi,Aurora Motorsport
+348455,677057,854639,15,79.45,19,1,2024,3,2024 R03 Melbourne Park,COS,Kai Costa,Iberia Speed
+873443,677057,407757,16,79.533,15,1,2024,3,2024 R03 Melbourne Park,BER,Leon Berg,Sakura Racing
+467663,677057,916449,17,79.567,16,1,2024,3,2024 R03 Melbourne Park,DUB,Rafael Dubois,Maple Leaf Racing
+739905,677057,738551,18,79.763,17,1,2024,3,2024 R03 Melbourne Park,TAN,Ivan Tanaka,Maple Leaf Racing
+274044,677057,972064,19,79.847,18,1,2024,3,2024 R03 Melbourne Park,MOR,Max Moretti,Outback GP
+922974,677057,612340,20,80.159,20,0,2024,3,2024 R03 Melbourne Park,CAS,Luca Castillo,Outback GP
+312952,202664,771088,1,95.535,1,0,2024,4,2024 R04 Suzuka Hills,MER,Hiro Mercer,Apex Dynamics
+918859,202664,694731,2,95.712,2,0,2024,4,2024 R04 Suzuka Hills,KOW,Callum Kowalski,Nordhaus Racing
+564586,202664,711878,3,95.851,3,0,2024,4,2024 R04 Suzuka Hills,REY,Noah Reyes,Falcon Works
+764575,202664,356702,4,95.855,4,0,2024,4,2024 R04 Suzuka Hills,YAM,Theo Yamada,Apex Dynamics
+779091,202664,905635,5,96.043,5,0,2024,4,2024 R04 Suzuka Hills,SAN,Marco Santos,Scuderia Valtorri
+716966,202664,774079,6,96.133,6,0,2024,4,2024 R04 Suzuka Hills,ITO,Tomas Ito,Nordhaus Racing
+732697,202664,430776,7,96.423,7,0,2024,4,2024 R04 Suzuka Hills,LIN,Sergio Lindqvist,Scuderia Valtorri
+860127,202664,688637,8,96.452,8,0,2024,4,2024 R04 Suzuka Hills,HAR,Mateo Hartmann,Falcon Works
+408467,202664,634277,9,96.679,9,0,2024,4,2024 R04 Suzuka Hills,LAR,Daniel Larsen,Kestrel GP
+815819,202664,211579,10,96.808,10,0,2024,4,2024 R04 Suzuka Hills,NOV,Jonas Novak,Iberia Speed
+282237,202664,260265,11,96.93,11,0,2024,4,2024 R04 Suzuka Hills,DUV,Felix Duval,Kestrel GP
+225151,202664,916449,12,96.96,12,0,2024,4,2024 R04 Suzuka Hills,DUB,Rafael Dubois,Maple Leaf Racing
+549323,202664,363626,13,96.975,13,0,2024,4,2024 R04 Suzuka Hills,ROS,Oskar Rossi,Aurora Motorsport
+377075,202664,663054,14,97.065,19,1,2024,4,2024 R04 Suzuka Hills,OKA,Ethan Okafor,Sakura Racing
+712353,202664,854639,15,97.082,14,1,2024,4,2024 R04 Suzuka Hills,COS,Kai Costa,Iberia Speed
+105919,202664,166613,16,97.168,15,1,2024,4,2024 R04 Suzuka Hills,ALV,Diego Alvarez,Aurora Motorsport
+844163,202664,407757,17,97.392,16,1,2024,4,2024 R04 Suzuka Hills,BER,Leon Berg,Sakura Racing
+141880,202664,972064,18,97.689,17,1,2024,4,2024 R04 Suzuka Hills,MOR,Max Moretti,Outback GP
+438302,202664,738551,19,97.696,18,1,2024,4,2024 R04 Suzuka Hills,TAN,Ivan Tanaka,Maple Leaf Racing
+911242,202664,612340,20,97.91,20,0,2024,4,2024 R04 Suzuka Hills,CAS,Luca Castillo,Outback GP
+959324,153045,771088,1,92.756,1,0,2024,5,2024 R05 Shanghai International,MER,Hiro Mercer,Apex Dynamics
+724145,153045,694731,2,93.179,2,0,2024,5,2024 R05 Shanghai International,KOW,Callum Kowalski,Nordhaus Racing
+139186,153045,774079,3,93.288,3,0,2024,5,2024 R05 Shanghai International,ITO,Tomas Ito,Nordhaus Racing
+704277,153045,356702,4,93.472,4,0,2024,5,2024 R05 Shanghai International,YAM,Theo Yamada,Apex Dynamics
+918017,153045,430776,5,93.627,5,0,2024,5,2024 R05 Shanghai International,LIN,Sergio Lindqvist,Scuderia Valtorri
+908348,153045,711878,6,93.716,6,0,2024,5,2024 R05 Shanghai International,REY,Noah Reyes,Falcon Works
+956835,153045,260265,7,93.725,7,0,2024,5,2024 R05 Shanghai International,DUV,Felix Duval,Kestrel GP
+226395,153045,688637,8,93.966,8,0,2024,5,2024 R05 Shanghai International,HAR,Mateo Hartmann,Falcon Works
+337730,153045,663054,9,94.104,9,0,2024,5,2024 R05 Shanghai International,OKA,Ethan Okafor,Sakura Racing
+990742,153045,905635,10,94.105,10,0,2024,5,2024 R05 Shanghai International,SAN,Marco Santos,Scuderia Valtorri
+111989,153045,211579,11,94.363,11,0,2024,5,2024 R05 Shanghai International,NOV,Jonas Novak,Iberia Speed
+762903,153045,166613,12,94.427,12,0,2024,5,2024 R05 Shanghai International,ALV,Diego Alvarez,Aurora Motorsport
+419588,153045,634277,13,94.44,13,0,2024,5,2024 R05 Shanghai International,LAR,Daniel Larsen,Kestrel GP
+434827,153045,363626,14,94.57,14,0,2024,5,2024 R05 Shanghai International,ROS,Oskar Rossi,Aurora Motorsport
+256846,153045,916449,15,94.826,15,0,2024,5,2024 R05 Shanghai International,DUB,Rafael Dubois,Maple Leaf Racing
+831663,153045,407757,16,94.966,16,0,2024,5,2024 R05 Shanghai International,BER,Leon Berg,Sakura Racing
+152973,153045,854639,17,95.014,17,0,2024,5,2024 R05 Shanghai International,COS,Kai Costa,Iberia Speed
+511967,153045,972064,18,95.153,18,0,2024,5,2024 R05 Shanghai International,MOR,Max Moretti,Outback GP
+889410,153045,738551,19,95.304,19,0,2024,5,2024 R05 Shanghai International,TAN,Ivan Tanaka,Maple Leaf Racing
+629247,153045,612340,20,95.364,20,0,2024,5,2024 R05 Shanghai International,CAS,Luca Castillo,Outback GP
+843793,783823,771088,1,86.852,9,1,2024,6,2024 R06 Miami Marina,MER,Hiro Mercer,Apex Dynamics
+245129,783823,774079,2,87.149,1,1,2024,6,2024 R06 Miami Marina,ITO,Tomas Ito,Nordhaus Racing
+350224,783823,694731,3,87.197,2,1,2024,6,2024 R06 Miami Marina,KOW,Callum Kowalski,Nordhaus Racing
+780566,783823,356702,4,87.411,3,1,2024,6,2024 R06 Miami Marina,YAM,Theo Yamada,Apex Dynamics
+888819,783823,905635,5,87.535,4,1,2024,6,2024 R06 Miami Marina,SAN,Marco Santos,Scuderia Valtorri
+836984,783823,430776,6,87.823,5,1,2024,6,2024 R06 Miami Marina,LIN,Sergio Lindqvist,Scuderia Valtorri
+881206,783823,688637,7,87.882,6,1,2024,6,2024 R06 Miami Marina,HAR,Mateo Hartmann,Falcon Works
+436030,783823,711878,8,87.914,7,1,2024,6,2024 R06 Miami Marina,REY,Noah Reyes,Falcon Works
+380345,783823,260265,9,88.057,8,1,2024,6,2024 R06 Miami Marina,DUV,Felix Duval,Kestrel GP
+543473,783823,634277,10,88.177,10,0,2024,6,2024 R06 Miami Marina,LAR,Daniel Larsen,Kestrel GP
+166447,783823,663054,11,88.324,11,0,2024,6,2024 R06 Miami Marina,OKA,Ethan Okafor,Sakura Racing
+574386,783823,854639,12,88.501,12,0,2024,6,2024 R06 Miami Marina,COS,Kai Costa,Iberia Speed
+652266,783823,211579,13,88.59,13,0,2024,6,2024 R06 Miami Marina,NOV,Jonas Novak,Iberia Speed
+593002,783823,166613,14,88.628,19,1,2024,6,2024 R06 Miami Marina,ALV,Diego Alvarez,Aurora Motorsport
+811257,783823,363626,15,88.742,14,1,2024,6,2024 R06 Miami Marina,ROS,Oskar Rossi,Aurora Motorsport
+406461,783823,916449,16,88.782,15,1,2024,6,2024 R06 Miami Marina,DUB,Rafael Dubois,Maple Leaf Racing
+486028,783823,407757,17,89.004,16,1,2024,6,2024 R06 Miami Marina,BER,Leon Berg,Sakura Racing
+826897,783823,972064,18,89.257,17,1,2024,6,2024 R06 Miami Marina,MOR,Max Moretti,Outback GP
+168815,783823,612340,19,89.542,18,1,2024,6,2024 R06 Miami Marina,CAS,Luca Castillo,Outback GP
+580115,783823,738551,20,89.664,20,0,2024,6,2024 R06 Miami Marina,TAN,Ivan Tanaka,Maple Leaf Racing
+539673,666847,771088,1,73.898,1,0,2024,7,2024 R07 Imola Autodromo,MER,Hiro Mercer,Apex Dynamics
+813944,666847,694731,2,74.049,2,0,2024,7,2024 R07 Imola Autodromo,KOW,Callum Kowalski,Nordhaus Racing
+419105,666847,774079,3,74.37,3,0,2024,7,2024 R07 Imola Autodromo,ITO,Tomas Ito,Nordhaus Racing
+428933,666847,356702,4,74.382,4,0,2024,7,2024 R07 Imola Autodromo,YAM,Theo Yamada,Apex Dynamics
+108286,666847,430776,5,74.662,5,0,2024,7,2024 R07 Imola Autodromo,LIN,Sergio Lindqvist,Scuderia Valtorri
+653429,666847,905635,6,74.752,6,0,2024,7,2024 R07 Imola Autodromo,SAN,Marco Santos,Scuderia Valtorri
+253995,666847,688637,7,74.838,7,0,2024,7,2024 R07 Imola Autodromo,HAR,Mateo Hartmann,Falcon Works
+567863,666847,711878,8,74.921,12,1,2024,7,2024 R07 Imola Autodromo,REY,Noah Reyes,Falcon Works
+670871,666847,260265,9,75.007,8,1,2024,7,2024 R07 Imola Autodromo,DUV,Felix Duval,Kestrel GP
+748216,666847,634277,10,75.426,9,1,2024,7,2024 R07 Imola Autodromo,LAR,Daniel Larsen,Kestrel GP
+831351,666847,663054,11,75.493,10,1,2024,7,2024 R07 Imola Autodromo,OKA,Ethan Okafor,Sakura Racing
+951266,666847,407757,12,75.499,11,1,2024,7,2024 R07 Imola Autodromo,BER,Leon Berg,Sakura Racing
+524154,666847,916449,13,75.619,13,0,2024,7,2024 R07 Imola Autodromo,DUB,Rafael Dubois,Maple Leaf Racing
+416178,666847,166613,14,75.632,14,0,2024,7,2024 R07 Imola Autodromo,ALV,Diego Alvarez,Aurora Motorsport
+663539,666847,211579,15,75.651,15,0,2024,7,2024 R07 Imola Autodromo,NOV,Jonas Novak,Iberia Speed
+860321,666847,854639,16,75.68,16,0,2024,7,2024 R07 Imola Autodromo,COS,Kai Costa,Iberia Speed
+232126,666847,738551,17,75.814,17,0,2024,7,2024 R07 Imola Autodromo,TAN,Ivan Tanaka,Maple Leaf Racing
+667059,666847,363626,18,75.899,19,1,2024,7,2024 R07 Imola Autodromo,ROS,Oskar Rossi,Aurora Motorsport
+197328,666847,972064,19,76.454,18,1,2024,7,2024 R07 Imola Autodromo,MOR,Max Moretti,Outback GP
+427420,666847,612340,20,76.467,20,0,2024,7,2024 R07 Imola Autodromo,CAS,Luca Castillo,Outback GP
+994781,976638,771088,1,69.46,1,0,2024,8,2024 R08 Monaco Harbour,MER,Hiro Mercer,Apex Dynamics
+498663,976638,694731,2,69.549,2,0,2024,8,2024 R08 Monaco Harbour,KOW,Callum Kowalski,Nordhaus Racing
+101760,976638,774079,3,69.711,3,0,2024,8,2024 R08 Monaco Harbour,ITO,Tomas Ito,Nordhaus Racing
+718722,976638,356702,4,69.874,4,0,2024,8,2024 R08 Monaco Harbour,YAM,Theo Yamada,Apex Dynamics
+988268,976638,905635,5,70.148,5,0,2024,8,2024 R08 Monaco Harbour,SAN,Marco Santos,Scuderia Valtorri
+544280,976638,430776,6,70.249,6,0,2024,8,2024 R08 Monaco Harbour,LIN,Sergio Lindqvist,Scuderia Valtorri
+482755,976638,260265,7,70.543,7,0,2024,8,2024 R08 Monaco Harbour,DUV,Felix Duval,Kestrel GP
+935259,976638,634277,8,70.68,8,0,2024,8,2024 R08 Monaco Harbour,LAR,Daniel Larsen,Kestrel GP
+795984,976638,688637,9,70.685,9,0,2024,8,2024 R08 Monaco Harbour,HAR,Mateo Hartmann,Falcon Works
+332932,976638,211579,10,70.69,10,0,2024,8,2024 R08 Monaco Harbour,NOV,Jonas Novak,Iberia Speed
+109634,976638,663054,11,70.744,11,0,2024,8,2024 R08 Monaco Harbour,OKA,Ethan Okafor,Sakura Racing
+582977,976638,711878,12,70.83,12,0,2024,8,2024 R08 Monaco Harbour,REY,Noah Reyes,Falcon Works
+955793,976638,166613,13,70.899,13,0,2024,8,2024 R08 Monaco Harbour,ALV,Diego Alvarez,Aurora Motorsport
+977885,976638,407757,14,71.15,14,0,2024,8,2024 R08 Monaco Harbour,BER,Leon Berg,Sakura Racing
+813011,976638,916449,15,71.187,15,0,2024,8,2024 R08 Monaco Harbour,DUB,Rafael Dubois,Maple Leaf Racing
+730682,976638,972064,16,71.204,16,0,2024,8,2024 R08 Monaco Harbour,MOR,Max Moretti,Outback GP
+883349,976638,363626,17,71.29,17,0,2024,8,2024 R08 Monaco Harbour,ROS,Oskar Rossi,Aurora Motorsport
+940215,976638,854639,18,71.316,18,0,2024,8,2024 R08 Monaco Harbour,COS,Kai Costa,Iberia Speed
+136012,976638,738551,19,71.901,19,0,2024,8,2024 R08 Monaco Harbour,TAN,Ivan Tanaka,Maple Leaf Racing
+423896,976638,612340,20,71.905,20,0,2024,8,2024 R08 Monaco Harbour,CAS,Luca Castillo,Outback GP
+847841,115474,771088,1,77.316,1,0,2024,9,2024 R09 Montreal Island,MER,Hiro Mercer,Apex Dynamics
+868661,115474,694731,2,77.593,2,0,2024,9,2024 R09 Montreal Island,KOW,Callum Kowalski,Nordhaus Racing
+713652,115474,905635,3,77.859,3,0,2024,9,2024 R09 Montreal Island,SAN,Marco Santos,Scuderia Valtorri
+404928,115474,774079,4,77.919,4,0,2024,9,2024 R09 Montreal Island,ITO,Tomas Ito,Nordhaus Racing
+596162,115474,356702,5,77.941,5,0,2024,9,2024 R09 Montreal Island,YAM,Theo Yamada,Apex Dynamics
+360810,115474,430776,6,78.319,6,0,2024,9,2024 R09 Montreal Island,LIN,Sergio Lindqvist,Scuderia Valtorri
+767989,115474,260265,7,78.517,7,0,2024,9,2024 R09 Montreal Island,DUV,Felix Duval,Kestrel GP
+518500,115474,688637,8,78.644,8,0,2024,9,2024 R09 Montreal Island,HAR,Mateo Hartmann,Falcon Works
+202905,115474,634277,9,78.675,9,0,2024,9,2024 R09 Montreal Island,LAR,Daniel Larsen,Kestrel GP
+416693,115474,711878,10,78.759,10,0,2024,9,2024 R09 Montreal Island,REY,Noah Reyes,Falcon Works
+281720,115474,166613,11,78.836,17,1,2024,9,2024 R09 Montreal Island,ALV,Diego Alvarez,Aurora Motorsport
+811902,115474,916449,12,78.951,11,1,2024,9,2024 R09 Montreal Island,DUB,Rafael Dubois,Maple Leaf Racing
+943453,115474,211579,13,79.164,19,1,2024,9,2024 R09 Montreal Island,NOV,Jonas Novak,Iberia Speed
+816514,115474,663054,14,79.251,12,1,2024,9,2024 R09 Montreal Island,OKA,Ethan Okafor,Sakura Racing
+362165,115474,363626,15,79.264,13,1,2024,9,2024 R09 Montreal Island,ROS,Oskar Rossi,Aurora Motorsport
+681208,115474,407757,16,79.533,14,1,2024,9,2024 R09 Montreal Island,BER,Leon Berg,Sakura Racing
+419811,115474,738551,17,79.588,15,1,2024,9,2024 R09 Montreal Island,TAN,Ivan Tanaka,Maple Leaf Racing
+694191,115474,612340,18,79.617,16,1,2024,9,2024 R09 Montreal Island,CAS,Luca Castillo,Outback GP
+583555,115474,854639,19,79.677,18,1,2024,9,2024 R09 Montreal Island,COS,Kai Costa,Iberia Speed
+494228,115474,972064,20,79.914,20,0,2024,9,2024 R09 Montreal Island,MOR,Max Moretti,Outback GP
+682324,197793,694731,1,75.015,1,0,2024,10,2024 R10 Barcelona Catalunya,KOW,Callum Kowalski,Nordhaus Racing
+492437,197793,771088,2,,2,0,2024,10,2024 R10 Barcelona Catalunya,MER,Hiro Mercer,Apex Dynamics
+267069,197793,356702,3,75.267,3,0,2024,10,2024 R10 Barcelona Catalunya,YAM,Theo Yamada,Apex Dynamics
+593670,197793,774079,4,75.438,4,0,2024,10,2024 R10 Barcelona Catalunya,ITO,Tomas Ito,Nordhaus Racing
+513188,197793,905635,5,75.538,5,0,2024,10,2024 R10 Barcelona Catalunya,SAN,Marco Santos,Scuderia Valtorri
+595248,197793,430776,6,75.75,6,0,2024,10,2024 R10 Barcelona Catalunya,LIN,Sergio Lindqvist,Scuderia Valtorri
+971730,197793,688637,7,75.785,7,0,2024,10,2024 R10 Barcelona Catalunya,HAR,Mateo Hartmann,Falcon Works
+354533,197793,260265,8,75.796,8,0,2024,10,2024 R10 Barcelona Catalunya,DUV,Felix Duval,Kestrel GP
+200479,197793,634277,9,76.296,9,0,2024,10,2024 R10 Barcelona Catalunya,LAR,Daniel Larsen,Kestrel GP
+433821,197793,711878,10,76.312,10,0,2024,10,2024 R10 Barcelona Catalunya,REY,Noah Reyes,Falcon Works
+240012,197793,916449,11,76.413,11,0,2024,10,2024 R10 Barcelona Catalunya,DUB,Rafael Dubois,Maple Leaf Racing
+443001,197793,166613,12,76.465,16,1,2024,10,2024 R10 Barcelona Catalunya,ALV,Diego Alvarez,Aurora Motorsport
+959613,197793,663054,13,76.601,12,1,2024,10,2024 R10 Barcelona Catalunya,OKA,Ethan Okafor,Sakura Racing
+545217,197793,211579,14,76.621,13,1,2024,10,2024 R10 Barcelona Catalunya,NOV,Jonas Novak,Iberia Speed
+660060,197793,854639,15,76.717,14,1,2024,10,2024 R10 Barcelona Catalunya,COS,Kai Costa,Iberia Speed
+612029,197793,738551,16,76.888,15,1,2024,10,2024 R10 Barcelona Catalunya,TAN,Ivan Tanaka,Maple Leaf Racing
+714915,197793,407757,17,76.958,17,0,2024,10,2024 R10 Barcelona Catalunya,BER,Leon Berg,Sakura Racing
+738081,197793,363626,18,77.036,18,0,2024,10,2024 R10 Barcelona Catalunya,ROS,Oskar Rossi,Aurora Motorsport
+346580,197793,612340,19,77.327,19,0,2024,10,2024 R10 Barcelona Catalunya,CAS,Luca Castillo,Outback GP
+456359,197793,972064,20,77.511,20,0,2024,10,2024 R10 Barcelona Catalunya,MOR,Max Moretti,Outback GP
+213010,890170,771088,1,62.833,1,0,2024,11,2024 R11 Red Bull Alpine Ring,MER,Hiro Mercer,Apex Dynamics
+289180,890170,356702,2,63.07,2,0,2024,11,2024 R11 Red Bull Alpine Ring,YAM,Theo Yamada,Apex Dynamics
+275516,890170,905635,3,63.202,3,0,2024,11,2024 R11 Red Bull Alpine Ring,SAN,Marco Santos,Scuderia Valtorri
+621824,890170,694731,4,63.426,4,0,2024,11,2024 R11 Red Bull Alpine Ring,KOW,Callum Kowalski,Nordhaus Racing
+262794,890170,430776,5,63.664,5,0,2024,11,2024 R11 Red Bull Alpine Ring,LIN,Sergio Lindqvist,Scuderia Valtorri
+453786,890170,774079,6,63.693,6,0,2024,11,2024 R11 Red Bull Alpine Ring,ITO,Tomas Ito,Nordhaus Racing
+790474,890170,260265,7,63.909,7,0,2024,11,2024 R11 Red Bull Alpine Ring,DUV,Felix Duval,Kestrel GP
+507734,890170,688637,8,63.968,8,0,2024,11,2024 R11 Red Bull Alpine Ring,HAR,Mateo Hartmann,Falcon Works
+222034,890170,166613,9,64.072,9,0,2024,11,2024 R11 Red Bull Alpine Ring,ALV,Diego Alvarez,Aurora Motorsport
+168643,890170,711878,10,64.177,10,0,2024,11,2024 R11 Red Bull Alpine Ring,REY,Noah Reyes,Falcon Works
+483457,890170,634277,11,64.282,11,0,2024,11,2024 R11 Red Bull Alpine Ring,LAR,Daniel Larsen,Kestrel GP
+957300,890170,211579,12,64.365,12,0,2024,11,2024 R11 Red Bull Alpine Ring,NOV,Jonas Novak,Iberia Speed
+932625,890170,663054,13,64.428,13,0,2024,11,2024 R11 Red Bull Alpine Ring,OKA,Ethan Okafor,Sakura Racing
+475727,890170,363626,14,64.815,16,1,2024,11,2024 R11 Red Bull Alpine Ring,ROS,Oskar Rossi,Aurora Motorsport
+603760,890170,916449,15,64.857,14,1,2024,11,2024 R11 Red Bull Alpine Ring,DUB,Rafael Dubois,Maple Leaf Racing
+791703,890170,854639,16,64.873,15,1,2024,11,2024 R11 Red Bull Alpine Ring,COS,Kai Costa,Iberia Speed
+979820,890170,972064,17,65.057,17,0,2024,11,2024 R11 Red Bull Alpine Ring,MOR,Max Moretti,Outback GP
+988955,890170,407757,18,65.157,18,0,2024,11,2024 R11 Red Bull Alpine Ring,BER,Leon Berg,Sakura Racing
+795743,890170,738551,19,65.332,19,0,2024,11,2024 R11 Red Bull Alpine Ring,TAN,Ivan Tanaka,Maple Leaf Racing
+652953,890170,612340,20,65.637,20,0,2024,11,2024 R11 Red Bull Alpine Ring,CAS,Luca Castillo,Outback GP
+379692,989921,771088,1,91.712,1,0,2024,12,2024 R12 Silverstone Plains,MER,Hiro Mercer,Apex Dynamics
+470725,989921,694731,2,92.078,2,0,2024,12,2024 R12 Silverstone Plains,KOW,Callum Kowalski,Nordhaus Racing
+259072,989921,356702,3,92.119,3,0,2024,12,2024 R12 Silverstone Plains,YAM,Theo Yamada,Apex Dynamics
+712494,989921,774079,4,92.333,7,1,2024,12,2024 R12 Silverstone Plains,ITO,Tomas Ito,Nordhaus Racing
+330552,989921,905635,5,92.717,4,1,2024,12,2024 R12 Silverstone Plains,SAN,Marco Santos,Scuderia Valtorri
+965200,989921,711878,6,92.769,5,1,2024,12,2024 R12 Silverstone Plains,REY,Noah Reyes,Falcon Works
+668025,989921,688637,7,92.822,6,1,2024,12,2024 R12 Silverstone Plains,HAR,Mateo Hartmann,Falcon Works
+268187,989921,260265,8,93.042,8,0,2024,12,2024 R12 Silverstone Plains,DUV,Felix Duval,Kestrel GP
+876424,989921,430776,9,93.054,9,0,2024,12,2024 R12 Silverstone Plains,LIN,Sergio Lindqvist,Scuderia Valtorri
+382831,989921,634277,10,93.392,10,0,2024,12,2024 R12 Silverstone Plains,LAR,Daniel Larsen,Kestrel GP
+230614,989921,916449,11,93.439,11,0,2024,12,2024 R12 Silverstone Plains,DUB,Rafael Dubois,Maple Leaf Racing
+986447,989921,166613,12,93.507,12,0,2024,12,2024 R12 Silverstone Plains,ALV,Diego Alvarez,Aurora Motorsport
+353781,989921,363626,13,93.655,13,0,2024,12,2024 R12 Silverstone Plains,ROS,Oskar Rossi,Aurora Motorsport
+273688,989921,854639,14,93.762,19,1,2024,12,2024 R12 Silverstone Plains,COS,Kai Costa,Iberia Speed
+331044,989921,663054,15,93.803,14,1,2024,12,2024 R12 Silverstone Plains,OKA,Ethan Okafor,Sakura Racing
+103322,989921,211579,16,93.824,15,1,2024,12,2024 R12 Silverstone Plains,NOV,Jonas Novak,Iberia Speed
+423479,989921,407757,17,93.959,16,1,2024,12,2024 R12 Silverstone Plains,BER,Leon Berg,Sakura Racing
+728848,989921,972064,18,94.099,17,1,2024,12,2024 R12 Silverstone Plains,MOR,Max Moretti,Outback GP
+567838,989921,612340,19,94.311,18,1,2024,12,2024 R12 Silverstone Plains,CAS,Luca Castillo,Outback GP
+205242,989921,738551,20,94.403,20,0,2024,12,2024 R12 Silverstone Plains,TAN,Ivan Tanaka,Maple Leaf Racing
+575062,347861,771088,1,82.255,8,1,2024,13,2024 R13 Hungaroring,MER,Hiro Mercer,Apex Dynamics
+723136,347861,694731,2,82.448,5,1,2024,13,2024 R13 Hungaroring,KOW,Callum Kowalski,Nordhaus Racing
+694850,347861,774079,3,82.821,1,1,2024,13,2024 R13 Hungaroring,ITO,Tomas Ito,Nordhaus Racing
+570872,347861,430776,4,82.878,2,1,2024,13,2024 R13 Hungaroring,LIN,Sergio Lindqvist,Scuderia Valtorri
+740626,347861,356702,5,82.954,3,1,2024,13,2024 R13 Hungaroring,YAM,Theo Yamada,Apex Dynamics
+566695,347861,905635,6,82.984,4,1,2024,13,2024 R13 Hungaroring,SAN,Marco Santos,Scuderia Valtorri
+372869,347861,688637,7,83.222,6,1,2024,13,2024 R13 Hungaroring,HAR,Mateo Hartmann,Falcon Works
+869040,347861,711878,8,83.253,7,1,2024,13,2024 R13 Hungaroring,REY,Noah Reyes,Falcon Works
+976214,347861,260265,9,83.451,9,0,2024,13,2024 R13 Hungaroring,DUV,Felix Duval,Kestrel GP
+525529,347861,363626,10,83.796,10,0,2024,13,2024 R13 Hungaroring,ROS,Oskar Rossi,Aurora Motorsport
+910085,347861,634277,11,83.893,11,0,2024,13,2024 R13 Hungaroring,LAR,Daniel Larsen,Kestrel GP
+195446,347861,211579,12,83.936,12,0,2024,13,2024 R13 Hungaroring,NOV,Jonas Novak,Iberia Speed
+220950,347861,407757,13,83.965,13,0,2024,13,2024 R13 Hungaroring,BER,Leon Berg,Sakura Racing
+232937,347861,916449,14,84.099,14,0,2024,13,2024 R13 Hungaroring,DUB,Rafael Dubois,Maple Leaf Racing
+340897,347861,663054,15,84.107,15,0,2024,13,2024 R13 Hungaroring,OKA,Ethan Okafor,Sakura Racing
+659460,347861,166613,16,84.177,16,0,2024,13,2024 R13 Hungaroring,ALV,Diego Alvarez,Aurora Motorsport
+218661,347861,854639,17,84.222,17,0,2024,13,2024 R13 Hungaroring,COS,Kai Costa,Iberia Speed
+513775,347861,972064,18,84.537,18,0,2024,13,2024 R13 Hungaroring,MOR,Max Moretti,Outback GP
+708868,347861,612340,19,84.993,19,0,2024,13,2024 R13 Hungaroring,CAS,Luca Castillo,Outback GP
+956376,347861,738551,20,85.043,20,0,2024,13,2024 R13 Hungaroring,TAN,Ivan Tanaka,Maple Leaf Racing
+186662,274389,771088,1,101.775,1,0,2024,14,2024 R14 Spa Ardennes,MER,Hiro Mercer,Apex Dynamics
+722314,274389,694731,2,101.978,2,0,2024,14,2024 R14 Spa Ardennes,KOW,Callum Kowalski,Nordhaus Racing
+738265,274389,905635,3,102.14,3,0,2024,14,2024 R14 Spa Ardennes,SAN,Marco Santos,Scuderia Valtorri
+252236,274389,774079,4,102.353,4,0,2024,14,2024 R14 Spa Ardennes,ITO,Tomas Ito,Nordhaus Racing
+764053,274389,356702,5,102.495,9,1,2024,14,2024 R14 Spa Ardennes,YAM,Theo Yamada,Apex Dynamics
+259160,274389,688637,6,102.654,5,1,2024,14,2024 R14 Spa Ardennes,HAR,Mateo Hartmann,Falcon Works
+265050,274389,430776,7,102.745,6,1,2024,14,2024 R14 Spa Ardennes,LIN,Sergio Lindqvist,Scuderia Valtorri
+820147,274389,711878,8,102.865,7,1,2024,14,2024 R14 Spa Ardennes,REY,Noah Reyes,Falcon Works
+582706,274389,260265,9,102.954,8,1,2024,14,2024 R14 Spa Ardennes,DUV,Felix Duval,Kestrel GP
+889221,274389,166613,10,103.06,10,0,2024,14,2024 R14 Spa Ardennes,ALV,Diego Alvarez,Aurora Motorsport
+156102,274389,916449,11,103.292,11,0,2024,14,2024 R14 Spa Ardennes,DUB,Rafael Dubois,Maple Leaf Racing
+908847,274389,634277,12,103.512,12,0,2024,14,2024 R14 Spa Ardennes,LAR,Daniel Larsen,Kestrel GP
+193571,274389,407757,13,103.583,13,0,2024,14,2024 R14 Spa Ardennes,BER,Leon Berg,Sakura Racing
+501166,274389,663054,14,103.6,14,0,2024,14,2024 R14 Spa Ardennes,OKA,Ethan Okafor,Sakura Racing
+235793,274389,363626,15,103.663,15,0,2024,14,2024 R14 Spa Ardennes,ROS,Oskar Rossi,Aurora Motorsport
+143884,274389,211579,16,103.742,16,0,2024,14,2024 R14 Spa Ardennes,NOV,Jonas Novak,Iberia Speed
+856726,274389,972064,17,103.877,19,1,2024,14,2024 R14 Spa Ardennes,MOR,Max Moretti,Outback GP
+242592,274389,612340,18,103.968,17,1,2024,14,2024 R14 Spa Ardennes,CAS,Luca Castillo,Outback GP
+793861,274389,854639,19,104.017,18,1,2024,14,2024 R14 Spa Ardennes,COS,Kai Costa,Iberia Speed
+654859,274389,738551,20,104.144,20,0,2024,14,2024 R14 Spa Ardennes,TAN,Ivan Tanaka,Maple Leaf Racing
+120494,526156,771088,1,68.666,1,0,2024,15,2024 R15 Zandvoort Dunes,MER,Hiro Mercer,Apex Dynamics
+148315,526156,774079,2,69.243,2,0,2024,15,2024 R15 Zandvoort Dunes,ITO,Tomas Ito,Nordhaus Racing
+800912,526156,694731,3,69.268,3,0,2024,15,2024 R15 Zandvoort Dunes,KOW,Callum Kowalski,Nordhaus Racing
+381723,526156,356702,4,69.498,4,0,2024,15,2024 R15 Zandvoort Dunes,YAM,Theo Yamada,Apex Dynamics
+113675,526156,905635,5,69.595,5,0,2024,15,2024 R15 Zandvoort Dunes,SAN,Marco Santos,Scuderia Valtorri
+512077,526156,430776,6,69.601,6,0,2024,15,2024 R15 Zandvoort Dunes,LIN,Sergio Lindqvist,Scuderia Valtorri
+413619,526156,711878,7,69.877,7,0,2024,15,2024 R15 Zandvoort Dunes,REY,Noah Reyes,Falcon Works
+843397,526156,260265,8,69.998,8,0,2024,15,2024 R15 Zandvoort Dunes,DUV,Felix Duval,Kestrel GP
+981562,526156,688637,9,70.038,9,0,2024,15,2024 R15 Zandvoort Dunes,HAR,Mateo Hartmann,Falcon Works
+335715,526156,916449,10,70.298,10,0,2024,15,2024 R15 Zandvoort Dunes,DUB,Rafael Dubois,Maple Leaf Racing
+101662,526156,634277,11,70.399,13,1,2024,15,2024 R15 Zandvoort Dunes,LAR,Daniel Larsen,Kestrel GP
+667965,526156,166613,12,70.508,11,1,2024,15,2024 R15 Zandvoort Dunes,ALV,Diego Alvarez,Aurora Motorsport
+518196,526156,211579,13,70.542,12,1,2024,15,2024 R15 Zandvoort Dunes,NOV,Jonas Novak,Iberia Speed
+720213,526156,363626,14,70.543,14,0,2024,15,2024 R15 Zandvoort Dunes,ROS,Oskar Rossi,Aurora Motorsport
+748663,526156,407757,15,70.74,19,1,2024,15,2024 R15 Zandvoort Dunes,BER,Leon Berg,Sakura Racing
+648187,526156,738551,16,70.87,15,1,2024,15,2024 R15 Zandvoort Dunes,TAN,Ivan Tanaka,Maple Leaf Racing
+485125,526156,663054,17,71.021,16,1,2024,15,2024 R15 Zandvoort Dunes,OKA,Ethan Okafor,Sakura Racing
+897136,526156,854639,18,71.163,17,1,2024,15,2024 R15 Zandvoort Dunes,COS,Kai Costa,Iberia Speed
+540077,526156,972064,19,71.217,18,1,2024,15,2024 R15 Zandvoort Dunes,MOR,Max Moretti,Outback GP
+408492,526156,612340,20,71.412,20,0,2024,15,2024 R15 Zandvoort Dunes,CAS,Luca Castillo,Outback GP
+943807,609231,771088,1,86.041,1,0,2024,16,2024 R16 Monza Park,MER,Hiro Mercer,Apex Dynamics
+778044,609231,774079,2,86.209,2,0,2024,16,2024 R16 Monza Park,ITO,Tomas Ito,Nordhaus Racing
+610966,609231,694731,3,86.268,3,0,2024,16,2024 R16 Monza Park,KOW,Callum Kowalski,Nordhaus Racing
+399941,609231,430776,4,86.545,4,0,2024,16,2024 R16 Monza Park,LIN,Sergio Lindqvist,Scuderia Valtorri
+376295,609231,905635,5,86.658,5,0,2024,16,2024 R16 Monza Park,SAN,Marco Santos,Scuderia Valtorri
+139363,609231,356702,6,86.756,6,0,2024,16,2024 R16 Monza Park,YAM,Theo Yamada,Apex Dynamics
+982347,609231,688637,7,86.836,7,0,2024,16,2024 R16 Monza Park,HAR,Mateo Hartmann,Falcon Works
+262703,609231,711878,8,86.979,8,0,2024,16,2024 R16 Monza Park,REY,Noah Reyes,Falcon Works
+932505,609231,260265,9,87.054,9,0,2024,16,2024 R16 Monza Park,DUV,Felix Duval,Kestrel GP
+484421,609231,916449,10,87.369,10,0,2024,16,2024 R16 Monza Park,DUB,Rafael Dubois,Maple Leaf Racing
+271305,609231,211579,11,87.377,11,0,2024,16,2024 R16 Monza Park,NOV,Jonas Novak,Iberia Speed
+686242,609231,634277,12,87.383,12,0,2024,16,2024 R16 Monza Park,LAR,Daniel Larsen,Kestrel GP
+393948,609231,663054,13,87.644,19,1,2024,16,2024 R16 Monza Park,OKA,Ethan Okafor,Sakura Racing
+454775,609231,363626,14,87.705,13,1,2024,16,2024 R16 Monza Park,ROS,Oskar Rossi,Aurora Motorsport
+888116,609231,166613,15,87.823,14,1,2024,16,2024 R16 Monza Park,ALV,Diego Alvarez,Aurora Motorsport
+890512,609231,407757,16,87.996,15,1,2024,16,2024 R16 Monza Park,BER,Leon Berg,Sakura Racing
+267230,609231,612340,17,88.0,16,1,2024,16,2024 R16 Monza Park,CAS,Luca Castillo,Outback GP
+239960,609231,854639,18,88.153,17,1,2024,16,2024 R16 Monza Park,COS,Kai Costa,Iberia Speed
+260765,609231,972064,19,88.169,18,1,2024,16,2024 R16 Monza Park,MOR,Max Moretti,Outback GP
+345128,609231,738551,20,,20,0,2024,16,2024 R16 Monza Park,TAN,Ivan Tanaka,Maple Leaf Racing
+163959,604740,771088,1,99.829,1,0,2024,17,2024 R17 Baku Old City,MER,Hiro Mercer,Apex Dynamics
+413877,604740,356702,2,100.228,2,0,2024,17,2024 R17 Baku Old City,YAM,Theo Yamada,Apex Dynamics
+583433,604740,694731,3,100.335,3,0,2024,17,2024 R17 Baku Old City,KOW,Callum Kowalski,Nordhaus Racing
+173063,604740,774079,4,100.492,4,0,2024,17,2024 R17 Baku Old City,ITO,Tomas Ito,Nordhaus Racing
+831025,604740,905635,5,100.585,5,0,2024,17,2024 R17 Baku Old City,SAN,Marco Santos,Scuderia Valtorri
+656720,604740,688637,6,100.629,6,0,2024,17,2024 R17 Baku Old City,HAR,Mateo Hartmann,Falcon Works
+497530,604740,711878,7,100.75,7,0,2024,17,2024 R17 Baku Old City,REY,Noah Reyes,Falcon Works
+246654,604740,430776,8,100.952,8,0,2024,17,2024 R17 Baku Old City,LIN,Sergio Lindqvist,Scuderia Valtorri
+182696,604740,260265,9,101.18,9,0,2024,17,2024 R17 Baku Old City,DUV,Felix Duval,Kestrel GP
+465616,604740,634277,10,101.219,10,0,2024,17,2024 R17 Baku Old City,LAR,Daniel Larsen,Kestrel GP
+728709,604740,916449,11,101.316,11,0,2024,17,2024 R17 Baku Old City,DUB,Rafael Dubois,Maple Leaf Racing
+357263,604740,211579,12,101.437,12,0,2024,17,2024 R17 Baku Old City,NOV,Jonas Novak,Iberia Speed
+353749,604740,363626,13,101.552,13,0,2024,17,2024 R17 Baku Old City,ROS,Oskar Rossi,Aurora Motorsport
+163285,604740,663054,14,101.626,14,0,2024,17,2024 R17 Baku Old City,OKA,Ethan Okafor,Sakura Racing
+757070,604740,166613,15,101.745,15,0,2024,17,2024 R17 Baku Old City,ALV,Diego Alvarez,Aurora Motorsport
+437386,604740,738551,16,101.9,16,0,2024,17,2024 R17 Baku Old City,TAN,Ivan Tanaka,Maple Leaf Racing
+887769,604740,854639,17,102.102,17,0,2024,17,2024 R17 Baku Old City,COS,Kai Costa,Iberia Speed
+551099,604740,407757,18,102.21,18,0,2024,17,2024 R17 Baku Old City,BER,Leon Berg,Sakura Racing
+763611,604740,972064,19,102.221,19,0,2024,17,2024 R17 Baku Old City,MOR,Max Moretti,Outback GP
+572239,604740,612340,20,102.414,20,0,2024,17,2024 R17 Baku Old City,CAS,Luca Castillo,Outback GP
+523780,324130,771088,1,99.776,1,0,2024,18,2024 R18 Marina Bay Night,MER,Hiro Mercer,Apex Dynamics
+343992,324130,694731,2,100.4,6,1,2024,18,2024 R18 Marina Bay Night,KOW,Callum Kowalski,Nordhaus Racing
+284257,324130,774079,3,100.421,2,1,2024,18,2024 R18 Marina Bay Night,ITO,Tomas Ito,Nordhaus Racing
+976133,324130,356702,4,100.475,3,1,2024,18,2024 R18 Marina Bay Night,YAM,Theo Yamada,Apex Dynamics
+706690,324130,905635,5,,4,1,2024,18,2024 R18 Marina Bay Night,SAN,Marco Santos,Scuderia Valtorri
+712907,324130,430776,6,100.63,5,1,2024,18,2024 R18 Marina Bay Night,LIN,Sergio Lindqvist,Scuderia Valtorri
+287874,324130,688637,7,100.754,7,0,2024,18,2024 R18 Marina Bay Night,HAR,Mateo Hartmann,Falcon Works
+288935,324130,711878,8,101.036,8,0,2024,18,2024 R18 Marina Bay Night,REY,Noah Reyes,Falcon Works
+696261,324130,634277,9,101.325,9,0,2024,18,2024 R18 Marina Bay Night,LAR,Daniel Larsen,Kestrel GP
+114590,324130,260265,10,101.338,10,0,2024,18,2024 R18 Marina Bay Night,DUV,Felix Duval,Kestrel GP
+379069,324130,211579,11,101.471,11,0,2024,18,2024 R18 Marina Bay Night,NOV,Jonas Novak,Iberia Speed
+516830,324130,916449,12,101.637,12,0,2024,18,2024 R18 Marina Bay Night,DUB,Rafael Dubois,Maple Leaf Racing
+969086,324130,663054,13,101.637,13,0,2024,18,2024 R18 Marina Bay Night,OKA,Ethan Okafor,Sakura Racing
+542816,324130,166613,14,101.656,14,0,2024,18,2024 R18 Marina Bay Night,ALV,Diego Alvarez,Aurora Motorsport
+174923,324130,363626,15,101.704,19,1,2024,18,2024 R18 Marina Bay Night,ROS,Oskar Rossi,Aurora Motorsport
+896365,324130,854639,16,,15,1,2024,18,2024 R18 Marina Bay Night,COS,Kai Costa,Iberia Speed
+326531,324130,738551,17,101.888,16,1,2024,18,2024 R18 Marina Bay Night,TAN,Ivan Tanaka,Maple Leaf Racing
+184289,324130,407757,18,101.899,17,1,2024,18,2024 R18 Marina Bay Night,BER,Leon Berg,Sakura Racing
+303442,324130,972064,19,102.158,18,1,2024,18,2024 R18 Marina Bay Night,MOR,Max Moretti,Outback GP
+916350,324130,612340,20,102.403,20,0,2024,18,2024 R18 Marina Bay Night,CAS,Luca Castillo,Outback GP
+222655,520521,771088,1,98.777,1,0,2024,19,2024 R19 Austin Americas,MER,Hiro Mercer,Apex Dynamics
+149168,520521,774079,2,99.153,2,0,2024,19,2024 R19 Austin Americas,ITO,Tomas Ito,Nordhaus Racing
+961151,520521,694731,3,99.395,3,0,2024,19,2024 R19 Austin Americas,KOW,Callum Kowalski,Nordhaus Racing
+153035,520521,905635,4,99.572,4,0,2024,19,2024 R19 Austin Americas,SAN,Marco Santos,Scuderia Valtorri
+716386,520521,430776,5,99.689,5,0,2024,19,2024 R19 Austin Americas,LIN,Sergio Lindqvist,Scuderia Valtorri
+969138,520521,356702,6,99.721,8,1,2024,19,2024 R19 Austin Americas,YAM,Theo Yamada,Apex Dynamics
+851644,520521,711878,7,100.036,6,1,2024,19,2024 R19 Austin Americas,REY,Noah Reyes,Falcon Works
+426902,520521,260265,8,100.066,7,1,2024,19,2024 R19 Austin Americas,DUV,Felix Duval,Kestrel GP
+389712,520521,688637,9,100.067,16,1,2024,19,2024 R19 Austin Americas,HAR,Mateo Hartmann,Falcon Works
+898112,520521,211579,10,100.291,9,1,2024,19,2024 R19 Austin Americas,NOV,Jonas Novak,Iberia Speed
+926762,520521,634277,11,100.535,10,1,2024,19,2024 R19 Austin Americas,LAR,Daniel Larsen,Kestrel GP
+256878,520521,166613,12,100.627,11,1,2024,19,2024 R19 Austin Americas,ALV,Diego Alvarez,Aurora Motorsport
+943340,520521,854639,13,100.631,12,1,2024,19,2024 R19 Austin Americas,COS,Kai Costa,Iberia Speed
+814051,520521,407757,14,100.651,13,1,2024,19,2024 R19 Austin Americas,BER,Leon Berg,Sakura Racing
+501205,520521,363626,15,100.734,14,1,2024,19,2024 R19 Austin Americas,ROS,Oskar Rossi,Aurora Motorsport
+268106,520521,663054,16,100.87,15,1,2024,19,2024 R19 Austin Americas,OKA,Ethan Okafor,Sakura Racing
+874284,520521,916449,17,100.881,17,0,2024,19,2024 R19 Austin Americas,DUB,Rafael Dubois,Maple Leaf Racing
+350135,520521,738551,18,100.999,18,0,2024,19,2024 R19 Austin Americas,TAN,Ivan Tanaka,Maple Leaf Racing
+960637,520521,972064,19,101.081,19,0,2024,19,2024 R19 Austin Americas,MOR,Max Moretti,Outback GP
+518738,520521,612340,20,101.265,20,0,2024,19,2024 R19 Austin Americas,CAS,Luca Castillo,Outback GP
+131006,161483,694731,1,75.286,1,0,2024,20,2024 R20 Mexico City Altitude,KOW,Callum Kowalski,Nordhaus Racing
+777180,161483,356702,2,75.443,2,0,2024,20,2024 R20 Mexico City Altitude,YAM,Theo Yamada,Apex Dynamics
+841427,161483,771088,3,75.493,3,0,2024,20,2024 R20 Mexico City Altitude,MER,Hiro Mercer,Apex Dynamics
+222237,161483,774079,4,75.505,4,0,2024,20,2024 R20 Mexico City Altitude,ITO,Tomas Ito,Nordhaus Racing
+297769,161483,430776,5,75.667,5,0,2024,20,2024 R20 Mexico City Altitude,LIN,Sergio Lindqvist,Scuderia Valtorri
+574396,161483,905635,6,75.689,6,0,2024,20,2024 R20 Mexico City Altitude,SAN,Marco Santos,Scuderia Valtorri
+728918,161483,711878,7,76.016,7,0,2024,20,2024 R20 Mexico City Altitude,REY,Noah Reyes,Falcon Works
+535670,161483,260265,8,76.016,8,0,2024,20,2024 R20 Mexico City Altitude,DUV,Felix Duval,Kestrel GP
+181746,161483,688637,9,,9,0,2024,20,2024 R20 Mexico City Altitude,HAR,Mateo Hartmann,Falcon Works
+428673,161483,634277,10,76.22,10,0,2024,20,2024 R20 Mexico City Altitude,LAR,Daniel Larsen,Kestrel GP
+352193,161483,663054,11,76.272,11,0,2024,20,2024 R20 Mexico City Altitude,OKA,Ethan Okafor,Sakura Racing
+950717,161483,916449,12,76.335,12,0,2024,20,2024 R20 Mexico City Altitude,DUB,Rafael Dubois,Maple Leaf Racing
+133629,161483,738551,13,76.547,13,0,2024,20,2024 R20 Mexico City Altitude,TAN,Ivan Tanaka,Maple Leaf Racing
+990272,161483,211579,14,76.645,14,0,2024,20,2024 R20 Mexico City Altitude,NOV,Jonas Novak,Iberia Speed
+240131,161483,407757,15,76.682,15,0,2024,20,2024 R20 Mexico City Altitude,BER,Leon Berg,Sakura Racing
+330875,161483,363626,16,76.722,16,0,2024,20,2024 R20 Mexico City Altitude,ROS,Oskar Rossi,Aurora Motorsport
+716964,161483,166613,17,76.834,17,0,2024,20,2024 R20 Mexico City Altitude,ALV,Diego Alvarez,Aurora Motorsport
+175885,161483,854639,18,76.848,18,0,2024,20,2024 R20 Mexico City Altitude,COS,Kai Costa,Iberia Speed
+318897,161483,972064,19,77.05,19,0,2024,20,2024 R20 Mexico City Altitude,MOR,Max Moretti,Outback GP
+543942,161483,612340,20,77.577,20,0,2024,20,2024 R20 Mexico City Altitude,CAS,Luca Castillo,Outback GP
+482463,272634,771088,1,74.48,1,0,2024,21,2024 R21 Sao Paulo Interlagos,MER,Hiro Mercer,Apex Dynamics
+359485,272634,356702,2,74.715,2,0,2024,21,2024 R21 Sao Paulo Interlagos,YAM,Theo Yamada,Apex Dynamics
+722085,272634,774079,3,74.877,3,0,2024,21,2024 R21 Sao Paulo Interlagos,ITO,Tomas Ito,Nordhaus Racing
+633913,272634,905635,4,75.12,4,0,2024,21,2024 R21 Sao Paulo Interlagos,SAN,Marco Santos,Scuderia Valtorri
+266956,272634,694731,5,75.199,5,0,2024,21,2024 R21 Sao Paulo Interlagos,KOW,Callum Kowalski,Nordhaus Racing
+791491,272634,430776,6,75.23,6,0,2024,21,2024 R21 Sao Paulo Interlagos,LIN,Sergio Lindqvist,Scuderia Valtorri
+590864,272634,688637,7,75.37,7,0,2024,21,2024 R21 Sao Paulo Interlagos,HAR,Mateo Hartmann,Falcon Works
+834421,272634,711878,8,75.508,8,0,2024,21,2024 R21 Sao Paulo Interlagos,REY,Noah Reyes,Falcon Works
+686739,272634,260265,9,75.805,9,0,2024,21,2024 R21 Sao Paulo Interlagos,DUV,Felix Duval,Kestrel GP
+814415,272634,634277,10,75.874,10,0,2024,21,2024 R21 Sao Paulo Interlagos,LAR,Daniel Larsen,Kestrel GP
+953943,272634,363626,11,76.045,11,0,2024,21,2024 R21 Sao Paulo Interlagos,ROS,Oskar Rossi,Aurora Motorsport
+545982,272634,663054,12,76.132,12,0,2024,21,2024 R21 Sao Paulo Interlagos,OKA,Ethan Okafor,Sakura Racing
+608430,272634,916449,13,76.155,13,0,2024,21,2024 R21 Sao Paulo Interlagos,DUB,Rafael Dubois,Maple Leaf Racing
+318122,272634,854639,14,,14,0,2024,21,2024 R21 Sao Paulo Interlagos,COS,Kai Costa,Iberia Speed
+914080,272634,407757,15,76.232,15,0,2024,21,2024 R21 Sao Paulo Interlagos,BER,Leon Berg,Sakura Racing
+258990,272634,166613,16,76.251,16,0,2024,21,2024 R21 Sao Paulo Interlagos,ALV,Diego Alvarez,Aurora Motorsport
+457535,272634,738551,17,76.32,17,0,2024,21,2024 R21 Sao Paulo Interlagos,TAN,Ivan Tanaka,Maple Leaf Racing
+965842,272634,211579,18,76.391,18,0,2024,21,2024 R21 Sao Paulo Interlagos,NOV,Jonas Novak,Iberia Speed
+602257,272634,972064,19,76.628,19,0,2024,21,2024 R21 Sao Paulo Interlagos,MOR,Max Moretti,Outback GP
+550885,272634,612340,20,76.74,20,0,2024,21,2024 R21 Sao Paulo Interlagos,CAS,Luca Castillo,Outback GP
+742036,497382,771088,1,97.942,1,0,2024,22,2024 R22 Las Vegas Strip,MER,Hiro Mercer,Apex Dynamics
+139093,497382,774079,2,98.048,2,0,2024,22,2024 R22 Las Vegas Strip,ITO,Tomas Ito,Nordhaus Racing
+913743,497382,694731,3,98.122,3,0,2024,22,2024 R22 Las Vegas Strip,KOW,Callum Kowalski,Nordhaus Racing
+951375,497382,356702,4,98.351,4,0,2024,22,2024 R22 Las Vegas Strip,YAM,Theo Yamada,Apex Dynamics
+398087,497382,905635,5,98.371,5,0,2024,22,2024 R22 Las Vegas Strip,SAN,Marco Santos,Scuderia Valtorri
+689320,497382,430776,6,98.487,6,0,2024,22,2024 R22 Las Vegas Strip,LIN,Sergio Lindqvist,Scuderia Valtorri
+750350,497382,688637,7,98.752,7,0,2024,22,2024 R22 Las Vegas Strip,HAR,Mateo Hartmann,Falcon Works
+681419,497382,711878,8,98.963,8,0,2024,22,2024 R22 Las Vegas Strip,REY,Noah Reyes,Falcon Works
+121835,497382,363626,9,99.186,9,0,2024,22,2024 R22 Las Vegas Strip,ROS,Oskar Rossi,Aurora Motorsport
+314121,497382,260265,10,99.276,10,0,2024,22,2024 R22 Las Vegas Strip,DUV,Felix Duval,Kestrel GP
+973321,497382,634277,11,99.369,11,0,2024,22,2024 R22 Las Vegas Strip,LAR,Daniel Larsen,Kestrel GP
+464271,497382,916449,12,99.48,12,0,2024,22,2024 R22 Las Vegas Strip,DUB,Rafael Dubois,Maple Leaf Racing
+895993,497382,663054,13,99.495,13,0,2024,22,2024 R22 Las Vegas Strip,OKA,Ethan Okafor,Sakura Racing
+764379,497382,166613,14,99.545,14,0,2024,22,2024 R22 Las Vegas Strip,ALV,Diego Alvarez,Aurora Motorsport
+648470,497382,407757,15,99.738,15,0,2024,22,2024 R22 Las Vegas Strip,BER,Leon Berg,Sakura Racing
+491347,497382,738551,16,99.892,16,0,2024,22,2024 R22 Las Vegas Strip,TAN,Ivan Tanaka,Maple Leaf Racing
+602901,497382,854639,17,100.068,17,0,2024,22,2024 R22 Las Vegas Strip,COS,Kai Costa,Iberia Speed
+108657,497382,211579,18,100.074,18,0,2024,22,2024 R22 Las Vegas Strip,NOV,Jonas Novak,Iberia Speed
+547658,497382,612340,19,100.445,19,0,2024,22,2024 R22 Las Vegas Strip,CAS,Luca Castillo,Outback GP
+734440,497382,972064,20,100.533,20,0,2024,22,2024 R22 Las Vegas Strip,MOR,Max Moretti,Outback GP
+466496,102260,771088,1,80.721,1,0,2024,23,2024 R23 Lusail Desert,MER,Hiro Mercer,Apex Dynamics
+974501,102260,774079,2,81.092,2,0,2024,23,2024 R23 Lusail Desert,ITO,Tomas Ito,Nordhaus Racing
+886302,102260,694731,3,81.141,3,0,2024,23,2024 R23 Lusail Desert,KOW,Callum Kowalski,Nordhaus Racing
+977317,102260,430776,4,81.472,4,0,2024,23,2024 R23 Lusail Desert,LIN,Sergio Lindqvist,Scuderia Valtorri
+883115,102260,356702,5,81.575,5,0,2024,23,2024 R23 Lusail Desert,YAM,Theo Yamada,Apex Dynamics
+611494,102260,711878,6,81.652,6,0,2024,23,2024 R23 Lusail Desert,REY,Noah Reyes,Falcon Works
+625950,102260,905635,7,81.722,7,0,2024,23,2024 R23 Lusail Desert,SAN,Marco Santos,Scuderia Valtorri
+528641,102260,688637,8,81.726,8,0,2024,23,2024 R23 Lusail Desert,HAR,Mateo Hartmann,Falcon Works
+262931,102260,634277,9,82.202,9,0,2024,23,2024 R23 Lusail Desert,LAR,Daniel Larsen,Kestrel GP
+656692,102260,260265,10,82.287,10,0,2024,23,2024 R23 Lusail Desert,DUV,Felix Duval,Kestrel GP
+375242,102260,916449,11,82.49,11,0,2024,23,2024 R23 Lusail Desert,DUB,Rafael Dubois,Maple Leaf Racing
+223268,102260,407757,12,82.547,12,0,2024,23,2024 R23 Lusail Desert,BER,Leon Berg,Sakura Racing
+530487,102260,166613,13,82.659,13,0,2024,23,2024 R23 Lusail Desert,ALV,Diego Alvarez,Aurora Motorsport
+323771,102260,663054,14,82.704,14,0,2024,23,2024 R23 Lusail Desert,OKA,Ethan Okafor,Sakura Racing
+787028,102260,363626,15,82.706,15,0,2024,23,2024 R23 Lusail Desert,ROS,Oskar Rossi,Aurora Motorsport
+769079,102260,738551,16,82.925,16,0,2024,23,2024 R23 Lusail Desert,TAN,Ivan Tanaka,Maple Leaf Racing
+101972,102260,211579,17,82.931,17,0,2024,23,2024 R23 Lusail Desert,NOV,Jonas Novak,Iberia Speed
+587602,102260,854639,18,83.04,18,0,2024,23,2024 R23 Lusail Desert,COS,Kai Costa,Iberia Speed
+519899,102260,972064,19,83.151,19,0,2024,23,2024 R23 Lusail Desert,MOR,Max Moretti,Outback GP
+566184,102260,612340,20,83.52,20,0,2024,23,2024 R23 Lusail Desert,CAS,Luca Castillo,Outback GP
+809893,509386,774079,1,82.852,1,0,2024,24,2024 R24 Yas Marina,ITO,Tomas Ito,Nordhaus Racing
+496915,509386,771088,2,82.953,2,0,2024,24,2024 R24 Yas Marina,MER,Hiro Mercer,Apex Dynamics
+684276,509386,694731,3,83.05,3,0,2024,24,2024 R24 Yas Marina,KOW,Callum Kowalski,Nordhaus Racing
+720654,509386,356702,4,83.29,4,0,2024,24,2024 R24 Yas Marina,YAM,Theo Yamada,Apex Dynamics
+980436,509386,905635,5,83.325,5,0,2024,24,2024 R24 Yas Marina,SAN,Marco Santos,Scuderia Valtorri
+489206,509386,688637,6,83.737,6,0,2024,24,2024 R24 Yas Marina,HAR,Mateo Hartmann,Falcon Works
+603826,509386,711878,7,83.768,7,0,2024,24,2024 R24 Yas Marina,REY,Noah Reyes,Falcon Works
+113228,509386,430776,8,83.951,8,0,2024,24,2024 R24 Yas Marina,LIN,Sergio Lindqvist,Scuderia Valtorri
+375378,509386,260265,9,83.964,9,0,2024,24,2024 R24 Yas Marina,DUV,Felix Duval,Kestrel GP
+245223,509386,663054,10,84.304,12,1,2024,24,2024 R24 Yas Marina,OKA,Ethan Okafor,Sakura Racing
+957802,509386,211579,11,84.528,10,1,2024,24,2024 R24 Yas Marina,NOV,Jonas Novak,Iberia Speed
+436854,509386,634277,12,84.585,11,1,2024,24,2024 R24 Yas Marina,LAR,Daniel Larsen,Kestrel GP
+160611,509386,166613,13,84.619,13,0,2024,24,2024 R24 Yas Marina,ALV,Diego Alvarez,Aurora Motorsport
+410155,509386,363626,14,84.643,14,0,2024,24,2024 R24 Yas Marina,ROS,Oskar Rossi,Aurora Motorsport
+132873,509386,916449,15,84.776,15,0,2024,24,2024 R24 Yas Marina,DUB,Rafael Dubois,Maple Leaf Racing
+880534,509386,407757,16,84.794,16,0,2024,24,2024 R24 Yas Marina,BER,Leon Berg,Sakura Racing
+798150,509386,854639,17,85.027,17,0,2024,24,2024 R24 Yas Marina,COS,Kai Costa,Iberia Speed
+677305,509386,738551,18,85.123,18,0,2024,24,2024 R24 Yas Marina,TAN,Ivan Tanaka,Maple Leaf Racing
+695621,509386,972064,19,85.199,19,0,2024,24,2024 R24 Yas Marina,MOR,Max Moretti,Outback GP
+520962,509386,612340,20,85.454,20,0,2024,24,2024 R24 Yas Marina,CAS,Luca Castillo,Outback GP
+996708,922157,774079,1,91.945,1,0,2025,1,2025 R01 Sakhir Desert Circuit,ITO,Tomas Ito,Nordhaus Racing
+876609,922157,771088,2,91.972,5,1,2025,1,2025 R01 Sakhir Desert Circuit,MER,Hiro Mercer,Apex Dynamics
+706067,922157,694731,3,92.284,2,1,2025,1,2025 R01 Sakhir Desert Circuit,KOW,Callum Kowalski,Nordhaus Racing
+921241,922157,356702,4,92.588,3,1,2025,1,2025 R01 Sakhir Desert Circuit,YAM,Theo Yamada,Apex Dynamics
+253832,922157,688637,5,92.59,4,1,2025,1,2025 R01 Sakhir Desert Circuit,HAR,Mateo Hartmann,Falcon Works
+991395,922157,711878,6,92.694,11,1,2025,1,2025 R01 Sakhir Desert Circuit,REY,Noah Reyes,Falcon Works
+126099,922157,430776,7,92.843,6,1,2025,1,2025 R01 Sakhir Desert Circuit,LIN,Sergio Lindqvist,Scuderia Valtorri
+267368,922157,905635,8,92.996,7,1,2025,1,2025 R01 Sakhir Desert Circuit,SAN,Marco Santos,Scuderia Valtorri
+538203,922157,663054,9,93.204,8,1,2025,1,2025 R01 Sakhir Desert Circuit,OKA,Ethan Okafor,Sakura Racing
+158356,922157,260265,10,93.286,9,1,2025,1,2025 R01 Sakhir Desert Circuit,DUV,Felix Duval,Kestrel GP
+232040,922157,363626,11,93.347,10,1,2025,1,2025 R01 Sakhir Desert Circuit,ROS,Oskar Rossi,Aurora Motorsport
+635725,922157,166613,12,93.407,12,0,2025,1,2025 R01 Sakhir Desert Circuit,ALV,Diego Alvarez,Aurora Motorsport
+585806,922157,916449,13,93.558,13,0,2025,1,2025 R01 Sakhir Desert Circuit,DUB,Rafael Dubois,Maple Leaf Racing
+393316,922157,634277,14,93.562,14,0,2025,1,2025 R01 Sakhir Desert Circuit,LAR,Daniel Larsen,Kestrel GP
+917264,922157,211579,15,93.842,15,0,2025,1,2025 R01 Sakhir Desert Circuit,NOV,Jonas Novak,Iberia Speed
+399968,922157,854639,16,93.854,16,0,2025,1,2025 R01 Sakhir Desert Circuit,COS,Kai Costa,Iberia Speed
+439896,922157,407757,17,93.932,17,0,2025,1,2025 R01 Sakhir Desert Circuit,BER,Leon Berg,Sakura Racing
+667776,922157,738551,18,93.985,18,0,2025,1,2025 R01 Sakhir Desert Circuit,TAN,Ivan Tanaka,Maple Leaf Racing
+566516,922157,972064,19,94.315,19,0,2025,1,2025 R01 Sakhir Desert Circuit,MOR,Max Moretti,Outback GP
+674097,922157,612340,20,94.318,20,0,2025,1,2025 R01 Sakhir Desert Circuit,CAS,Luca Castillo,Outback GP
+445299,923267,774079,1,87.348,1,0,2025,2,2025 R02 Jeddah Corniche,ITO,Tomas Ito,Nordhaus Racing
+975882,923267,694731,2,87.512,2,0,2025,2,2025 R02 Jeddah Corniche,KOW,Callum Kowalski,Nordhaus Racing
+877916,923267,771088,3,87.869,3,0,2025,2,2025 R02 Jeddah Corniche,MER,Hiro Mercer,Apex Dynamics
+599100,923267,688637,4,88.043,4,0,2025,2,2025 R02 Jeddah Corniche,HAR,Mateo Hartmann,Falcon Works
+832077,923267,905635,5,88.056,5,0,2025,2,2025 R02 Jeddah Corniche,SAN,Marco Santos,Scuderia Valtorri
+985774,923267,711878,6,88.141,6,0,2025,2,2025 R02 Jeddah Corniche,REY,Noah Reyes,Falcon Works
+597707,923267,356702,7,88.17,15,1,2025,2,2025 R02 Jeddah Corniche,YAM,Theo Yamada,Apex Dynamics
+624801,923267,430776,8,,7,1,2025,2,2025 R02 Jeddah Corniche,LIN,Sergio Lindqvist,Scuderia Valtorri
+112562,923267,634277,9,88.547,8,1,2025,2,2025 R02 Jeddah Corniche,LAR,Daniel Larsen,Kestrel GP
+878552,923267,260265,10,88.696,9,1,2025,2,2025 R02 Jeddah Corniche,DUV,Felix Duval,Kestrel GP
+853349,923267,916449,11,88.706,10,1,2025,2,2025 R02 Jeddah Corniche,DUB,Rafael Dubois,Maple Leaf Racing
+779855,923267,211579,12,88.809,11,1,2025,2,2025 R02 Jeddah Corniche,NOV,Jonas Novak,Iberia Speed
+314636,923267,663054,13,88.989,12,1,2025,2,2025 R02 Jeddah Corniche,OKA,Ethan Okafor,Sakura Racing
+583348,923267,407757,14,89.062,13,1,2025,2,2025 R02 Jeddah Corniche,BER,Leon Berg,Sakura Racing
+921198,923267,166613,15,89.078,14,1,2025,2,2025 R02 Jeddah Corniche,ALV,Diego Alvarez,Aurora Motorsport
+887754,923267,363626,16,89.104,16,0,2025,2,2025 R02 Jeddah Corniche,ROS,Oskar Rossi,Aurora Motorsport
+293068,923267,738551,17,89.23,17,0,2025,2,2025 R02 Jeddah Corniche,TAN,Ivan Tanaka,Maple Leaf Racing
+806905,923267,972064,18,89.389,18,0,2025,2,2025 R02 Jeddah Corniche,MOR,Max Moretti,Outback GP
+529181,923267,854639,19,89.629,19,0,2025,2,2025 R02 Jeddah Corniche,COS,Kai Costa,Iberia Speed
+677558,923267,612340,20,90.039,20,0,2025,2,2025 R02 Jeddah Corniche,CAS,Luca Castillo,Outback GP
+413763,577110,774079,1,77.396,1,0,2025,3,2025 R03 Melbourne Park,ITO,Tomas Ito,Nordhaus Racing
+830120,577110,771088,2,77.633,2,0,2025,3,2025 R03 Melbourne Park,MER,Hiro Mercer,Apex Dynamics
+568447,577110,694731,3,77.637,3,0,2025,3,2025 R03 Melbourne Park,KOW,Callum Kowalski,Nordhaus Racing
+797435,577110,688637,4,78.04,4,0,2025,3,2025 R03 Melbourne Park,HAR,Mateo Hartmann,Falcon Works
+756166,577110,356702,5,78.045,7,1,2025,3,2025 R03 Melbourne Park,YAM,Theo Yamada,Apex Dynamics
+317691,577110,430776,6,78.178,5,1,2025,3,2025 R03 Melbourne Park,LIN,Sergio Lindqvist,Scuderia Valtorri
+982905,577110,711878,7,78.217,6,1,2025,3,2025 R03 Melbourne Park,REY,Noah Reyes,Falcon Works
+851601,577110,260265,8,78.289,8,0,2025,3,2025 R03 Melbourne Park,DUV,Felix Duval,Kestrel GP
+682426,577110,905635,9,78.367,9,0,2025,3,2025 R03 Melbourne Park,SAN,Marco Santos,Scuderia Valtorri
+298791,577110,211579,10,78.755,10,0,2025,3,2025 R03 Melbourne Park,NOV,Jonas Novak,Iberia Speed
+914885,577110,634277,11,78.865,11,0,2025,3,2025 R03 Melbourne Park,LAR,Daniel Larsen,Kestrel GP
+242883,577110,916449,12,78.964,12,0,2025,3,2025 R03 Melbourne Park,DUB,Rafael Dubois,Maple Leaf Racing
+199910,577110,663054,13,79.067,18,1,2025,3,2025 R03 Melbourne Park,OKA,Ethan Okafor,Sakura Racing
+136140,577110,166613,14,79.163,13,1,2025,3,2025 R03 Melbourne Park,ALV,Diego Alvarez,Aurora Motorsport
+409890,577110,363626,15,79.309,14,1,2025,3,2025 R03 Melbourne Park,ROS,Oskar Rossi,Aurora Motorsport
+186192,577110,407757,16,79.341,15,1,2025,3,2025 R03 Melbourne Park,BER,Leon Berg,Sakura Racing
+376119,577110,854639,17,79.474,16,1,2025,3,2025 R03 Melbourne Park,COS,Kai Costa,Iberia Speed
+766443,577110,738551,18,79.479,19,1,2025,3,2025 R03 Melbourne Park,TAN,Ivan Tanaka,Maple Leaf Racing
+115964,577110,612340,19,79.717,17,1,2025,3,2025 R03 Melbourne Park,CAS,Luca Castillo,Outback GP
+185584,577110,972064,20,79.947,20,0,2025,3,2025 R03 Melbourne Park,MOR,Max Moretti,Outback GP
+568725,399105,774079,1,88.781,1,0,2025,4,2025 R04 Suzuka Hills,ITO,Tomas Ito,Nordhaus Racing
+974903,399105,694731,2,88.896,2,0,2025,4,2025 R04 Suzuka Hills,KOW,Callum Kowalski,Nordhaus Racing
+397185,399105,771088,3,88.956,3,0,2025,4,2025 R04 Suzuka Hills,MER,Hiro Mercer,Apex Dynamics
+739200,399105,430776,4,88.996,4,0,2025,4,2025 R04 Suzuka Hills,LIN,Sergio Lindqvist,Scuderia Valtorri
+395702,399105,905635,5,89.071,5,0,2025,4,2025 R04 Suzuka Hills,SAN,Marco Santos,Scuderia Valtorri
+191214,399105,711878,6,89.087,6,0,2025,4,2025 R04 Suzuka Hills,REY,Noah Reyes,Falcon Works
+545629,399105,688637,7,89.288,7,0,2025,4,2025 R04 Suzuka Hills,HAR,Mateo Hartmann,Falcon Works
+517483,399105,356702,8,89.352,8,0,2025,4,2025 R04 Suzuka Hills,YAM,Theo Yamada,Apex Dynamics
+284060,399105,634277,9,89.5,9,0,2025,4,2025 R04 Suzuka Hills,LAR,Daniel Larsen,Kestrel GP
+521219,399105,260265,10,89.584,12,1,2025,4,2025 R04 Suzuka Hills,DUV,Felix Duval,Kestrel GP
+533923,399105,211579,11,89.816,15,1,2025,4,2025 R04 Suzuka Hills,NOV,Jonas Novak,Iberia Speed
+456256,399105,166613,12,89.966,10,1,2025,4,2025 R04 Suzuka Hills,ALV,Diego Alvarez,Aurora Motorsport
+538849,399105,916449,13,90.215,11,1,2025,4,2025 R04 Suzuka Hills,DUB,Rafael Dubois,Maple Leaf Racing
+362717,399105,363626,14,90.233,13,1,2025,4,2025 R04 Suzuka Hills,ROS,Oskar Rossi,Aurora Motorsport
+447872,399105,738551,15,90.245,14,1,2025,4,2025 R04 Suzuka Hills,TAN,Ivan Tanaka,Maple Leaf Racing
+541436,399105,663054,16,90.486,16,0,2025,4,2025 R04 Suzuka Hills,OKA,Ethan Okafor,Sakura Racing
+245590,399105,407757,17,90.526,17,0,2025,4,2025 R04 Suzuka Hills,BER,Leon Berg,Sakura Racing
+807214,399105,972064,18,90.685,18,0,2025,4,2025 R04 Suzuka Hills,MOR,Max Moretti,Outback GP
+759613,399105,854639,19,90.726,19,0,2025,4,2025 R04 Suzuka Hills,COS,Kai Costa,Iberia Speed
+883694,399105,612340,20,91.137,20,0,2025,4,2025 R04 Suzuka Hills,CAS,Luca Castillo,Outback GP
+801147,543555,774079,1,93.09,1,0,2025,5,2025 R05 Shanghai International,ITO,Tomas Ito,Nordhaus Racing
+826506,543555,694731,2,,2,0,2025,5,2025 R05 Shanghai International,KOW,Callum Kowalski,Nordhaus Racing
+393065,543555,771088,3,93.546,3,0,2025,5,2025 R05 Shanghai International,MER,Hiro Mercer,Apex Dynamics
+124102,543555,905635,4,93.588,4,0,2025,5,2025 R05 Shanghai International,SAN,Marco Santos,Scuderia Valtorri
+425714,543555,688637,5,93.678,5,0,2025,5,2025 R05 Shanghai International,HAR,Mateo Hartmann,Falcon Works
+528715,543555,711878,6,93.705,6,0,2025,5,2025 R05 Shanghai International,REY,Noah Reyes,Falcon Works
+647164,543555,356702,7,93.954,7,0,2025,5,2025 R05 Shanghai International,YAM,Theo Yamada,Apex Dynamics
+386703,543555,260265,8,93.96,8,0,2025,5,2025 R05 Shanghai International,DUV,Felix Duval,Kestrel GP
+554456,543555,430776,9,93.989,9,0,2025,5,2025 R05 Shanghai International,LIN,Sergio Lindqvist,Scuderia Valtorri
+406545,543555,634277,10,94.15,10,0,2025,5,2025 R05 Shanghai International,LAR,Daniel Larsen,Kestrel GP
+621734,543555,663054,11,94.328,11,0,2025,5,2025 R05 Shanghai International,OKA,Ethan Okafor,Sakura Racing
+371330,543555,916449,12,94.648,12,0,2025,5,2025 R05 Shanghai International,DUB,Rafael Dubois,Maple Leaf Racing
+534559,543555,211579,13,94.728,19,1,2025,5,2025 R05 Shanghai International,NOV,Jonas Novak,Iberia Speed
+220565,543555,738551,14,94.761,13,1,2025,5,2025 R05 Shanghai International,TAN,Ivan Tanaka,Maple Leaf Racing
+223176,543555,166613,15,94.866,14,1,2025,5,2025 R05 Shanghai International,ALV,Diego Alvarez,Aurora Motorsport
+588847,543555,363626,16,94.881,15,1,2025,5,2025 R05 Shanghai International,ROS,Oskar Rossi,Aurora Motorsport
+342148,543555,854639,17,94.981,16,1,2025,5,2025 R05 Shanghai International,COS,Kai Costa,Iberia Speed
+442149,543555,407757,18,94.984,17,1,2025,5,2025 R05 Shanghai International,BER,Leon Berg,Sakura Racing
+149289,543555,972064,19,95.185,18,1,2025,5,2025 R05 Shanghai International,MOR,Max Moretti,Outback GP
+791654,543555,612340,20,95.593,20,0,2025,5,2025 R05 Shanghai International,CAS,Luca Castillo,Outback GP
+310046,830429,694731,1,87.226,1,0,2025,6,2025 R06 Miami Marina,KOW,Callum Kowalski,Nordhaus Racing
+893991,830429,771088,2,87.288,2,0,2025,6,2025 R06 Miami Marina,MER,Hiro Mercer,Apex Dynamics
+803776,830429,774079,3,87.567,3,0,2025,6,2025 R06 Miami Marina,ITO,Tomas Ito,Nordhaus Racing
+260252,830429,905635,4,87.579,4,0,2025,6,2025 R06 Miami Marina,SAN,Marco Santos,Scuderia Valtorri
+768950,830429,356702,5,87.6,5,0,2025,6,2025 R06 Miami Marina,YAM,Theo Yamada,Apex Dynamics
+191172,830429,711878,6,87.821,6,0,2025,6,2025 R06 Miami Marina,REY,Noah Reyes,Falcon Works
+806434,830429,260265,7,87.92,7,0,2025,6,2025 R06 Miami Marina,DUV,Felix Duval,Kestrel GP
+420457,830429,430776,8,88.025,8,0,2025,6,2025 R06 Miami Marina,LIN,Sergio Lindqvist,Scuderia Valtorri
+239551,830429,634277,9,88.173,9,0,2025,6,2025 R06 Miami Marina,LAR,Daniel Larsen,Kestrel GP
+126819,830429,688637,10,88.211,10,0,2025,6,2025 R06 Miami Marina,HAR,Mateo Hartmann,Falcon Works
+553527,830429,166613,11,88.319,11,0,2025,6,2025 R06 Miami Marina,ALV,Diego Alvarez,Aurora Motorsport
+800044,830429,407757,12,88.377,12,0,2025,6,2025 R06 Miami Marina,BER,Leon Berg,Sakura Racing
+444374,830429,663054,13,88.555,19,1,2025,6,2025 R06 Miami Marina,OKA,Ethan Okafor,Sakura Racing
+157079,830429,363626,14,88.661,16,1,2025,6,2025 R06 Miami Marina,ROS,Oskar Rossi,Aurora Motorsport
+590563,830429,211579,15,88.683,13,1,2025,6,2025 R06 Miami Marina,NOV,Jonas Novak,Iberia Speed
+322736,830429,916449,16,88.724,14,1,2025,6,2025 R06 Miami Marina,DUB,Rafael Dubois,Maple Leaf Racing
+788150,830429,854639,17,89.057,15,1,2025,6,2025 R06 Miami Marina,COS,Kai Costa,Iberia Speed
+623058,830429,738551,18,89.075,17,1,2025,6,2025 R06 Miami Marina,TAN,Ivan Tanaka,Maple Leaf Racing
+820411,830429,612340,19,89.399,18,1,2025,6,2025 R06 Miami Marina,CAS,Luca Castillo,Outback GP
+152740,830429,972064,20,89.575,20,0,2025,6,2025 R06 Miami Marina,MOR,Max Moretti,Outback GP
+161294,865990,774079,1,80.935,1,0,2025,7,2025 R07 Imola Autodromo,ITO,Tomas Ito,Nordhaus Racing
+618689,865990,771088,2,81.511,2,0,2025,7,2025 R07 Imola Autodromo,MER,Hiro Mercer,Apex Dynamics
+372494,865990,694731,3,81.551,3,0,2025,7,2025 R07 Imola Autodromo,KOW,Callum Kowalski,Nordhaus Racing
+507561,865990,356702,4,81.636,4,0,2025,7,2025 R07 Imola Autodromo,YAM,Theo Yamada,Apex Dynamics
+971134,865990,711878,5,81.696,5,0,2025,7,2025 R07 Imola Autodromo,REY,Noah Reyes,Falcon Works
+289195,865990,905635,6,81.82,6,0,2025,7,2025 R07 Imola Autodromo,SAN,Marco Santos,Scuderia Valtorri
+953230,865990,430776,7,81.858,7,0,2025,7,2025 R07 Imola Autodromo,LIN,Sergio Lindqvist,Scuderia Valtorri
+182398,865990,688637,8,82.02,8,0,2025,7,2025 R07 Imola Autodromo,HAR,Mateo Hartmann,Falcon Works
+239614,865990,260265,9,82.063,9,0,2025,7,2025 R07 Imola Autodromo,DUV,Felix Duval,Kestrel GP
+226354,865990,407757,10,82.308,10,0,2025,7,2025 R07 Imola Autodromo,BER,Leon Berg,Sakura Racing
+395244,865990,663054,11,82.327,11,0,2025,7,2025 R07 Imola Autodromo,OKA,Ethan Okafor,Sakura Racing
+853391,865990,211579,12,82.332,12,0,2025,7,2025 R07 Imola Autodromo,NOV,Jonas Novak,Iberia Speed
+215968,865990,363626,13,82.349,13,0,2025,7,2025 R07 Imola Autodromo,ROS,Oskar Rossi,Aurora Motorsport
+313699,865990,634277,14,82.439,14,0,2025,7,2025 R07 Imola Autodromo,LAR,Daniel Larsen,Kestrel GP
+889730,865990,916449,15,82.678,15,0,2025,7,2025 R07 Imola Autodromo,DUB,Rafael Dubois,Maple Leaf Racing
+698388,865990,166613,16,82.7,16,0,2025,7,2025 R07 Imola Autodromo,ALV,Diego Alvarez,Aurora Motorsport
+545904,865990,854639,17,82.833,17,0,2025,7,2025 R07 Imola Autodromo,COS,Kai Costa,Iberia Speed
+815311,865990,612340,18,83.029,18,0,2025,7,2025 R07 Imola Autodromo,CAS,Luca Castillo,Outback GP
+977505,865990,738551,19,83.043,19,0,2025,7,2025 R07 Imola Autodromo,TAN,Ivan Tanaka,Maple Leaf Racing
+799774,865990,972064,20,83.058,20,0,2025,7,2025 R07 Imola Autodromo,MOR,Max Moretti,Outback GP
+780026,921414,774079,1,69.538,1,0,2025,8,2025 R08 Monaco Harbour,ITO,Tomas Ito,Nordhaus Racing
+705502,921414,771088,2,69.858,2,0,2025,8,2025 R08 Monaco Harbour,MER,Hiro Mercer,Apex Dynamics
+710795,921414,694731,3,69.889,3,0,2025,8,2025 R08 Monaco Harbour,KOW,Callum Kowalski,Nordhaus Racing
+523975,921414,356702,4,69.959,4,0,2025,8,2025 R08 Monaco Harbour,YAM,Theo Yamada,Apex Dynamics
+655565,921414,711878,5,70.211,5,0,2025,8,2025 R08 Monaco Harbour,REY,Noah Reyes,Falcon Works
+853970,921414,688637,6,70.395,6,0,2025,8,2025 R08 Monaco Harbour,HAR,Mateo Hartmann,Falcon Works
+810291,921414,260265,7,70.423,7,0,2025,8,2025 R08 Monaco Harbour,DUV,Felix Duval,Kestrel GP
+916197,921414,905635,8,70.485,8,0,2025,8,2025 R08 Monaco Harbour,SAN,Marco Santos,Scuderia Valtorri
+485781,921414,430776,9,70.609,9,0,2025,8,2025 R08 Monaco Harbour,LIN,Sergio Lindqvist,Scuderia Valtorri
+847909,921414,211579,10,70.618,10,0,2025,8,2025 R08 Monaco Harbour,NOV,Jonas Novak,Iberia Speed
+840459,921414,663054,11,70.71,11,0,2025,8,2025 R08 Monaco Harbour,OKA,Ethan Okafor,Sakura Racing
+324924,921414,363626,12,70.915,12,0,2025,8,2025 R08 Monaco Harbour,ROS,Oskar Rossi,Aurora Motorsport
+536550,921414,166613,13,70.974,13,0,2025,8,2025 R08 Monaco Harbour,ALV,Diego Alvarez,Aurora Motorsport
+655338,921414,634277,14,71.039,14,0,2025,8,2025 R08 Monaco Harbour,LAR,Daniel Larsen,Kestrel GP
+692954,921414,916449,15,71.112,15,0,2025,8,2025 R08 Monaco Harbour,DUB,Rafael Dubois,Maple Leaf Racing
+618016,921414,407757,16,71.222,16,0,2025,8,2025 R08 Monaco Harbour,BER,Leon Berg,Sakura Racing
+961489,921414,738551,17,71.246,17,0,2025,8,2025 R08 Monaco Harbour,TAN,Ivan Tanaka,Maple Leaf Racing
+887874,921414,854639,18,71.338,18,0,2025,8,2025 R08 Monaco Harbour,COS,Kai Costa,Iberia Speed
+367860,921414,972064,19,71.587,19,0,2025,8,2025 R08 Monaco Harbour,MOR,Max Moretti,Outback GP
+844474,921414,612340,20,71.897,20,0,2025,8,2025 R08 Monaco Harbour,CAS,Luca Castillo,Outback GP
+969535,682765,694731,1,70.397,1,0,2025,9,2025 R09 Montreal Island,KOW,Callum Kowalski,Nordhaus Racing
+522876,682765,771088,2,70.622,2,0,2025,9,2025 R09 Montreal Island,MER,Hiro Mercer,Apex Dynamics
+373294,682765,774079,3,70.736,3,0,2025,9,2025 R09 Montreal Island,ITO,Tomas Ito,Nordhaus Racing
+732855,682765,356702,4,70.906,4,0,2025,9,2025 R09 Montreal Island,YAM,Theo Yamada,Apex Dynamics
+104799,682765,905635,5,71.248,5,0,2025,9,2025 R09 Montreal Island,SAN,Marco Santos,Scuderia Valtorri
+446380,682765,430776,6,71.319,6,0,2025,9,2025 R09 Montreal Island,LIN,Sergio Lindqvist,Scuderia Valtorri
+780667,682765,260265,7,71.39,7,0,2025,9,2025 R09 Montreal Island,DUV,Felix Duval,Kestrel GP
+560471,682765,634277,8,71.422,8,0,2025,9,2025 R09 Montreal Island,LAR,Daniel Larsen,Kestrel GP
+319401,682765,916449,9,71.554,9,0,2025,9,2025 R09 Montreal Island,DUB,Rafael Dubois,Maple Leaf Racing
+133290,682765,711878,10,71.591,10,0,2025,9,2025 R09 Montreal Island,REY,Noah Reyes,Falcon Works
+516109,682765,688637,11,71.68,11,0,2025,9,2025 R09 Montreal Island,HAR,Mateo Hartmann,Falcon Works
+847807,682765,166613,12,71.741,12,0,2025,9,2025 R09 Montreal Island,ALV,Diego Alvarez,Aurora Motorsport
+316418,682765,211579,13,71.939,13,0,2025,9,2025 R09 Montreal Island,NOV,Jonas Novak,Iberia Speed
+607157,682765,363626,14,71.958,14,0,2025,9,2025 R09 Montreal Island,ROS,Oskar Rossi,Aurora Motorsport
+115533,682765,663054,15,72.126,15,0,2025,9,2025 R09 Montreal Island,OKA,Ethan Okafor,Sakura Racing
+417096,682765,407757,16,72.161,16,0,2025,9,2025 R09 Montreal Island,BER,Leon Berg,Sakura Racing
+317445,682765,854639,17,72.263,17,0,2025,9,2025 R09 Montreal Island,COS,Kai Costa,Iberia Speed
+659951,682765,972064,18,72.492,18,0,2025,9,2025 R09 Montreal Island,MOR,Max Moretti,Outback GP
+309406,682765,738551,19,72.721,19,0,2025,9,2025 R09 Montreal Island,TAN,Ivan Tanaka,Maple Leaf Racing
+434388,682765,612340,20,72.799,20,0,2025,9,2025 R09 Montreal Island,CAS,Luca Castillo,Outback GP
+676604,794022,694731,1,75.06,1,0,2025,10,2025 R10 Barcelona Catalunya,KOW,Callum Kowalski,Nordhaus Racing
+440266,794022,905635,2,75.224,2,0,2025,10,2025 R10 Barcelona Catalunya,SAN,Marco Santos,Scuderia Valtorri
+355475,794022,774079,3,,3,0,2025,10,2025 R10 Barcelona Catalunya,ITO,Tomas Ito,Nordhaus Racing
+866540,794022,356702,4,75.521,4,0,2025,10,2025 R10 Barcelona Catalunya,YAM,Theo Yamada,Apex Dynamics
+570341,794022,771088,5,75.633,5,0,2025,10,2025 R10 Barcelona Catalunya,MER,Hiro Mercer,Apex Dynamics
+243279,794022,688637,6,75.848,6,0,2025,10,2025 R10 Barcelona Catalunya,HAR,Mateo Hartmann,Falcon Works
+183174,794022,260265,7,75.869,7,0,2025,10,2025 R10 Barcelona Catalunya,DUV,Felix Duval,Kestrel GP
+703408,794022,711878,8,76.033,8,0,2025,10,2025 R10 Barcelona Catalunya,REY,Noah Reyes,Falcon Works
+178244,794022,430776,9,76.162,9,0,2025,10,2025 R10 Barcelona Catalunya,LIN,Sergio Lindqvist,Scuderia Valtorri
+475128,794022,634277,10,76.334,10,0,2025,10,2025 R10 Barcelona Catalunya,LAR,Daniel Larsen,Kestrel GP
+982308,794022,663054,11,76.347,11,0,2025,10,2025 R10 Barcelona Catalunya,OKA,Ethan Okafor,Sakura Racing
+307479,794022,916449,12,76.547,12,0,2025,10,2025 R10 Barcelona Catalunya,DUB,Rafael Dubois,Maple Leaf Racing
+565058,794022,854639,13,76.666,13,0,2025,10,2025 R10 Barcelona Catalunya,COS,Kai Costa,Iberia Speed
+252766,794022,211579,14,76.669,14,0,2025,10,2025 R10 Barcelona Catalunya,NOV,Jonas Novak,Iberia Speed
+982796,794022,407757,15,76.682,15,0,2025,10,2025 R10 Barcelona Catalunya,BER,Leon Berg,Sakura Racing
+420059,794022,363626,16,76.774,16,0,2025,10,2025 R10 Barcelona Catalunya,ROS,Oskar Rossi,Aurora Motorsport
+837099,794022,166613,17,76.775,17,0,2025,10,2025 R10 Barcelona Catalunya,ALV,Diego Alvarez,Aurora Motorsport
+824538,794022,972064,18,76.853,18,0,2025,10,2025 R10 Barcelona Catalunya,MOR,Max Moretti,Outback GP
+513741,794022,738551,19,77.029,19,0,2025,10,2025 R10 Barcelona Catalunya,TAN,Ivan Tanaka,Maple Leaf Racing
+853607,794022,612340,20,77.483,20,0,2025,10,2025 R10 Barcelona Catalunya,CAS,Luca Castillo,Outback GP
+772290,853305,694731,1,63.329,1,0,2025,11,2025 R11 Red Bull Alpine Ring,KOW,Callum Kowalski,Nordhaus Racing
+619153,853305,771088,2,63.407,2,0,2025,11,2025 R11 Red Bull Alpine Ring,MER,Hiro Mercer,Apex Dynamics
+501523,853305,905635,3,63.515,3,0,2025,11,2025 R11 Red Bull Alpine Ring,SAN,Marco Santos,Scuderia Valtorri
+746196,853305,774079,4,63.605,4,0,2025,11,2025 R11 Red Bull Alpine Ring,ITO,Tomas Ito,Nordhaus Racing
+885844,853305,260265,5,63.691,5,0,2025,11,2025 R11 Red Bull Alpine Ring,DUV,Felix Duval,Kestrel GP
+587369,853305,356702,6,63.786,6,0,2025,11,2025 R11 Red Bull Alpine Ring,YAM,Theo Yamada,Apex Dynamics
+761072,853305,711878,7,63.921,7,0,2025,11,2025 R11 Red Bull Alpine Ring,REY,Noah Reyes,Falcon Works
+218027,853305,688637,8,64.022,8,0,2025,11,2025 R11 Red Bull Alpine Ring,HAR,Mateo Hartmann,Falcon Works
+940718,853305,430776,9,64.062,9,0,2025,11,2025 R11 Red Bull Alpine Ring,LIN,Sergio Lindqvist,Scuderia Valtorri
+145441,853305,663054,10,64.35,10,0,2025,11,2025 R11 Red Bull Alpine Ring,OKA,Ethan Okafor,Sakura Racing
+654008,853305,634277,11,64.428,11,0,2025,11,2025 R11 Red Bull Alpine Ring,LAR,Daniel Larsen,Kestrel GP
+795113,853305,211579,12,64.445,12,0,2025,11,2025 R11 Red Bull Alpine Ring,NOV,Jonas Novak,Iberia Speed
+690401,853305,854639,13,64.58,13,0,2025,11,2025 R11 Red Bull Alpine Ring,COS,Kai Costa,Iberia Speed
+956067,853305,916449,14,64.743,14,0,2025,11,2025 R11 Red Bull Alpine Ring,DUB,Rafael Dubois,Maple Leaf Racing
+802886,853305,738551,15,64.762,15,0,2025,11,2025 R11 Red Bull Alpine Ring,TAN,Ivan Tanaka,Maple Leaf Racing
+586607,853305,407757,16,64.799,16,0,2025,11,2025 R11 Red Bull Alpine Ring,BER,Leon Berg,Sakura Racing
+105241,853305,363626,17,64.808,17,0,2025,11,2025 R11 Red Bull Alpine Ring,ROS,Oskar Rossi,Aurora Motorsport
+767418,853305,166613,18,64.855,18,0,2025,11,2025 R11 Red Bull Alpine Ring,ALV,Diego Alvarez,Aurora Motorsport
+441403,853305,972064,19,65.218,19,0,2025,11,2025 R11 Red Bull Alpine Ring,MOR,Max Moretti,Outback GP
+783510,853305,612340,20,65.496,20,0,2025,11,2025 R11 Red Bull Alpine Ring,CAS,Luca Castillo,Outback GP
+931295,610311,774079,1,84.965,1,0,2025,12,2025 R12 Silverstone Plains,ITO,Tomas Ito,Nordhaus Racing
+569802,610311,694731,2,85.151,2,0,2025,12,2025 R12 Silverstone Plains,KOW,Callum Kowalski,Nordhaus Racing
+642001,610311,771088,3,85.2,5,1,2025,12,2025 R12 Silverstone Plains,MER,Hiro Mercer,Apex Dynamics
+546377,610311,356702,4,85.698,3,1,2025,12,2025 R12 Silverstone Plains,YAM,Theo Yamada,Apex Dynamics
+362068,610311,688637,5,85.769,4,1,2025,12,2025 R12 Silverstone Plains,HAR,Mateo Hartmann,Falcon Works
+356991,610311,905635,6,85.774,6,0,2025,12,2025 R12 Silverstone Plains,SAN,Marco Santos,Scuderia Valtorri
+542230,610311,430776,7,85.988,7,0,2025,12,2025 R12 Silverstone Plains,LIN,Sergio Lindqvist,Scuderia Valtorri
+864538,610311,260265,8,86.01,8,0,2025,12,2025 R12 Silverstone Plains,DUV,Felix Duval,Kestrel GP
+913991,610311,711878,9,86.105,9,0,2025,12,2025 R12 Silverstone Plains,REY,Noah Reyes,Falcon Works
+559980,610311,634277,10,86.218,10,0,2025,12,2025 R12 Silverstone Plains,LAR,Daniel Larsen,Kestrel GP
+415109,610311,663054,11,86.422,11,0,2025,12,2025 R12 Silverstone Plains,OKA,Ethan Okafor,Sakura Racing
+534450,610311,166613,12,86.51,12,0,2025,12,2025 R12 Silverstone Plains,ALV,Diego Alvarez,Aurora Motorsport
+812106,610311,916449,13,86.77,13,0,2025,12,2025 R12 Silverstone Plains,DUB,Rafael Dubois,Maple Leaf Racing
+552790,610311,407757,14,86.791,14,0,2025,12,2025 R12 Silverstone Plains,BER,Leon Berg,Sakura Racing
+804672,610311,363626,15,86.833,15,0,2025,12,2025 R12 Silverstone Plains,ROS,Oskar Rossi,Aurora Motorsport
+919083,610311,612340,16,86.859,16,0,2025,12,2025 R12 Silverstone Plains,CAS,Luca Castillo,Outback GP
+342429,610311,211579,17,86.957,17,0,2025,12,2025 R12 Silverstone Plains,NOV,Jonas Novak,Iberia Speed
+957313,610311,854639,18,86.986,18,0,2025,12,2025 R12 Silverstone Plains,COS,Kai Costa,Iberia Speed
+622502,610311,738551,19,87.064,19,0,2025,12,2025 R12 Silverstone Plains,TAN,Ivan Tanaka,Maple Leaf Racing
+167651,610311,972064,20,87.434,20,0,2025,12,2025 R12 Silverstone Plains,MOR,Max Moretti,Outback GP
+817986,262316,771088,1,75.731,1,0,2025,13,2025 R13 Hungaroring,MER,Hiro Mercer,Apex Dynamics
+341107,262316,356702,2,75.792,2,0,2025,13,2025 R13 Hungaroring,YAM,Theo Yamada,Apex Dynamics
+915556,262316,774079,3,75.853,3,0,2025,13,2025 R13 Hungaroring,ITO,Tomas Ito,Nordhaus Racing
+405357,262316,694731,4,75.898,4,0,2025,13,2025 R13 Hungaroring,KOW,Callum Kowalski,Nordhaus Racing
+231811,262316,711878,5,76.008,5,0,2025,13,2025 R13 Hungaroring,REY,Noah Reyes,Falcon Works
+816574,262316,905635,6,76.32,6,0,2025,13,2025 R13 Hungaroring,SAN,Marco Santos,Scuderia Valtorri
+816686,262316,430776,7,76.459,7,0,2025,13,2025 R13 Hungaroring,LIN,Sergio Lindqvist,Scuderia Valtorri
+911929,262316,260265,8,,8,0,2025,13,2025 R13 Hungaroring,DUV,Felix Duval,Kestrel GP
+294179,262316,211579,9,76.712,9,0,2025,13,2025 R13 Hungaroring,NOV,Jonas Novak,Iberia Speed
+901052,262316,634277,10,76.778,10,0,2025,13,2025 R13 Hungaroring,LAR,Daniel Larsen,Kestrel GP
+436501,262316,688637,11,76.819,11,0,2025,13,2025 R13 Hungaroring,HAR,Mateo Hartmann,Falcon Works
+864606,262316,363626,12,76.838,12,0,2025,13,2025 R13 Hungaroring,ROS,Oskar Rossi,Aurora Motorsport
+156171,262316,166613,13,77.13,13,0,2025,13,2025 R13 Hungaroring,ALV,Diego Alvarez,Aurora Motorsport
+930021,262316,663054,14,77.138,14,0,2025,13,2025 R13 Hungaroring,OKA,Ethan Okafor,Sakura Racing
+128009,262316,916449,15,77.158,15,0,2025,13,2025 R13 Hungaroring,DUB,Rafael Dubois,Maple Leaf Racing
+703652,262316,854639,16,77.337,16,0,2025,13,2025 R13 Hungaroring,COS,Kai Costa,Iberia Speed
+468426,262316,972064,17,77.441,17,0,2025,13,2025 R13 Hungaroring,MOR,Max Moretti,Outback GP
+769939,262316,407757,18,77.447,18,0,2025,13,2025 R13 Hungaroring,BER,Leon Berg,Sakura Racing
+375836,262316,738551,19,77.473,19,0,2025,13,2025 R13 Hungaroring,TAN,Ivan Tanaka,Maple Leaf Racing
+387426,262316,612340,20,77.923,20,0,2025,13,2025 R13 Hungaroring,CAS,Luca Castillo,Outback GP
+547084,299122,771088,1,102.142,1,0,2025,14,2025 R14 Spa Ardennes,MER,Hiro Mercer,Apex Dynamics
+282149,299122,774079,2,102.185,2,0,2025,14,2025 R14 Spa Ardennes,ITO,Tomas Ito,Nordhaus Racing
+658415,299122,694731,3,102.375,3,0,2025,14,2025 R14 Spa Ardennes,KOW,Callum Kowalski,Nordhaus Racing
+554550,299122,356702,4,102.508,4,0,2025,14,2025 R14 Spa Ardennes,YAM,Theo Yamada,Apex Dynamics
+995727,299122,905635,5,103.025,5,0,2025,14,2025 R14 Spa Ardennes,SAN,Marco Santos,Scuderia Valtorri
+558590,299122,430776,6,103.045,6,0,2025,14,2025 R14 Spa Ardennes,LIN,Sergio Lindqvist,Scuderia Valtorri
+675358,299122,260265,7,103.062,7,0,2025,14,2025 R14 Spa Ardennes,DUV,Felix Duval,Kestrel GP
+187043,299122,688637,8,103.1,8,0,2025,14,2025 R14 Spa Ardennes,HAR,Mateo Hartmann,Falcon Works
+173473,299122,711878,9,103.151,9,0,2025,14,2025 R14 Spa Ardennes,REY,Noah Reyes,Falcon Works
+279369,299122,634277,10,103.382,10,0,2025,14,2025 R14 Spa Ardennes,LAR,Daniel Larsen,Kestrel GP
+865030,299122,663054,11,103.396,11,0,2025,14,2025 R14 Spa Ardennes,OKA,Ethan Okafor,Sakura Racing
+591076,299122,916449,12,103.441,12,0,2025,14,2025 R14 Spa Ardennes,DUB,Rafael Dubois,Maple Leaf Racing
+384258,299122,363626,13,103.463,13,0,2025,14,2025 R14 Spa Ardennes,ROS,Oskar Rossi,Aurora Motorsport
+871676,299122,211579,14,103.485,14,0,2025,14,2025 R14 Spa Ardennes,NOV,Jonas Novak,Iberia Speed
+593613,299122,166613,15,103.791,15,0,2025,14,2025 R14 Spa Ardennes,ALV,Diego Alvarez,Aurora Motorsport
+641751,299122,972064,16,103.905,16,0,2025,14,2025 R14 Spa Ardennes,MOR,Max Moretti,Outback GP
+504135,299122,407757,17,103.965,17,0,2025,14,2025 R14 Spa Ardennes,BER,Leon Berg,Sakura Racing
+632255,299122,854639,18,103.97,18,0,2025,14,2025 R14 Spa Ardennes,COS,Kai Costa,Iberia Speed
+617125,299122,738551,19,,19,0,2025,14,2025 R14 Spa Ardennes,TAN,Ivan Tanaka,Maple Leaf Racing
+824739,299122,612340,20,104.234,20,0,2025,14,2025 R14 Spa Ardennes,CAS,Luca Castillo,Outback GP
+958671,411120,694731,1,69.106,1,0,2025,15,2025 R15 Zandvoort Dunes,KOW,Callum Kowalski,Nordhaus Racing
+147275,411120,774079,2,69.208,2,0,2025,15,2025 R15 Zandvoort Dunes,ITO,Tomas Ito,Nordhaus Racing
+124858,411120,771088,3,69.208,3,0,2025,15,2025 R15 Zandvoort Dunes,MER,Hiro Mercer,Apex Dynamics
+594395,411120,711878,4,69.496,4,0,2025,15,2025 R15 Zandvoort Dunes,REY,Noah Reyes,Falcon Works
+186557,411120,430776,5,69.691,5,0,2025,15,2025 R15 Zandvoort Dunes,LIN,Sergio Lindqvist,Scuderia Valtorri
+486108,411120,356702,6,69.696,6,0,2025,15,2025 R15 Zandvoort Dunes,YAM,Theo Yamada,Apex Dynamics
+928491,411120,260265,7,69.829,7,0,2025,15,2025 R15 Zandvoort Dunes,DUV,Felix Duval,Kestrel GP
+694407,411120,905635,8,69.846,8,0,2025,15,2025 R15 Zandvoort Dunes,SAN,Marco Santos,Scuderia Valtorri
+420723,411120,688637,9,69.969,9,0,2025,15,2025 R15 Zandvoort Dunes,HAR,Mateo Hartmann,Falcon Works
+315222,411120,634277,10,70.192,10,0,2025,15,2025 R15 Zandvoort Dunes,LAR,Daniel Larsen,Kestrel GP
+579107,411120,166613,11,70.534,11,0,2025,15,2025 R15 Zandvoort Dunes,ALV,Diego Alvarez,Aurora Motorsport
+581038,411120,916449,12,70.615,12,0,2025,15,2025 R15 Zandvoort Dunes,DUB,Rafael Dubois,Maple Leaf Racing
+181413,411120,363626,13,70.774,17,1,2025,15,2025 R15 Zandvoort Dunes,ROS,Oskar Rossi,Aurora Motorsport
+368797,411120,211579,14,70.787,13,1,2025,15,2025 R15 Zandvoort Dunes,NOV,Jonas Novak,Iberia Speed
+857917,411120,663054,15,70.855,14,1,2025,15,2025 R15 Zandvoort Dunes,OKA,Ethan Okafor,Sakura Racing
+824944,411120,738551,16,70.942,15,1,2025,15,2025 R15 Zandvoort Dunes,TAN,Ivan Tanaka,Maple Leaf Racing
+387100,411120,407757,17,,16,1,2025,15,2025 R15 Zandvoort Dunes,BER,Leon Berg,Sakura Racing
+160077,411120,972064,18,71.195,18,0,2025,15,2025 R15 Zandvoort Dunes,MOR,Max Moretti,Outback GP
+680441,411120,612340,19,71.275,19,0,2025,15,2025 R15 Zandvoort Dunes,CAS,Luca Castillo,Outback GP
+844926,411120,854639,20,71.317,20,0,2025,15,2025 R15 Zandvoort Dunes,COS,Kai Costa,Iberia Speed
+337481,328275,771088,1,79.319,1,0,2025,16,2025 R16 Monza Park,MER,Hiro Mercer,Apex Dynamics
+644944,328275,774079,2,79.331,2,0,2025,16,2025 R16 Monza Park,ITO,Tomas Ito,Nordhaus Racing
+502651,328275,694731,3,79.432,3,0,2025,16,2025 R16 Monza Park,KOW,Callum Kowalski,Nordhaus Racing
+435503,328275,688637,4,79.757,4,0,2025,16,2025 R16 Monza Park,HAR,Mateo Hartmann,Falcon Works
+897984,328275,260265,5,79.763,5,0,2025,16,2025 R16 Monza Park,DUV,Felix Duval,Kestrel GP
+802383,328275,430776,6,79.862,6,0,2025,16,2025 R16 Monza Park,LIN,Sergio Lindqvist,Scuderia Valtorri
+286651,328275,356702,7,79.87,7,0,2025,16,2025 R16 Monza Park,YAM,Theo Yamada,Apex Dynamics
+704485,328275,905635,8,79.909,13,1,2025,16,2025 R16 Monza Park,SAN,Marco Santos,Scuderia Valtorri
+646449,328275,711878,9,79.943,8,1,2025,16,2025 R16 Monza Park,REY,Noah Reyes,Falcon Works
+838530,328275,663054,10,80.234,9,1,2025,16,2025 R16 Monza Park,OKA,Ethan Okafor,Sakura Racing
+684413,328275,363626,11,80.487,10,1,2025,16,2025 R16 Monza Park,ROS,Oskar Rossi,Aurora Motorsport
+461852,328275,166613,12,80.543,11,1,2025,16,2025 R16 Monza Park,ALV,Diego Alvarez,Aurora Motorsport
+874980,328275,916449,13,80.648,12,1,2025,16,2025 R16 Monza Park,DUB,Rafael Dubois,Maple Leaf Racing
+176993,328275,211579,14,,14,0,2025,16,2025 R16 Monza Park,NOV,Jonas Novak,Iberia Speed
+217339,328275,634277,15,80.688,15,0,2025,16,2025 R16 Monza Park,LAR,Daniel Larsen,Kestrel GP
+833343,328275,407757,16,80.696,16,0,2025,16,2025 R16 Monza Park,BER,Leon Berg,Sakura Racing
+826239,328275,854639,17,81.051,17,0,2025,16,2025 R16 Monza Park,COS,Kai Costa,Iberia Speed
+812817,328275,738551,18,81.083,18,0,2025,16,2025 R16 Monza Park,TAN,Ivan Tanaka,Maple Leaf Racing
+425165,328275,972064,19,81.091,19,0,2025,16,2025 R16 Monza Park,MOR,Max Moretti,Outback GP
+423144,328275,612340,20,81.394,20,0,2025,16,2025 R16 Monza Park,CAS,Luca Castillo,Outback GP
+299788,161324,771088,1,99.988,1,0,2025,17,2025 R17 Baku Old City,MER,Hiro Mercer,Apex Dynamics
+940545,161324,694731,2,100.184,2,0,2025,17,2025 R17 Baku Old City,KOW,Callum Kowalski,Nordhaus Racing
+988414,161324,774079,3,100.395,3,0,2025,17,2025 R17 Baku Old City,ITO,Tomas Ito,Nordhaus Racing
+574371,161324,905635,4,100.424,4,0,2025,17,2025 R17 Baku Old City,SAN,Marco Santos,Scuderia Valtorri
+313814,161324,356702,5,100.69,5,0,2025,17,2025 R17 Baku Old City,YAM,Theo Yamada,Apex Dynamics
+143578,161324,430776,6,100.766,6,0,2025,17,2025 R17 Baku Old City,LIN,Sergio Lindqvist,Scuderia Valtorri
+357619,161324,260265,7,100.902,7,0,2025,17,2025 R17 Baku Old City,DUV,Felix Duval,Kestrel GP
+332007,161324,688637,8,101.122,8,0,2025,17,2025 R17 Baku Old City,HAR,Mateo Hartmann,Falcon Works
+121110,161324,711878,9,101.145,9,0,2025,17,2025 R17 Baku Old City,REY,Noah Reyes,Falcon Works
+426908,161324,663054,10,101.22,10,0,2025,17,2025 R17 Baku Old City,OKA,Ethan Okafor,Sakura Racing
+386883,161324,634277,11,101.221,11,0,2025,17,2025 R17 Baku Old City,LAR,Daniel Larsen,Kestrel GP
+213613,161324,363626,12,101.559,12,0,2025,17,2025 R17 Baku Old City,ROS,Oskar Rossi,Aurora Motorsport
+605817,161324,166613,13,101.618,13,0,2025,17,2025 R17 Baku Old City,ALV,Diego Alvarez,Aurora Motorsport
+691805,161324,916449,14,101.696,16,1,2025,17,2025 R17 Baku Old City,DUB,Rafael Dubois,Maple Leaf Racing
+788395,161324,211579,15,102.062,14,1,2025,17,2025 R17 Baku Old City,NOV,Jonas Novak,Iberia Speed
+789725,161324,407757,16,102.103,15,1,2025,17,2025 R17 Baku Old City,BER,Leon Berg,Sakura Racing
+548128,161324,738551,17,102.121,17,0,2025,17,2025 R17 Baku Old City,TAN,Ivan Tanaka,Maple Leaf Racing
+656359,161324,854639,18,102.244,18,0,2025,17,2025 R17 Baku Old City,COS,Kai Costa,Iberia Speed
+506433,161324,972064,19,102.436,19,0,2025,17,2025 R17 Baku Old City,MOR,Max Moretti,Outback GP
+854993,161324,612340,20,102.485,20,0,2025,17,2025 R17 Baku Old City,CAS,Luca Castillo,Outback GP
+607758,707314,771088,1,93.219,1,0,2025,18,2025 R18 Marina Bay Night,MER,Hiro Mercer,Apex Dynamics
+544714,707314,694731,2,93.313,11,1,2025,18,2025 R18 Marina Bay Night,KOW,Callum Kowalski,Nordhaus Racing
+823642,707314,905635,3,93.442,2,1,2025,18,2025 R18 Marina Bay Night,SAN,Marco Santos,Scuderia Valtorri
+822705,707314,774079,4,93.605,3,1,2025,18,2025 R18 Marina Bay Night,ITO,Tomas Ito,Nordhaus Racing
+632091,707314,711878,5,93.763,4,1,2025,18,2025 R18 Marina Bay Night,REY,Noah Reyes,Falcon Works
+976496,707314,356702,6,93.857,5,1,2025,18,2025 R18 Marina Bay Night,YAM,Theo Yamada,Apex Dynamics
+988826,707314,688637,7,93.917,6,1,2025,18,2025 R18 Marina Bay Night,HAR,Mateo Hartmann,Falcon Works
+636366,707314,260265,8,93.96,7,1,2025,18,2025 R18 Marina Bay Night,DUV,Felix Duval,Kestrel GP
+887244,707314,430776,9,93.963,8,1,2025,18,2025 R18 Marina Bay Night,LIN,Sergio Lindqvist,Scuderia Valtorri
+201218,707314,634277,10,94.253,9,1,2025,18,2025 R18 Marina Bay Night,LAR,Daniel Larsen,Kestrel GP
+585603,707314,663054,11,94.352,10,1,2025,18,2025 R18 Marina Bay Night,OKA,Ethan Okafor,Sakura Racing
+169032,707314,363626,12,94.372,12,0,2025,18,2025 R18 Marina Bay Night,ROS,Oskar Rossi,Aurora Motorsport
+698459,707314,211579,13,94.455,13,0,2025,18,2025 R18 Marina Bay Night,NOV,Jonas Novak,Iberia Speed
+995766,707314,916449,14,94.492,14,0,2025,18,2025 R18 Marina Bay Night,DUB,Rafael Dubois,Maple Leaf Racing
+734441,707314,166613,15,94.727,15,0,2025,18,2025 R18 Marina Bay Night,ALV,Diego Alvarez,Aurora Motorsport
+616585,707314,854639,16,94.816,16,0,2025,18,2025 R18 Marina Bay Night,COS,Kai Costa,Iberia Speed
+878963,707314,738551,17,95.002,17,0,2025,18,2025 R18 Marina Bay Night,TAN,Ivan Tanaka,Maple Leaf Racing
+798202,707314,407757,18,95.074,18,0,2025,18,2025 R18 Marina Bay Night,BER,Leon Berg,Sakura Racing
+613233,707314,972064,19,95.2,19,0,2025,18,2025 R18 Marina Bay Night,MOR,Max Moretti,Outback GP
+101514,707314,612340,20,95.725,20,0,2025,18,2025 R18 Marina Bay Night,CAS,Luca Castillo,Outback GP
+386127,871476,774079,1,92.164,1,0,2025,19,2025 R19 Austin Americas,ITO,Tomas Ito,Nordhaus Racing
+281744,871476,771088,2,92.194,2,0,2025,19,2025 R19 Austin Americas,MER,Hiro Mercer,Apex Dynamics
+791471,871476,694731,3,92.282,3,0,2025,19,2025 R19 Austin Americas,KOW,Callum Kowalski,Nordhaus Racing
+829740,871476,430776,4,92.533,4,0,2025,19,2025 R19 Austin Americas,LIN,Sergio Lindqvist,Scuderia Valtorri
+137871,871476,905635,5,92.567,13,1,2025,19,2025 R19 Austin Americas,SAN,Marco Santos,Scuderia Valtorri
+195467,871476,356702,6,92.686,5,1,2025,19,2025 R19 Austin Americas,YAM,Theo Yamada,Apex Dynamics
+218571,871476,711878,7,92.819,6,1,2025,19,2025 R19 Austin Americas,REY,Noah Reyes,Falcon Works
+442748,871476,260265,8,92.898,7,1,2025,19,2025 R19 Austin Americas,DUV,Felix Duval,Kestrel GP
+515711,871476,634277,9,93.071,8,1,2025,19,2025 R19 Austin Americas,LAR,Daniel Larsen,Kestrel GP
+575091,871476,688637,10,93.106,9,1,2025,19,2025 R19 Austin Americas,HAR,Mateo Hartmann,Falcon Works
+314293,871476,663054,11,93.252,10,1,2025,19,2025 R19 Austin Americas,OKA,Ethan Okafor,Sakura Racing
+596515,871476,916449,12,93.382,11,1,2025,19,2025 R19 Austin Americas,DUB,Rafael Dubois,Maple Leaf Racing
+629210,871476,363626,13,93.495,12,1,2025,19,2025 R19 Austin Americas,ROS,Oskar Rossi,Aurora Motorsport
+721951,871476,166613,14,93.562,14,0,2025,19,2025 R19 Austin Americas,ALV,Diego Alvarez,Aurora Motorsport
+528239,871476,854639,15,93.855,15,0,2025,19,2025 R19 Austin Americas,COS,Kai Costa,Iberia Speed
+625989,871476,407757,16,93.979,16,0,2025,19,2025 R19 Austin Americas,BER,Leon Berg,Sakura Racing
+658933,871476,211579,17,93.989,17,0,2025,19,2025 R19 Austin Americas,NOV,Jonas Novak,Iberia Speed
+665536,871476,738551,18,94.291,18,0,2025,19,2025 R19 Austin Americas,TAN,Ivan Tanaka,Maple Leaf Racing
+381629,871476,972064,19,94.484,19,0,2025,19,2025 R19 Austin Americas,MOR,Max Moretti,Outback GP
+193211,871476,612340,20,94.801,20,0,2025,19,2025 R19 Austin Americas,CAS,Luca Castillo,Outback GP
+800047,668532,774079,1,75.06,1,0,2025,20,2025 R20 Mexico City Altitude,ITO,Tomas Ito,Nordhaus Racing
+396458,668532,694731,2,75.167,2,0,2025,20,2025 R20 Mexico City Altitude,KOW,Callum Kowalski,Nordhaus Racing
+283204,668532,771088,3,75.263,3,0,2025,20,2025 R20 Mexico City Altitude,MER,Hiro Mercer,Apex Dynamics
+446566,668532,905635,4,75.486,4,0,2025,20,2025 R20 Mexico City Altitude,SAN,Marco Santos,Scuderia Valtorri
+131887,668532,356702,5,75.577,5,0,2025,20,2025 R20 Mexico City Altitude,YAM,Theo Yamada,Apex Dynamics
+982219,668532,711878,6,75.587,9,1,2025,20,2025 R20 Mexico City Altitude,REY,Noah Reyes,Falcon Works
+660975,668532,260265,7,75.728,6,1,2025,20,2025 R20 Mexico City Altitude,DUV,Felix Duval,Kestrel GP
+523037,668532,688637,8,75.882,7,1,2025,20,2025 R20 Mexico City Altitude,HAR,Mateo Hartmann,Falcon Works
+962900,668532,430776,9,75.939,8,1,2025,20,2025 R20 Mexico City Altitude,LIN,Sergio Lindqvist,Scuderia Valtorri
+319406,668532,634277,10,76.006,10,0,2025,20,2025 R20 Mexico City Altitude,LAR,Daniel Larsen,Kestrel GP
+526733,668532,916449,11,76.462,11,0,2025,20,2025 R20 Mexico City Altitude,DUB,Rafael Dubois,Maple Leaf Racing
+657078,668532,211579,12,76.521,12,0,2025,20,2025 R20 Mexico City Altitude,NOV,Jonas Novak,Iberia Speed
+999213,668532,363626,13,76.535,13,0,2025,20,2025 R20 Mexico City Altitude,ROS,Oskar Rossi,Aurora Motorsport
+218788,668532,663054,14,76.573,14,0,2025,20,2025 R20 Mexico City Altitude,OKA,Ethan Okafor,Sakura Racing
+190064,668532,166613,15,76.679,15,0,2025,20,2025 R20 Mexico City Altitude,ALV,Diego Alvarez,Aurora Motorsport
+407309,668532,738551,16,77.088,16,0,2025,20,2025 R20 Mexico City Altitude,TAN,Ivan Tanaka,Maple Leaf Racing
+809527,668532,854639,17,77.212,17,0,2025,20,2025 R20 Mexico City Altitude,COS,Kai Costa,Iberia Speed
+846893,668532,972064,18,77.361,18,0,2025,20,2025 R20 Mexico City Altitude,MOR,Max Moretti,Outback GP
+759162,668532,407757,19,77.379,19,0,2025,20,2025 R20 Mexico City Altitude,BER,Leon Berg,Sakura Racing
+772804,668532,612340,20,77.707,20,0,2025,20,2025 R20 Mexico City Altitude,CAS,Luca Castillo,Outback GP
+346111,163918,694731,1,74.657,1,0,2025,21,2025 R21 Sao Paulo Interlagos,KOW,Callum Kowalski,Nordhaus Racing
+973279,163918,356702,2,74.754,2,0,2025,21,2025 R21 Sao Paulo Interlagos,YAM,Theo Yamada,Apex Dynamics
+855668,163918,771088,3,74.775,3,0,2025,21,2025 R21 Sao Paulo Interlagos,MER,Hiro Mercer,Apex Dynamics
+594123,163918,774079,4,74.801,11,1,2025,21,2025 R21 Sao Paulo Interlagos,ITO,Tomas Ito,Nordhaus Racing
+460620,163918,711878,5,74.989,4,1,2025,21,2025 R21 Sao Paulo Interlagos,REY,Noah Reyes,Falcon Works
+940693,163918,430776,6,75.319,5,1,2025,21,2025 R21 Sao Paulo Interlagos,LIN,Sergio Lindqvist,Scuderia Valtorri
+122429,163918,260265,7,75.429,6,1,2025,21,2025 R21 Sao Paulo Interlagos,DUV,Felix Duval,Kestrel GP
+253082,163918,905635,8,75.435,7,1,2025,21,2025 R21 Sao Paulo Interlagos,SAN,Marco Santos,Scuderia Valtorri
+703778,163918,688637,9,75.516,8,1,2025,21,2025 R21 Sao Paulo Interlagos,HAR,Mateo Hartmann,Falcon Works
+392850,163918,634277,10,75.642,9,1,2025,21,2025 R21 Sao Paulo Interlagos,LAR,Daniel Larsen,Kestrel GP
+313659,163918,663054,11,75.792,10,1,2025,21,2025 R21 Sao Paulo Interlagos,OKA,Ethan Okafor,Sakura Racing
+340394,163918,211579,12,75.877,19,1,2025,21,2025 R21 Sao Paulo Interlagos,NOV,Jonas Novak,Iberia Speed
+691786,163918,166613,13,76.13,12,1,2025,21,2025 R21 Sao Paulo Interlagos,ALV,Diego Alvarez,Aurora Motorsport
+821118,163918,854639,14,76.281,13,1,2025,21,2025 R21 Sao Paulo Interlagos,COS,Kai Costa,Iberia Speed
+792441,163918,916449,15,76.438,14,1,2025,21,2025 R21 Sao Paulo Interlagos,DUB,Rafael Dubois,Maple Leaf Racing
+614052,163918,972064,16,76.457,15,1,2025,21,2025 R21 Sao Paulo Interlagos,MOR,Max Moretti,Outback GP
+427407,163918,363626,17,76.51,16,1,2025,21,2025 R21 Sao Paulo Interlagos,ROS,Oskar Rossi,Aurora Motorsport
+789087,163918,738551,18,76.544,17,1,2025,21,2025 R21 Sao Paulo Interlagos,TAN,Ivan Tanaka,Maple Leaf Racing
+948772,163918,407757,19,76.684,18,1,2025,21,2025 R21 Sao Paulo Interlagos,BER,Leon Berg,Sakura Racing
+961732,163918,612340,20,76.908,20,0,2025,21,2025 R21 Sao Paulo Interlagos,CAS,Luca Castillo,Outback GP
+359832,884309,771088,1,90.949,1,0,2025,22,2025 R22 Las Vegas Strip,MER,Hiro Mercer,Apex Dynamics
+145231,884309,774079,2,91.295,2,0,2025,22,2025 R22 Las Vegas Strip,ITO,Tomas Ito,Nordhaus Racing
+575316,884309,356702,3,91.49,3,0,2025,22,2025 R22 Las Vegas Strip,YAM,Theo Yamada,Apex Dynamics
+411526,884309,694731,4,91.496,4,0,2025,22,2025 R22 Las Vegas Strip,KOW,Callum Kowalski,Nordhaus Racing
+734233,884309,905635,5,91.601,5,0,2025,22,2025 R22 Las Vegas Strip,SAN,Marco Santos,Scuderia Valtorri
+928575,884309,711878,6,91.999,6,0,2025,22,2025 R22 Las Vegas Strip,REY,Noah Reyes,Falcon Works
+144518,884309,430776,7,92.082,7,0,2025,22,2025 R22 Las Vegas Strip,LIN,Sergio Lindqvist,Scuderia Valtorri
+614803,884309,688637,8,92.201,8,0,2025,22,2025 R22 Las Vegas Strip,HAR,Mateo Hartmann,Falcon Works
+835043,884309,260265,9,92.201,9,0,2025,22,2025 R22 Las Vegas Strip,DUV,Felix Duval,Kestrel GP
+758385,884309,634277,10,92.255,10,0,2025,22,2025 R22 Las Vegas Strip,LAR,Daniel Larsen,Kestrel GP
+984390,884309,211579,11,92.257,11,0,2025,22,2025 R22 Las Vegas Strip,NOV,Jonas Novak,Iberia Speed
+640273,884309,663054,12,92.452,12,0,2025,22,2025 R22 Las Vegas Strip,OKA,Ethan Okafor,Sakura Racing
+119029,884309,363626,13,92.628,13,0,2025,22,2025 R22 Las Vegas Strip,ROS,Oskar Rossi,Aurora Motorsport
+400277,884309,916449,14,92.682,14,0,2025,22,2025 R22 Las Vegas Strip,DUB,Rafael Dubois,Maple Leaf Racing
+703566,884309,166613,15,92.768,15,0,2025,22,2025 R22 Las Vegas Strip,ALV,Diego Alvarez,Aurora Motorsport
+329754,884309,407757,16,92.816,16,0,2025,22,2025 R22 Las Vegas Strip,BER,Leon Berg,Sakura Racing
+865918,884309,854639,17,,17,0,2025,22,2025 R22 Las Vegas Strip,COS,Kai Costa,Iberia Speed
+110178,884309,972064,18,93.286,18,0,2025,22,2025 R22 Las Vegas Strip,MOR,Max Moretti,Outback GP
+335254,884309,612340,19,93.403,19,0,2025,22,2025 R22 Las Vegas Strip,CAS,Luca Castillo,Outback GP
+659353,884309,738551,20,93.579,20,0,2025,22,2025 R22 Las Vegas Strip,TAN,Ivan Tanaka,Maple Leaf Racing
+499644,428838,771088,1,80.97,1,0,2025,23,2025 R23 Lusail Desert,MER,Hiro Mercer,Apex Dynamics
+190590,428838,694731,2,81.337,2,0,2025,23,2025 R23 Lusail Desert,KOW,Callum Kowalski,Nordhaus Racing
+653392,428838,905635,3,81.338,3,0,2025,23,2025 R23 Lusail Desert,SAN,Marco Santos,Scuderia Valtorri
+167248,428838,356702,4,81.561,4,0,2025,23,2025 R23 Lusail Desert,YAM,Theo Yamada,Apex Dynamics
+869641,428838,774079,5,81.587,5,0,2025,23,2025 R23 Lusail Desert,ITO,Tomas Ito,Nordhaus Racing
+974376,428838,260265,6,81.666,12,1,2025,23,2025 R23 Lusail Desert,DUV,Felix Duval,Kestrel GP
+578393,428838,634277,7,81.75,15,1,2025,23,2025 R23 Lusail Desert,LAR,Daniel Larsen,Kestrel GP
+963662,428838,711878,8,82.007,6,1,2025,23,2025 R23 Lusail Desert,REY,Noah Reyes,Falcon Works
+295148,428838,688637,9,82.271,7,1,2025,23,2025 R23 Lusail Desert,HAR,Mateo Hartmann,Falcon Works
+631640,428838,430776,10,82.345,8,1,2025,23,2025 R23 Lusail Desert,LIN,Sergio Lindqvist,Scuderia Valtorri
+222553,428838,663054,11,82.451,9,1,2025,23,2025 R23 Lusail Desert,OKA,Ethan Okafor,Sakura Racing
+525677,428838,211579,12,82.579,10,1,2025,23,2025 R23 Lusail Desert,NOV,Jonas Novak,Iberia Speed
+373484,428838,363626,13,82.6,11,1,2025,23,2025 R23 Lusail Desert,ROS,Oskar Rossi,Aurora Motorsport
+509308,428838,166613,14,82.653,13,1,2025,23,2025 R23 Lusail Desert,ALV,Diego Alvarez,Aurora Motorsport
+770042,428838,854639,15,82.825,14,1,2025,23,2025 R23 Lusail Desert,COS,Kai Costa,Iberia Speed
+172517,428838,407757,16,83.032,16,0,2025,23,2025 R23 Lusail Desert,BER,Leon Berg,Sakura Racing
+523394,428838,916449,17,83.153,17,0,2025,23,2025 R23 Lusail Desert,DUB,Rafael Dubois,Maple Leaf Racing
+604847,428838,612340,18,83.413,18,0,2025,23,2025 R23 Lusail Desert,CAS,Luca Castillo,Outback GP
+111014,428838,972064,19,83.495,19,0,2025,23,2025 R23 Lusail Desert,MOR,Max Moretti,Outback GP
+358757,428838,738551,20,83.565,20,0,2025,23,2025 R23 Lusail Desert,TAN,Ivan Tanaka,Maple Leaf Racing
+345657,159942,771088,1,82.827,1,0,2025,24,2025 R24 Yas Marina,MER,Hiro Mercer,Apex Dynamics
+449788,159942,694731,2,83.235,2,0,2025,24,2025 R24 Yas Marina,KOW,Callum Kowalski,Nordhaus Racing
+373430,159942,905635,3,83.452,6,1,2025,24,2025 R24 Yas Marina,SAN,Marco Santos,Scuderia Valtorri
+765005,159942,774079,4,83.525,3,1,2025,24,2025 R24 Yas Marina,ITO,Tomas Ito,Nordhaus Racing
+453007,159942,356702,5,83.645,4,1,2025,24,2025 R24 Yas Marina,YAM,Theo Yamada,Apex Dynamics
+122076,159942,260265,6,83.67,5,1,2025,24,2025 R24 Yas Marina,DUV,Felix Duval,Kestrel GP
+255003,159942,688637,7,83.818,7,0,2025,24,2025 R24 Yas Marina,HAR,Mateo Hartmann,Falcon Works
+681544,159942,430776,8,83.835,8,0,2025,24,2025 R24 Yas Marina,LIN,Sergio Lindqvist,Scuderia Valtorri
+766067,159942,711878,9,84.016,9,0,2025,24,2025 R24 Yas Marina,REY,Noah Reyes,Falcon Works
+202205,159942,634277,10,84.22,10,0,2025,24,2025 R24 Yas Marina,LAR,Daniel Larsen,Kestrel GP
+184078,159942,211579,11,84.405,11,0,2025,24,2025 R24 Yas Marina,NOV,Jonas Novak,Iberia Speed
+579379,159942,663054,12,84.452,12,0,2025,24,2025 R24 Yas Marina,OKA,Ethan Okafor,Sakura Racing
+709451,159942,166613,13,84.452,13,0,2025,24,2025 R24 Yas Marina,ALV,Diego Alvarez,Aurora Motorsport
+817363,159942,363626,14,84.499,14,0,2025,24,2025 R24 Yas Marina,ROS,Oskar Rossi,Aurora Motorsport
+998153,159942,916449,15,84.702,15,0,2025,24,2025 R24 Yas Marina,DUB,Rafael Dubois,Maple Leaf Racing
+614412,159942,407757,16,84.714,16,0,2025,24,2025 R24 Yas Marina,BER,Leon Berg,Sakura Racing
+970627,159942,854639,17,85.082,17,0,2025,24,2025 R24 Yas Marina,COS,Kai Costa,Iberia Speed
+608091,159942,972064,18,85.12,18,0,2025,24,2025 R24 Yas Marina,MOR,Max Moretti,Outback GP
+499344,159942,738551,19,85.203,19,0,2025,24,2025 R24 Yas Marina,TAN,Ivan Tanaka,Maple Leaf Racing
+459900,159942,612340,20,85.661,20,0,2025,24,2025 R24 Yas Marina,CAS,Luca Castillo,Outback GP

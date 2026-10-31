@@ -1,0 +1,49 @@
+race_id,season,round,circuit_id,race_date,total_laps,weather,air_temp_c,track_temp_c,humidity_pct,attendance,safety_car_laps,circuit_name,circuit_country,race_label
+947272,2024,1,694916,2024-03-03,56,Dry,24.9,41.9,41.0,140563.0,4,Sakhir Desert Circuit,Bahrain,2024 R01 Sakhir Desert Circuit
+997546,2024,2,609597,2024-03-17,49,Dry,31.1,37.2,31.0,93464.0,5,Jeddah Corniche,Saudi Arabia,2024 R02 Jeddah Corniche
+677057,2024,3,658582,2024-03-24,58,Dry,32.0,47.9,42.0,63940.0,5,Melbourne Park,Australia,2024 R03 Melbourne Park
+202664,2024,4,598369,2024-04-07,52,Wet,10.2,10.4,75.0,113977.0,4,Suzuka Hills,Japan,2024 R04 Suzuka Hills
+153045,2024,5,653306,2024-04-21,56,Cloudy,25.8,43.1,60.0,138249.0,4,Shanghai International,China,2024 R05 Shanghai International
+783823,2024,6,322086,2024-04-28,56,Hot,26.1,32.0,46.0,109249.0,0,Miami Marina,United States,2024 R06 Miami Marina
+666847,2024,7,823378,2024-05-12,62,Dry,42.0,56.8,46.0,62725.0,0,Imola Autodromo,Italy,2024 R07 Imola Autodromo
+976638,2024,8,804314,2024-05-19,91,Dry,24.0,38.0,64.0,75900.0,4,Monaco Harbour,Monaco,2024 R08 Monaco Harbour
+115474,2024,9,642717,2024-06-02,70,Wet,22.6,25.3,97.0,92093.0,8,Montreal Island,Canada,2024 R09 Montreal Island
+197793,2024,10,167136,2024-06-09,65,Hot,22.7,40.2,41.0,106819.0,5,Barcelona Catalunya,Spain,2024 R10 Barcelona Catalunya
+890170,2024,11,341292,2024-06-23,71,Hot,31.1,48.5,49.0,67592.0,5,Red Bull Alpine Ring,Austria,2024 R11 Red Bull Alpine Ring
+989921,2024,12,842225,2024-06-30,52,Wet,31.1,32.8,93.0,140284.0,4,Silverstone Plains,United Kingdom,2024 R12 Silverstone Plains
+347861,2024,13,132938,2024-07-14,70,Wet,29.2,29.5,92.0,109497.0,5,Hungaroring,Hungary,2024 R13 Hungaroring
+274389,2024,14,349565,2024-07-28,44,Dry,21.8,27.7,76.0,82809.0,0,Spa Ardennes,Belgium,2024 R14 Spa Ardennes
+526156,2024,15,665427,2024-08-04,72,Cloudy,28.9,43.7,23.0,162382.0,5,Zandvoort Dunes,Netherlands,2024 R15 Zandvoort Dunes
+609231,2024,16,698782,2024-08-18,53,Wet,31.2,32.2,49.0,89395.0,0,Monza Park,Italy,2024 R16 Monza Park
+604740,2024,17,595948,2024-08-25,51,Dry,20.4,35.1,60.0,75466.0,4,Baku Old City,Azerbaijan,2024 R17 Baku Old City
+324130,2024,18,201639,2024-09-08,62,Wet,30.0,31.6,88.0,105285.0,3,Marina Bay Night,Singapore,2024 R18 Marina Bay Night
+520521,2024,19,531071,2024-09-15,55,Wet,18.9,21.7,84.0,100654.0,15,Austin Americas,United States,2024 R19 Austin Americas
+161483,2024,20,806073,2024-09-29,71,Cloudy,29.1,39.1,41.0,81432.0,0,Mexico City Altitude,Mexico,2024 R20 Mexico City Altitude
+272634,2024,21,163556,2024-10-06,71,Wet,23.2,25.5,80.0,98336.0,0,Sao Paulo Interlagos,Brazil,2024 R21 Sao Paulo Interlagos
+497382,2024,22,214576,2024-10-20,49,Wet,18.2,20.7,93.0,96018.0,8,Las Vegas Strip,United States,2024 R22 Las Vegas Strip
+102260,2024,23,570405,2024-11-03,57,Cloudy,25.1,38.7,22.0,70009.0,5,Lusail Desert,Qatar,2024 R23 Lusail Desert
+509386,2024,24,585100,2024-11-10,58,Dry,37.7,47.3,38.0,126815.0,0,Yas Marina,United Arab Emirates,2024 R24 Yas Marina
+922157,2025,1,694916,2025-03-09,56,Dry,28.7,43.8,,113072.0,3,Sakhir Desert Circuit,Bahrain,2025 R01 Sakhir Desert Circuit
+923267,2025,2,609597,2025-03-16,49,Cloudy,35.1,52.4,49.0,149419.0,0,Jeddah Corniche,Saudi Arabia,2025 R02 Jeddah Corniche
+577110,2025,3,658582,2025-03-30,58,Dry,27.5,36.7,46.0,108236.0,3,Melbourne Park,Australia,2025 R03 Melbourne Park
+399105,2025,4,598369,2025-04-06,52,Hot,27.1,42.5,67.0,89894.0,0,Suzuka Hills,Japan,2025 R04 Suzuka Hills
+543555,2025,5,653306,2025-04-20,56,Dry,21.2,33.0,38.0,189828.0,0,Shanghai International,China,2025 R05 Shanghai International
+830429,2025,6,322086,2025-04-27,56,Hot,20.7,29.9,41.0,77804.0,3,Miami Marina,United States,2025 R06 Miami Marina
+865990,2025,7,823378,2025-05-11,62,Wet,20.3,21.9,77.0,111211.0,5,Imola Autodromo,Italy,2025 R07 Imola Autodromo
+921414,2025,8,804314,2025-05-18,91,Cloudy,22.0,28.5,47.0,118820.0,5,Monaco Harbour,Monaco,2025 R08 Monaco Harbour
+682765,2025,9,642717,2025-06-01,70,Cloudy,29.1,39.8,45.0,114598.0,5,Montreal Island,Canada,2025 R09 Montreal Island
+794022,2025,10,167136,2025-06-08,65,Hot,37.3,55.2,57.0,150521.0,10,Barcelona Catalunya,Spain,2025 R10 Barcelona Catalunya
+853305,2025,11,341292,2025-06-22,71,Cloudy,28.2,33.4,67.0,84957.0,0,Red Bull Alpine Ring,Austria,2025 R11 Red Bull Alpine Ring
+610311,2025,12,842225,2025-07-06,52,Hot,27.0,38.1,50.0,140736.0,4,Silverstone Plains,United Kingdom,2025 R12 Silverstone Plains
+262316,2025,13,132938,2025-07-13,70,Cloudy,25.9,31.7,70.0,100693.0,3,Hungaroring,Hungary,2025 R13 Hungaroring
+299122,2025,14,349565,2025-07-27,44,Dry,23.4,39.3,47.0,123044.0,5,Spa Ardennes,Belgium,2025 R14 Spa Ardennes
+411120,2025,15,665427,2025-08-03,72,Dry,19.6,24.9,41.0,120972.0,4,Zandvoort Dunes,Netherlands,2025 R15 Zandvoort Dunes
+328275,2025,16,698782,2025-08-17,53,Dry,39.0,53.1,20.0,98906.0,8,Monza Park,Italy,2025 R16 Monza Park
+161324,2025,17,595948,2025-08-24,51,Cloudy,24.5,34.4,36.0,135805.0,5,Baku Old City,Azerbaijan,2025 R17 Baku Old City
+707314,2025,18,201639,2025-09-07,62,Dry,14.2,23.6,61.0,115475.0,0,Marina Bay Night,Singapore,2025 R18 Marina Bay Night
+871476,2025,19,531071,2025-09-14,55,Cloudy,24.2,29.4,44.0,86717.0,0,Austin Americas,United States,2025 R19 Austin Americas
+668532,2025,20,806073,2025-09-28,71,Dry,29.7,41.0,39.0,121498.0,0,Mexico City Altitude,Mexico,2025 R20 Mexico City Altitude
+163918,2025,21,163556,2025-10-12,71,Wet,28.8,30.8,80.0,123982.0,4,Sao Paulo Interlagos,Brazil,2025 R21 Sao Paulo Interlagos
+884309,2025,22,214576,2025-10-19,49,Dry,28.0,44.4,51.0,100978.0,0,Las Vegas Strip,United States,2025 R22 Las Vegas Strip
+428838,2025,23,570405,2025-11-02,57,Hot,34.2,43.3,39.0,154919.0,0,Lusail Desert,Qatar,2025 R23 Lusail Desert
+159942,2025,24,585100,2025-11-09,58,Dry,13.0,30.7,50.0,,4,Yas Marina,United Arab Emirates,2025 R24 Yas Marina

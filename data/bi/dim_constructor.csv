@@ -1,0 +1,11 @@
+constructor_id,constructor_name,constructor_nationality,car_pace_delta,reliability,base_budget_musd
+770487,Apex Dynamics,United Kingdom,0.0,0.97,243
+126225,Scuderia Valtorri,Italy,0.12,0.95,239
+356787,Nordhaus Racing,Germany,0.25,0.96,229
+246316,Falcon Works,United States,0.4,0.94,215
+809570,Kestrel GP,United Kingdom,0.6,0.93,215
+191161,Aurora Motorsport,France,0.75,0.92,205
+542417,Sakura Racing,Japan,0.95,0.93,174
+131244,Iberia Speed,Spain,1.15,0.9,161
+329258,Maple Leaf Racing,Canada,1.35,0.89,152
+629903,Outback GP,Australia,1.55,0.88,150
