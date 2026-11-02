@@ -23,3 +23,70 @@ KNOWN = {
     "interlagos": (4.31, 70.5, 0.35, 0.60), "vegas": (6.20, 94.0, 0.02, 0.70),
     "losail": (5.38, 84.0, 0.01, 0.50), "yas_marina": (5.28, 86.0, 0.01, 0.45),
 }
+
+
+def build_world(rng, nrng, rid):
+    ref = json.load(open(REF_PATH))
+
+    # ---- constructors: car pace and reliability from championship position ----
+    teams = sorted(ref["constructors"], key=lambda t: t["position"])
+    n = len(teams)
+    total_pts = sum(t["points"] for t in teams)
+    top_pts = max(t["points"] for t in teams) or 1
+    constructors, cid, tpts = [], {}, {}
+    for i, t in enumerate(teams):
+        delta = 1.6 * \
+            (1 - t["points"] / top_pts) if total_pts > 0 else 1.6 * \
+            i / max(1, n - 1)
+        row = dict(constructor_id=rid(), name=t["name"], nationality=t["nationality"],
+                   car_pace_delta=round(delta, 3),
+                   reliability=round(0.97 - 0.09 * i / max(1, n - 1), 3),
+                   base_budget_musd=int(250 - delta * 70 + rng.randint(-10, 10)))
+        constructors.append(row)
+        cid[t["constructorId"]] = row["constructor_id"]
+        tpts[t["constructorId"]] = t["points"]
+
+    # ---- drivers: skill from share of the team's points (beating your teammate = faster) ----
+    load = {k: 0 for k in cid}
+    for d in ref["drivers"]:
+        if d.get("constructorId") in cid:
+            load[d["constructorId"]] += 1
+    drivers = []
+    for d in ref["drivers"]:
+        team = d.get("constructorId")
+        if team not in cid:                      # driver with no team in the standings
+            team = min(load, key=load.get)
+            load[team] += 1
+        share = d["points"] / tpts[team] if tpts[team] > 0 else 0.5
+        skill = float(np.clip((0.5 - share) * 0.8, -
+                      0.3, 0.3) + nrng.normal(0, 0.05))
+        drivers.append(dict(
+            driver_id=rid(), first_name=d["givenName"], last_name=d["familyName"],
+            code=d.get("code") or d["familyName"][:3].upper(),
+            driver_number=int(d.get("number") or rng.randint(2, 98)),
+            nationality=d["nationality"], date_of_birth=d["dateOfBirth"],
+            skill=round(skill, 3), aggression=round(rng.uniform(0.2, 0.9), 2),
+            constructor_id=cid[team], rookie=bool(d.get("rookie"))))
+
+    # ---- circuits (unique across both seasons) and race calendar ----
+    circuits, circ_by_key, races = [], {}, []
+    for year in sorted(ref["calendars"], key=int):
+        for r in sorted(ref["calendars"][year], key=lambda x: x["round"]):
+            key = r["circuitId"]
+            if key not in circ_by_key:
+                if key in KNOWN:
+                    km, base, rain, ot = KNOWN[key]
+                else:                             # unknown track: plausible random values
+                    km = round(rng.uniform(4.0, 6.5), 2)
+                    base = round(km * 17.5 + rng.uniform(-6, 6), 1)
+                    rain, ot = round(rng.uniform(0.05, 0.30), 2), round(
+                        rng.uniform(0.25, 0.60), 2)
+                row = dict(circuit_id=rid(), name=r["circuitName"], country=r["country"], length_km=km,
+                           laps=int(round(305 / km)), base_lap_time_s=base, pit_loss_s=round(rng.uniform(18, 26), 1),
+                           rain_probability=rain, overtaking_ease=ot, tyre_wear_factor=round(rng.uniform(0.7, 1.4), 2))
+                circuits.append(row)
+                circ_by_key[key] = row
+            c = circ_by_key[key]
+            races.append(dict(race_id=rid(), season=int(year), round=r["round"], circuit_id=c["circuit_id"],
+                              race_date=date.fromisoformat(r["date"]), _c=c))
+    return constructors, drivers, circuits, races
