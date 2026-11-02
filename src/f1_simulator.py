@@ -110,7 +110,7 @@ if USE_LIVE:
     from live_world import build_world
     constructors, drivers, circuits, races = build_world(rng, nrng, rid)
     print("Using live reference data from data/reference/reference.json")
-    
+
 COMP = {"SOFT": (0.0, 0.085, 18), "MEDIUM": (0.45, 0.05, 28),
         "HARD": (0.9, 0.032, 40)}  # offset, deg/lap, life (laps)
 quali = []
@@ -153,7 +153,7 @@ for race in races:
     for pos, (t, d) in enumerate(qs, 1):
         gp = pos
         if rng.random() < 0.06:
-            gp = min(20, pos+rng.randint(3, 10))  # grid penalty
+            gp = min(len(drivers), pos+rng.randint(3, 10))  # grid penalty
         grid[d["driver_id"]] = [pos, gp, t]
     order = sorted(grid.items(), key=lambda kv: (kv[1][1], kv[1][0]))
     for gpos, (did, v) in enumerate(order, 1):
