@@ -103,7 +103,14 @@ for season in (2024, 2025):
         dt += timedelta(days=(6-dt.weekday()) % 7)  # move to Sunday
         races.append(dict(race_id=rid(), season=season, round=rnd,
                      circuit_id=c["circuit_id"], race_date=dt, _c=c))
-
+# ---------- live data override: real teams, drivers and calendar from the Jolpica API ----------
+USE_LIVE = os.path.exists(
+    "data/reference/reference.json") and "--fictional" not in sys.argv
+if USE_LIVE:
+    from live_world import build_world
+    constructors, drivers, circuits, races = build_world(rng, nrng, rid)
+    print("Using live reference data from data/reference/reference.json")
+    
 COMP = {"SOFT": (0.0, 0.085, 18), "MEDIUM": (0.45, 0.05, 28),
         "HARD": (0.9, 0.032, 40)}  # offset, deg/lap, life (laps)
 quali = []
