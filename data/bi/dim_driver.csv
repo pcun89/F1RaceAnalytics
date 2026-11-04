@@ -1,21 +1,25 @@
 driver_id,first_name,last_name,code,driver_number,nationality,date_of_birth,constructor_id,rookie,driver_name,constructor_name
-356702,Theo,Yamada,YAM,14,Italy,1996-05-14,770487,0,Theo Yamada,Apex Dynamics
-771088,Hiro,Mercer,MER,50,Denmark,1998-06-29,770487,0,Hiro Mercer,Apex Dynamics
-905635,Marco,Santos,SAN,37,Mexico,1987-04-04,126225,1,Marco Santos,Scuderia Valtorri
-430776,Sergio,Lindqvist,LIN,60,Japan,1992-01-03,126225,0,Sergio Lindqvist,Scuderia Valtorri
-694731,Callum,Kowalski,KOW,83,United States,1993-01-21,356787,0,Callum Kowalski,Nordhaus Racing
-774079,Tomas,Ito,ITO,48,Australia,1989-03-16,356787,0,Tomas Ito,Nordhaus Racing
-688637,Mateo,Hartmann,HAR,22,Canada,1991-11-23,246316,0,Mateo Hartmann,Falcon Works
-711878,Noah,Reyes,REY,49,Japan,1994-02-13,246316,0,Noah Reyes,Falcon Works
-634277,Daniel,Larsen,LAR,47,Australia,1988-01-15,809570,0,Daniel Larsen,Kestrel GP
-260265,Felix,Duval,DUV,28,Finland,1989-08-03,809570,0,Felix Duval,Kestrel GP
-166613,Diego,Alvarez,ALV,87,Japan,1994-07-24,191161,0,Diego Alvarez,Aurora Motorsport
-363626,Oskar,Rossi,ROS,36,Canada,1986-04-05,191161,1,Oskar Rossi,Aurora Motorsport
-663054,Ethan,Okafor,OKA,91,Mexico,1991-12-26,542417,0,Ethan Okafor,Sakura Racing
-407757,Leon,Berg,BER,89,Japan,1989-07-19,542417,0,Leon Berg,Sakura Racing
-854639,Kai,Costa,COS,84,Spain,1997-03-24,131244,0,Kai Costa,Iberia Speed
-211579,Jonas,Novak,NOV,11,Thailand,2000-01-10,131244,0,Jonas Novak,Iberia Speed
-738551,Ivan,Tanaka,TAN,79,France,1989-06-06,329258,1,Ivan Tanaka,Maple Leaf Racing
-916449,Rafael,Dubois,DUB,23,United States,1997-11-23,329258,0,Rafael Dubois,Maple Leaf Racing
-612340,Luca,Castillo,CAS,70,United Kingdom,1988-07-05,629903,0,Luca Castillo,Outback GP
-972064,Max,Moretti,MOR,95,Mexico,1992-11-24,629903,0,Max Moretti,Outback GP
+141672,Andrea Kimi,Antonelli,ANT,12,Italian,2006-08-25,152578,0,Andrea Kimi Antonelli,Mercedes
+539589,Max,Verstappen,VER,3,Dutch,1997-09-30,994141,0,Max Verstappen,Red Bull
+692683,Lewis,Hamilton,HAM,44,British,1985-01-07,599948,0,Lewis Hamilton,Ferrari
+373432,George,Russell,RUS,63,British,1998-02-15,152578,0,George Russell,Mercedes
+850981,Charles,Leclerc,LEC,16,Monegasque,1997-10-16,599948,0,Charles Leclerc,Ferrari
+378517,Lando,Norris,NOR,1,British,1999-11-13,265080,0,Lando Norris,McLaren
+804318,Oscar,Piastri,PIA,81,Australian,2001-04-06,265080,0,Oscar Piastri,McLaren
+579434,Isack,Hadjar,HAD,6,French,2004-09-28,994141,0,Isack Hadjar,Red Bull
+888387,Liam,Lawson,LAW,30,New Zealander,2002-02-11,994141,0,Liam Lawson,Red Bull
+109767,Pierre,Gasly,GAS,10,French,1996-02-07,992697,0,Pierre Gasly,Alpine F1 Team
+690341,Arvid,Lindblad,LIN,41,British,2007-08-08,632496,0,Arvid Lindblad,RB F1 Team
+176819,Franco,Colapinto,COL,43,Argentine,2003-05-27,992697,0,Franco Colapinto,Alpine F1 Team
+630458,Oliver,Bearman,BEA,87,British,2005-05-08,171849,0,Oliver Bearman,Haas F1 Team
+465962,Gabriel,Bortoleto,BOR,5,Brazilian,2004-10-14,171262,0,Gabriel Bortoleto,Audi
+356150,Nico,Hülkenberg,HUL,27,German,1987-08-19,171262,0,Nico Hülkenberg,Audi
+265409,Esteban,Ocon,OCO,31,French,1996-09-17,171849,0,Esteban Ocon,Haas F1 Team
+669605,Fernando,Alonso,ALO,14,Spanish,1981-07-29,697347,0,Fernando Alonso,Aston Martin
+741390,Carlos,Sainz,SAI,55,Spanish,1994-09-01,523389,0,Carlos Sainz,Williams
+946305,Alexander,Albon,ALB,23,Thai,1996-03-23,523389,0,Alexander Albon,Williams
+108203,Yuki,Tsunoda,TSU,22,Japanese,2000-05-11,632496,0,Yuki Tsunoda,RB F1 Team
+681542,Ryo,Hirakawa,HIR,50,Japanese,1994-03-07,171849,0,Ryo Hirakawa,Haas F1 Team
+795613,Lance,Stroll,STR,18,Canadian,1998-10-29,697347,0,Lance Stroll,Aston Martin
+240814,Valtteri,Bottas,BOT,77,Finnish,1989-08-28,707040,1,Valtteri Bottas,Cadillac F1 Team
+212235,Sergio,Pérez,PER,11,Mexican,1990-01-26,707040,1,Sergio Pérez,Cadillac F1 Team

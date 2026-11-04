@@ -1,0 +1,838 @@
+{
+  "season": 2026,
+  "source": "https://api.jolpi.ca/ergast/f1",
+  "fetched_at": "2026-11-04T16:03:00+00:00",
+  "constructors": [
+    {
+      "constructorId": "mercedes",
+      "name": "Mercedes",
+      "nationality": "German",
+      "points": 630.0,
+      "position": 1,
+      "wins": 12
+    },
+    {
+      "constructorId": "ferrari",
+      "name": "Ferrari",
+      "nationality": "Italian",
+      "points": 504.0,
+      "position": 2,
+      "wins": 2
+    },
+    {
+      "constructorId": "red_bull",
+      "name": "Red Bull",
+      "nationality": "Austrian",
+      "points": 382.0,
+      "position": 3,
+      "wins": 3
+    },
+    {
+      "constructorId": "mclaren",
+      "name": "McLaren",
+      "nationality": "British",
+      "points": 365.0,
+      "position": 4,
+      "wins": 2
+    },
+    {
+      "constructorId": "rb",
+      "name": "RB F1 Team",
+      "nationality": "Italian",
+      "points": 108.0,
+      "position": 5,
+      "wins": 0
+    },
+    {
+      "constructorId": "alpine",
+      "name": "Alpine F1 Team",
+      "nationality": "French",
+      "points": 69.0,
+      "position": 6,
+      "wins": 0
+    },
+    {
+      "constructorId": "haas",
+      "name": "Haas F1 Team",
+      "nationality": "American",
+      "points": 31.0,
+      "position": 7,
+      "wins": 0
+    },
+    {
+      "constructorId": "audi",
+      "name": "Audi",
+      "nationality": "German",
+      "points": 27.0,
+      "position": 8,
+      "wins": 0
+    },
+    {
+      "constructorId": "williams",
+      "name": "Williams",
+      "nationality": "British",
+      "points": 12.0,
+      "position": 9,
+      "wins": 0
+    },
+    {
+      "constructorId": "aston_martin",
+      "name": "Aston Martin",
+      "nationality": "British",
+      "points": 7.0,
+      "position": 10,
+      "wins": 0
+    },
+    {
+      "constructorId": "cadillac",
+      "name": "Cadillac F1 Team",
+      "nationality": "American",
+      "points": 0.0,
+      "position": 11,
+      "wins": 0
+    }
+  ],
+  "drivers": [
+    {
+      "driverId": "antonelli",
+      "code": "ANT",
+      "number": "12",
+      "givenName": "Andrea Kimi",
+      "familyName": "Antonelli",
+      "dateOfBirth": "2006-08-25",
+      "nationality": "Italian",
+      "constructorId": "mercedes",
+      "points": 380.0,
+      "position": 1,
+      "rookie": false
+    },
+    {
+      "driverId": "max_verstappen",
+      "code": "VER",
+      "number": "3",
+      "givenName": "Max",
+      "familyName": "Verstappen",
+      "dateOfBirth": "1997-09-30",
+      "nationality": "Dutch",
+      "constructorId": "red_bull",
+      "points": 261.0,
+      "position": 2,
+      "rookie": false
+    },
+    {
+      "driverId": "hamilton",
+      "code": "HAM",
+      "number": "44",
+      "givenName": "Lewis",
+      "familyName": "Hamilton",
+      "dateOfBirth": "1985-01-07",
+      "nationality": "British",
+      "constructorId": "ferrari",
+      "points": 259.0,
+      "position": 3,
+      "rookie": false
+    },
+    {
+      "driverId": "russell",
+      "code": "RUS",
+      "number": "63",
+      "givenName": "George",
+      "familyName": "Russell",
+      "dateOfBirth": "1998-02-15",
+      "nationality": "British",
+      "constructorId": "mercedes",
+      "points": 250.0,
+      "position": 4,
+      "rookie": false
+    },
+    {
+      "driverId": "leclerc",
+      "code": "LEC",
+      "number": "16",
+      "givenName": "Charles",
+      "familyName": "Leclerc",
+      "dateOfBirth": "1997-10-16",
+      "nationality": "Monegasque",
+      "constructorId": "ferrari",
+      "points": 245.0,
+      "position": 5,
+      "rookie": false
+    },
+    {
+      "driverId": "norris",
+      "code": "NOR",
+      "number": "1",
+      "givenName": "Lando",
+      "familyName": "Norris",
+      "dateOfBirth": "1999-11-13",
+      "nationality": "British",
+      "constructorId": "mclaren",
+      "points": 221.0,
+      "position": 6,
+      "rookie": false
+    },
+    {
+      "driverId": "piastri",
+      "code": "PIA",
+      "number": "81",
+      "givenName": "Oscar",
+      "familyName": "Piastri",
+      "dateOfBirth": "2001-04-06",
+      "nationality": "Australian",
+      "constructorId": "mclaren",
+      "points": 144.0,
+      "position": 7,
+      "rookie": false
+    },
+    {
+      "driverId": "hadjar",
+      "code": "HAD",
+      "number": "6",
+      "givenName": "Isack",
+      "familyName": "Hadjar",
+      "dateOfBirth": "2004-09-28",
+      "nationality": "French",
+      "constructorId": "red_bull",
+      "points": 107.0,
+      "position": 8,
+      "rookie": false
+    },
+    {
+      "driverId": "lawson",
+      "code": "LAW",
+      "number": "30",
+      "givenName": "Liam",
+      "familyName": "Lawson",
+      "dateOfBirth": "2002-02-11",
+      "nationality": "New Zealander",
+      "constructorId": "red_bull",
+      "points": 83.0,
+      "position": 9,
+      "rookie": false
+    },
+    {
+      "driverId": "gasly",
+      "code": "GAS",
+      "number": "10",
+      "givenName": "Pierre",
+      "familyName": "Gasly",
+      "dateOfBirth": "1996-02-07",
+      "nationality": "French",
+      "constructorId": "alpine",
+      "points": 42.0,
+      "position": 10,
+      "rookie": false
+    },
+    {
+      "driverId": "arvid_lindblad",
+      "code": "LIN",
+      "number": "41",
+      "givenName": "Arvid",
+      "familyName": "Lindblad",
+      "dateOfBirth": "2007-08-08",
+      "nationality": "British",
+      "constructorId": "rb",
+      "points": 38.0,
+      "position": 11,
+      "rookie": false
+    },
+    {
+      "driverId": "colapinto",
+      "code": "COL",
+      "number": "43",
+      "givenName": "Franco",
+      "familyName": "Colapinto",
+      "dateOfBirth": "2003-05-27",
+      "nationality": "Argentine",
+      "constructorId": "alpine",
+      "points": 27.0,
+      "position": 12,
+      "rookie": false
+    },
+    {
+      "driverId": "bearman",
+      "code": "BEA",
+      "number": "87",
+      "givenName": "Oliver",
+      "familyName": "Bearman",
+      "dateOfBirth": "2005-05-08",
+      "nationality": "British",
+      "constructorId": "haas",
+      "points": 23.0,
+      "position": 13,
+      "rookie": false
+    },
+    {
+      "driverId": "bortoleto",
+      "code": "BOR",
+      "number": "5",
+      "givenName": "Gabriel",
+      "familyName": "Bortoleto",
+      "dateOfBirth": "2004-10-14",
+      "nationality": "Brazilian",
+      "constructorId": "audi",
+      "points": 14.0,
+      "position": 14,
+      "rookie": false
+    },
+    {
+      "driverId": "hulkenberg",
+      "code": "HUL",
+      "number": "27",
+      "givenName": "Nico",
+      "familyName": "H\u00fclkenberg",
+      "dateOfBirth": "1987-08-19",
+      "nationality": "German",
+      "constructorId": "audi",
+      "points": 13.0,
+      "position": 15,
+      "rookie": false
+    },
+    {
+      "driverId": "ocon",
+      "code": "OCO",
+      "number": "31",
+      "givenName": "Esteban",
+      "familyName": "Ocon",
+      "dateOfBirth": "1996-09-17",
+      "nationality": "French",
+      "constructorId": "haas",
+      "points": 7.0,
+      "position": 16,
+      "rookie": false
+    },
+    {
+      "driverId": "alonso",
+      "code": "ALO",
+      "number": "14",
+      "givenName": "Fernando",
+      "familyName": "Alonso",
+      "dateOfBirth": "1981-07-29",
+      "nationality": "Spanish",
+      "constructorId": "aston_martin",
+      "points": 7.0,
+      "position": 17,
+      "rookie": false
+    },
+    {
+      "driverId": "sainz",
+      "code": "SAI",
+      "number": "55",
+      "givenName": "Carlos",
+      "familyName": "Sainz",
+      "dateOfBirth": "1994-09-01",
+      "nationality": "Spanish",
+      "constructorId": "williams",
+      "points": 7.0,
+      "position": 18,
+      "rookie": false
+    },
+    {
+      "driverId": "albon",
+      "code": "ALB",
+      "number": "23",
+      "givenName": "Alexander",
+      "familyName": "Albon",
+      "dateOfBirth": "1996-03-23",
+      "nationality": "Thai",
+      "constructorId": "williams",
+      "points": 5.0,
+      "position": 19,
+      "rookie": false
+    },
+    {
+      "driverId": "tsunoda",
+      "code": "TSU",
+      "number": "22",
+      "givenName": "Yuki",
+      "familyName": "Tsunoda",
+      "dateOfBirth": "2000-05-11",
+      "nationality": "Japanese",
+      "constructorId": "rb",
+      "points": 1.0,
+      "position": 20,
+      "rookie": false
+    },
+    {
+      "driverId": "ryo_hirakawa",
+      "code": "HIR",
+      "number": "50",
+      "givenName": "Ryo",
+      "familyName": "Hirakawa",
+      "dateOfBirth": "1994-03-07",
+      "nationality": "Japanese",
+      "constructorId": "haas",
+      "points": 1.0,
+      "position": 21,
+      "rookie": false
+    },
+    {
+      "driverId": "stroll",
+      "code": "STR",
+      "number": "18",
+      "givenName": "Lance",
+      "familyName": "Stroll",
+      "dateOfBirth": "1998-10-29",
+      "nationality": "Canadian",
+      "constructorId": "aston_martin",
+      "points": 0.0,
+      "position": 22,
+      "rookie": false
+    },
+    {
+      "driverId": "bottas",
+      "code": "BOT",
+      "number": "77",
+      "givenName": "Valtteri",
+      "familyName": "Bottas",
+      "dateOfBirth": "1989-08-28",
+      "nationality": "Finnish",
+      "constructorId": "cadillac",
+      "points": 0.0,
+      "position": 23,
+      "rookie": true
+    },
+    {
+      "driverId": "perez",
+      "code": "PER",
+      "number": "11",
+      "givenName": "Sergio",
+      "familyName": "P\u00e9rez",
+      "dateOfBirth": "1990-01-26",
+      "nationality": "Mexican",
+      "constructorId": "cadillac",
+      "points": 0.0,
+      "position": 24,
+      "rookie": true
+    }
+  ],
+  "calendars": {
+    "2025": [
+      {
+        "round": 1,
+        "raceName": "Australian Grand Prix",
+        "circuitId": "albert_park",
+        "circuitName": "Albert Park Grand Prix Circuit",
+        "locality": "Melbourne",
+        "country": "Australia",
+        "date": "2025-03-16"
+      },
+      {
+        "round": 2,
+        "raceName": "Chinese Grand Prix",
+        "circuitId": "shanghai",
+        "circuitName": "Shanghai International Circuit",
+        "locality": "Shanghai",
+        "country": "China",
+        "date": "2025-03-23"
+      },
+      {
+        "round": 3,
+        "raceName": "Japanese Grand Prix",
+        "circuitId": "suzuka",
+        "circuitName": "Suzuka Circuit",
+        "locality": "Suzuka",
+        "country": "Japan",
+        "date": "2025-04-06"
+      },
+      {
+        "round": 4,
+        "raceName": "Bahrain Grand Prix",
+        "circuitId": "bahrain",
+        "circuitName": "Bahrain International Circuit",
+        "locality": "Sakhir",
+        "country": "Bahrain",
+        "date": "2025-04-13"
+      },
+      {
+        "round": 5,
+        "raceName": "Saudi Arabian Grand Prix",
+        "circuitId": "jeddah",
+        "circuitName": "Jeddah Corniche Circuit",
+        "locality": "Jeddah",
+        "country": "Saudi Arabia",
+        "date": "2025-04-20"
+      },
+      {
+        "round": 6,
+        "raceName": "Miami Grand Prix",
+        "circuitId": "miami",
+        "circuitName": "Miami International Autodrome",
+        "locality": "Miami",
+        "country": "USA",
+        "date": "2025-05-04"
+      },
+      {
+        "round": 7,
+        "raceName": "Emilia Romagna Grand Prix",
+        "circuitId": "imola",
+        "circuitName": "Autodromo Enzo e Dino Ferrari",
+        "locality": "Imola",
+        "country": "Italy",
+        "date": "2025-05-18"
+      },
+      {
+        "round": 8,
+        "raceName": "Monaco Grand Prix",
+        "circuitId": "monaco",
+        "circuitName": "Circuit de Monaco",
+        "locality": "Monte Carlo",
+        "country": "Monaco",
+        "date": "2025-05-25"
+      },
+      {
+        "round": 9,
+        "raceName": "Spanish Grand Prix",
+        "circuitId": "catalunya",
+        "circuitName": "Circuit de Barcelona-Catalunya",
+        "locality": "Barcelona",
+        "country": "Spain",
+        "date": "2025-06-01"
+      },
+      {
+        "round": 10,
+        "raceName": "Canadian Grand Prix",
+        "circuitId": "villeneuve",
+        "circuitName": "Circuit Gilles Villeneuve",
+        "locality": "Montreal",
+        "country": "Canada",
+        "date": "2025-06-15"
+      },
+      {
+        "round": 11,
+        "raceName": "Austrian Grand Prix",
+        "circuitId": "red_bull_ring",
+        "circuitName": "Red Bull Ring",
+        "locality": "Spielberg",
+        "country": "Austria",
+        "date": "2025-06-29"
+      },
+      {
+        "round": 12,
+        "raceName": "British Grand Prix",
+        "circuitId": "silverstone",
+        "circuitName": "Silverstone Circuit",
+        "locality": "Silverstone",
+        "country": "UK",
+        "date": "2025-07-06"
+      },
+      {
+        "round": 13,
+        "raceName": "Belgian Grand Prix",
+        "circuitId": "spa",
+        "circuitName": "Circuit de Spa-Francorchamps",
+        "locality": "Spa",
+        "country": "Belgium",
+        "date": "2025-07-27"
+      },
+      {
+        "round": 14,
+        "raceName": "Hungarian Grand Prix",
+        "circuitId": "hungaroring",
+        "circuitName": "Hungaroring",
+        "locality": "Budapest",
+        "country": "Hungary",
+        "date": "2025-08-03"
+      },
+      {
+        "round": 15,
+        "raceName": "Dutch Grand Prix",
+        "circuitId": "zandvoort",
+        "circuitName": "Circuit Park Zandvoort",
+        "locality": "Zandvoort",
+        "country": "Netherlands",
+        "date": "2025-08-31"
+      },
+      {
+        "round": 16,
+        "raceName": "Italian Grand Prix",
+        "circuitId": "monza",
+        "circuitName": "Autodromo Nazionale di Monza",
+        "locality": "Monza",
+        "country": "Italy",
+        "date": "2025-09-07"
+      },
+      {
+        "round": 17,
+        "raceName": "Azerbaijan Grand Prix",
+        "circuitId": "baku",
+        "circuitName": "Baku City Circuit",
+        "locality": "Baku",
+        "country": "Azerbaijan",
+        "date": "2025-09-21"
+      },
+      {
+        "round": 18,
+        "raceName": "Singapore Grand Prix",
+        "circuitId": "marina_bay",
+        "circuitName": "Marina Bay Street Circuit",
+        "locality": "Marina Bay",
+        "country": "Singapore",
+        "date": "2025-10-05"
+      },
+      {
+        "round": 19,
+        "raceName": "United States Grand Prix",
+        "circuitId": "americas",
+        "circuitName": "Circuit of the Americas",
+        "locality": "Austin",
+        "country": "USA",
+        "date": "2025-10-19"
+      },
+      {
+        "round": 20,
+        "raceName": "Mexico City Grand Prix",
+        "circuitId": "rodriguez",
+        "circuitName": "Aut\u00f3dromo Hermanos Rodr\u00edguez",
+        "locality": "Mexico City",
+        "country": "Mexico",
+        "date": "2025-10-26"
+      },
+      {
+        "round": 21,
+        "raceName": "S\u00e3o Paulo Grand Prix",
+        "circuitId": "interlagos",
+        "circuitName": "Aut\u00f3dromo Jos\u00e9 Carlos Pace",
+        "locality": "S\u00e3o Paulo",
+        "country": "Brazil",
+        "date": "2025-11-09"
+      },
+      {
+        "round": 22,
+        "raceName": "Las Vegas Grand Prix",
+        "circuitId": "vegas",
+        "circuitName": "Las Vegas Strip Street Circuit",
+        "locality": "Las Vegas",
+        "country": "USA",
+        "date": "2025-11-23"
+      },
+      {
+        "round": 23,
+        "raceName": "Qatar Grand Prix",
+        "circuitId": "losail",
+        "circuitName": "Lusail International Circuit",
+        "locality": "Lusail",
+        "country": "Qatar",
+        "date": "2025-11-30"
+      },
+      {
+        "round": 24,
+        "raceName": "Abu Dhabi Grand Prix",
+        "circuitId": "yas_marina",
+        "circuitName": "Yas Marina Circuit",
+        "locality": "Abu Dhabi",
+        "country": "UAE",
+        "date": "2025-12-07"
+      }
+    ],
+    "2026": [
+      {
+        "round": 1,
+        "raceName": "Australian Grand Prix",
+        "circuitId": "albert_park",
+        "circuitName": "Albert Park Grand Prix Circuit",
+        "locality": "Melbourne",
+        "country": "Australia",
+        "date": "2026-03-08"
+      },
+      {
+        "round": 2,
+        "raceName": "Chinese Grand Prix",
+        "circuitId": "shanghai",
+        "circuitName": "Shanghai International Circuit",
+        "locality": "Shanghai",
+        "country": "China",
+        "date": "2026-03-15"
+      },
+      {
+        "round": 3,
+        "raceName": "Japanese Grand Prix",
+        "circuitId": "suzuka",
+        "circuitName": "Suzuka Circuit",
+        "locality": "Suzuka",
+        "country": "Japan",
+        "date": "2026-03-29"
+      },
+      {
+        "round": 4,
+        "raceName": "Miami Grand Prix",
+        "circuitId": "miami",
+        "circuitName": "Miami International Autodrome",
+        "locality": "Miami",
+        "country": "USA",
+        "date": "2026-05-03"
+      },
+      {
+        "round": 5,
+        "raceName": "Canadian Grand Prix",
+        "circuitId": "villeneuve",
+        "circuitName": "Circuit Gilles Villeneuve",
+        "locality": "Montreal",
+        "country": "Canada",
+        "date": "2026-05-24"
+      },
+      {
+        "round": 6,
+        "raceName": "Monaco Grand Prix",
+        "circuitId": "monaco",
+        "circuitName": "Circuit de Monaco",
+        "locality": "Monte Carlo",
+        "country": "Monaco",
+        "date": "2026-06-07"
+      },
+      {
+        "round": 7,
+        "raceName": "Barcelona Grand Prix",
+        "circuitId": "catalunya",
+        "circuitName": "Circuit de Barcelona-Catalunya",
+        "locality": "Barcelona",
+        "country": "Spain",
+        "date": "2026-06-14"
+      },
+      {
+        "round": 8,
+        "raceName": "Austrian Grand Prix",
+        "circuitId": "red_bull_ring",
+        "circuitName": "Red Bull Ring",
+        "locality": "Spielberg",
+        "country": "Austria",
+        "date": "2026-06-28"
+      },
+      {
+        "round": 9,
+        "raceName": "British Grand Prix",
+        "circuitId": "silverstone",
+        "circuitName": "Silverstone Circuit",
+        "locality": "Silverstone",
+        "country": "UK",
+        "date": "2026-07-05"
+      },
+      {
+        "round": 10,
+        "raceName": "Belgian Grand Prix",
+        "circuitId": "spa",
+        "circuitName": "Circuit de Spa-Francorchamps",
+        "locality": "Spa",
+        "country": "Belgium",
+        "date": "2026-07-19"
+      },
+      {
+        "round": 11,
+        "raceName": "Hungarian Grand Prix",
+        "circuitId": "hungaroring",
+        "circuitName": "Hungaroring",
+        "locality": "Budapest",
+        "country": "Hungary",
+        "date": "2026-07-26"
+      },
+      {
+        "round": 12,
+        "raceName": "Dutch Grand Prix",
+        "circuitId": "zandvoort",
+        "circuitName": "Circuit Park Zandvoort",
+        "locality": "Zandvoort",
+        "country": "Netherlands",
+        "date": "2026-08-23"
+      },
+      {
+        "round": 13,
+        "raceName": "Italian Grand Prix",
+        "circuitId": "monza",
+        "circuitName": "Autodromo Nazionale di Monza",
+        "locality": "Monza",
+        "country": "Italy",
+        "date": "2026-09-06"
+      },
+      {
+        "round": 14,
+        "raceName": "Spanish Grand Prix",
+        "circuitId": "madring",
+        "circuitName": "Madring",
+        "locality": "Madrid",
+        "country": "Spain",
+        "date": "2026-09-13"
+      },
+      {
+        "round": 15,
+        "raceName": "Azerbaijan Grand Prix",
+        "circuitId": "baku",
+        "circuitName": "Baku City Circuit",
+        "locality": "Baku",
+        "country": "Azerbaijan",
+        "date": "2026-09-26"
+      },
+      {
+        "round": 16,
+        "raceName": "Bahrain Grand Prix in Malaysia",
+        "circuitId": "sepang",
+        "circuitName": "Sepang International Circuit",
+        "locality": "Kuala Lumpur",
+        "country": "Malaysia",
+        "date": "2026-10-04"
+      },
+      {
+        "round": 17,
+        "raceName": "Singapore Grand Prix",
+        "circuitId": "marina_bay",
+        "circuitName": "Marina Bay Street Circuit",
+        "locality": "Marina Bay",
+        "country": "Singapore",
+        "date": "2026-10-11"
+      },
+      {
+        "round": 18,
+        "raceName": "United States Grand Prix",
+        "circuitId": "americas",
+        "circuitName": "Circuit of the Americas",
+        "locality": "Austin",
+        "country": "USA",
+        "date": "2026-10-25"
+      },
+      {
+        "round": 19,
+        "raceName": "Mexico City Grand Prix",
+        "circuitId": "rodriguez",
+        "circuitName": "Aut\u00f3dromo Hermanos Rodr\u00edguez",
+        "locality": "Mexico City",
+        "country": "Mexico",
+        "date": "2026-11-01"
+      },
+      {
+        "round": 20,
+        "raceName": "Brazilian Grand Prix",
+        "circuitId": "interlagos",
+        "circuitName": "Aut\u00f3dromo Jos\u00e9 Carlos Pace",
+        "locality": "S\u00e3o Paulo",
+        "country": "Brazil",
+        "date": "2026-11-08"
+      },
+      {
+        "round": 21,
+        "raceName": "Las Vegas Grand Prix",
+        "circuitId": "vegas",
+        "circuitName": "Las Vegas Strip Street Circuit",
+        "locality": "Las Vegas",
+        "country": "USA",
+        "date": "2026-11-22"
+      },
+      {
+        "round": 22,
+        "raceName": "Qatar Grand Prix",
+        "circuitId": "losail",
+        "circuitName": "Lusail International Circuit",
+        "locality": "Lusail",
+        "country": "Qatar",
+        "date": "2026-11-29"
+      },
+      {
+        "round": 23,
+        "raceName": "Abu Dhabi Grand Prix",
+        "circuitId": "yas_marina",
+        "circuitName": "Yas Marina Circuit",
+        "locality": "Abu Dhabi",
+        "country": "UAE",
+        "date": "2026-12-06"
+      }
+    ]
+  }
+}
