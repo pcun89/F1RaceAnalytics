@@ -25,9 +25,9 @@ BASE = "https://api.jolpi.ca/ergast/f1"
 CACHE, CSV_DIR, DB, SCHEMA = "data/cache", "data/real", "data/f1_real.db", "sql/schema_real.sql"
 PAGE = 100
 _last_call = 0.0
+
+
 # ---------------------------------------------------------------- HTTP + cache
-
-
 def http_json(url):
     """GET one API page. Polite pacing, retries, and rate-limit (429) handling."""
     global _last_call
@@ -98,9 +98,9 @@ def collect_laps(path, refresh):
             for lap in r.get("Laps", []):
                 laps.setdefault(int(lap["number"]), []).extend(lap["Timings"])
     return laps
+
+
 # ---------------------------------------------------------------- parsing helpers
-
-
 def to_int(x):
     try:
         return int(x)
@@ -119,9 +119,9 @@ def secs(t):
         return round(v, 3)
     except ValueError:
         return None
+
+
 # ---------------------------------------------------------------- ingest one season
-
-
 def ingest_season(season, with_laps, refresh, T, skipped):
     results = collect(f"{season}/results.json", refresh, "Results")
     if not results:
@@ -258,9 +258,8 @@ def run_checks(con):
         print(f"  [{status:4}] {label}: {n}")
     return failed
 
+
 # ---------------------------------------------------------------- main
-
-
 def parse_seasons(text):
     out = []
     for part in text.split(","):
