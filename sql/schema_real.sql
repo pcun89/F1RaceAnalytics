@@ -19,6 +19,12 @@ CREATE TABLE IF NOT EXISTS race_results (
     points REAL, laps INTEGER, status TEXT, finish_time_ms INTEGER,
     fastest_lap_rank INTEGER, fastest_lap_number INTEGER, fastest_lap_s REAL,
     PRIMARY KEY (race_id, driver_id));
+CREATE TABLE IF NOT EXISTS sprint_results (            -- sprint races (from 2021); same race_id as the Grand Prix
+    race_id INTEGER REFERENCES races(race_id), driver_id TEXT REFERENCES drivers(driver_id),
+    constructor_id TEXT REFERENCES constructors(constructor_id),
+    car_number INTEGER, grid INTEGER, position INTEGER, position_text TEXT,
+    points REAL, laps INTEGER, status TEXT, finish_time_ms INTEGER,
+    PRIMARY KEY (race_id, driver_id));
 CREATE TABLE IF NOT EXISTS qualifying (
     race_id INTEGER REFERENCES races(race_id), driver_id TEXT REFERENCES drivers(driver_id),
     constructor_id TEXT REFERENCES constructors(constructor_id),
@@ -27,11 +33,19 @@ CREATE TABLE IF NOT EXISTS qualifying (
 CREATE TABLE IF NOT EXISTS pit_stops (
     race_id INTEGER REFERENCES races(race_id), driver_id TEXT REFERENCES drivers(driver_id),
     stop_number INTEGER, lap INTEGER, local_time TEXT, duration_s REAL,
+    is_outlier INTEGER,                                -- 1 = duration under 10 s or over 120 s (kept, but flagged)
     PRIMARY KEY (race_id, driver_id, stop_number));
 CREATE TABLE IF NOT EXISTS lap_times (
     race_id INTEGER REFERENCES races(race_id), driver_id TEXT REFERENCES drivers(driver_id),
     lap_number INTEGER, position INTEGER, lap_time_s REAL,
     PRIMARY KEY (race_id, driver_id, lap_number));
+
+-- Official-style points: Grand Prix points + sprint points. Use this for standings.
+CREATE VIEW IF NOT EXISTS v_points AS
+    SELECT race_id, driver_id, constructor_id, points, 0 AS is_sprint FROM race_results
+    UNION ALL
+    SELECT race_id, driver_id, constructor_id, points, 1 AS is_sprint FROM sprint_results;
+
 CREATE INDEX IF NOT EXISTS idx_real_results_driver ON race_results(driver_id);
 CREATE INDEX IF NOT EXISTS idx_real_results_team ON race_results(constructor_id);
 CREATE INDEX IF NOT EXISTS idx_real_races_season ON races(season);
