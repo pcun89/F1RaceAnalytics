@@ -1,12 +1,15 @@
 constructor_id,name,nationality
-mercedes,Mercedes,German
-ferrari,Ferrari,Italian
-mclaren,McLaren,British
-red_bull,Red Bull,Austrian
-haas,Haas F1 Team,American
-rb,RB F1 Team,Italian
-audi,Audi,German
+alfa,Alfa Romeo,Swiss
+alphatauri,AlphaTauri,Italian
 alpine,Alpine F1 Team,French
-williams,Williams,British
-cadillac,Cadillac F1 Team,American
 aston_martin,Aston Martin,British
+audi,Audi,German
+cadillac,Cadillac F1 Team,American
+ferrari,Ferrari,Italian
+haas,Haas F1 Team,American
+mclaren,McLaren,British
+mercedes,Mercedes,German
+rb,RB F1 Team,Italian
+red_bull,Red Bull,Austrian
+sauber,Sauber,Swiss
+williams,Williams,British

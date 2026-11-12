@@ -1,26 +1,35 @@
 driver_id,code,driver_number,first_name,last_name,date_of_birth,nationality
-russell,RUS,63,George,Russell,1998-02-15,British
-antonelli,ANT,12,Andrea Kimi,Antonelli,2006-08-25,Italian
-leclerc,LEC,16,Charles,Leclerc,1997-10-16,Monegasque
-hamilton,HAM,44,Lewis,Hamilton,1985-01-07,British
-norris,NOR,1,Lando,Norris,1999-11-13,British
-max_verstappen,VER,3,Max,Verstappen,1997-09-30,Dutch
-bearman,BEA,87,Oliver,Bearman,2005-05-08,British
-arvid_lindblad,LIN,41,Arvid,Lindblad,2007-08-08,British
-bortoleto,BOR,5,Gabriel,Bortoleto,2004-10-14,Brazilian
-gasly,GAS,10,Pierre,Gasly,1996-02-07,French
-ocon,OCO,31,Esteban,Ocon,1996-09-17,French
 albon,ALB,23,Alexander,Albon,1996-03-23,Thai
-lawson,LAW,30,Liam,Lawson,2002-02-11,New Zealander
-colapinto,COL,43,Franco,Colapinto,2003-05-27,Argentine
-sainz,SAI,55,Carlos,Sainz,1994-09-01,Spanish
-perez,PER,11,Sergio,Pérez,1990-01-26,Mexican
-stroll,STR,18,Lance,Stroll,1998-10-29,Canadian
 alonso,ALO,14,Fernando,Alonso,1981-07-29,Spanish
+antonelli,ANT,12,Andrea Kimi,Antonelli,2006-08-25,Italian
+arvid_lindblad,LIN,41,Arvid,Lindblad,2007-08-08,British
+bearman,BEA,87,Oliver,Bearman,2005-05-08,British
+bortoleto,BOR,5,Gabriel,Bortoleto,2004-10-14,Brazilian
 bottas,BOT,77,Valtteri,Bottas,1989-08-28,Finnish
+colapinto,COL,43,Franco,Colapinto,2003-05-27,Argentine
+de_vries,DEV,21,Nyck,de Vries,1995-02-06,Dutch
+doohan,DOO,7,Jack,Doohan,2003-01-20,Australian
+gasly,GAS,10,Pierre,Gasly,1996-02-07,French
 hadjar,HAD,6,Isack,Hadjar,2004-09-28,French
-piastri,PIA,81,Oscar,Piastri,2001-04-06,Australian
+hamilton,HAM,44,Lewis,Hamilton,1985-01-07,British
 hulkenberg,HUL,27,Nico,Hülkenberg,1987-08-19,German
-tsunoda,TSU,22,Yuki,Tsunoda,2000-05-11,Japanese
-ryo_hirakawa,HIR,50,Ryo,Hirakawa,1994-03-07,Japanese
+kevin_magnussen,MAG,20,Kevin,Magnussen,1992-10-05,Danish
+latifi,LAT,6,Nicholas,Latifi,1995-06-29,Canadian
+lawson,LAW,30,Liam,Lawson,2002-02-11,New Zealander
+leclerc,LEC,16,Charles,Leclerc,1997-10-16,Monegasque
+max_verstappen,VER,3,Max,Verstappen,1997-09-30,Dutch
+mick_schumacher,MSC,47,Mick,Schumacher,1999-03-22,German
+norris,NOR,1,Lando,Norris,1999-11-13,British
+ocon,OCO,31,Esteban,Ocon,1996-09-17,French
+perez,PER,11,Sergio,Pérez,1990-01-26,Mexican
+piastri,PIA,81,Oscar,Piastri,2001-04-06,Australian
 rafael_camara,CAM,51,Rafael,Camara,2005-05-05,Brazilian
+ricciardo,RIC,3,Daniel,Ricciardo,1989-07-01,Australian
+russell,RUS,63,George,Russell,1998-02-15,British
+ryo_hirakawa,HIR,50,Ryo,Hirakawa,1994-03-07,Japanese
+sainz,SAI,55,Carlos,Sainz,1994-09-01,Spanish
+sargeant,SAR,2,Logan,Sargeant,2000-12-31,American
+stroll,STR,18,Lance,Stroll,1998-10-29,Canadian
+tsunoda,TSU,22,Yuki,Tsunoda,2000-05-11,Japanese
+vettel,VET,5,Sebastian,Vettel,1987-07-03,German
+zhou,ZHO,24,Guanyu,Zhou,1999-05-30,Chinese
