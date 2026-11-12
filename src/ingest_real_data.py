@@ -2,12 +2,14 @@
 Ingests REAL Formula 1 data from the Jolpica F1 API (Ergast-compatible) into SQLite + CSV.
 
 Usage:
-  python src/ingest_real_data.py                          # last 5 seasons through the current one
-  python src/ingest_real_data.py --seasons 2021-2025 --laps
-  python src/ingest_real_data.py --seasons 2026 --refresh # re-pull a season that is still in progress
+  python src/ingest_real_data.py                            # last 5 seasons through the current one
+  python src/ingest_real_data.py --seasons 2024-2025 --laps
+  python src/ingest_real_data.py --seasons 2026 --refresh   # re-pull a season that is still in progress
+  python src/ingest_real_data.py --laps --max-requests 400  # stop cleanly after 400 NEW api requests
 
 Raw API pages are cached in data/cache/, so re-runs are fast and an interrupted run can resume.
-Lap times take one request series per race, so they are optional (--laps) and slow to pull.
+Lap times need many requests per race, so they are optional (--laps).
+The CSVs in data/real/ are always exported from the whole database, not just the seasons pulled this run.
 """
 import argparse
 import csv
@@ -24,14 +26,20 @@ from datetime import datetime
 BASE = "https://api.jolpi.ca/ergast/f1"
 CACHE, CSV_DIR, DB, SCHEMA = "data/cache", "data/real", "data/f1_real.db", "sql/schema_real.sql"
 PAGE = 100
+MAX_REQUESTS = None          # set from --max-requests
+_requests = 0                # new (uncached) API requests made this run
 _last_call = 0.0
+
+
+class BudgetReached(Exception):
+    pass
 
 
 # ---------------------------------------------------------------- HTTP + cache
 def http_json(url):
-    """GET one API page. Polite pacing, retries, and rate-limit (429) handling."""
+    """GET one API page. Polite pacing, retries, and patient rate-limit (429) handling."""
     global _last_call
-    for attempt in range(6):
+    for attempt in range(15):
         time.sleep(max(0.0, 0.5 - (time.time() - _last_call)))
         try:
             req = urllib.request.Request(
@@ -44,23 +52,27 @@ def http_json(url):
             if e.code == 404:
                 return None
             if e.code == 429:
-                delay = int(e.headers.get("Retry-After")
-                            or 0) or 30 * (attempt + 1)
+                # wait 5 min if no hint is given
+                delay = int(e.headers.get("Retry-After") or 0) or 300
                 print(f"  rate limited - waiting {delay}s")
                 time.sleep(delay)
             else:
-                time.sleep(2 ** attempt)
+                time.sleep(min(2 ** attempt, 60))
         except Exception:
-            time.sleep(2 ** attempt)
+            time.sleep(min(2 ** attempt, 60))
     sys.exit(
-        f"Giving up on {url}. Re-run the script; pages already downloaded are cached.")
+        f"Giving up on {url}. Re-run the script later; pages already downloaded are cached.")
 
 
 def get_page(path, offset, refresh):
+    global _requests
     fp = os.path.join(CACHE, re.sub(
         r"[^A-Za-z0-9]+", "_", path).strip("_") + f"_{offset}.json")
     if not refresh and os.path.exists(fp):
         return json.load(open(fp))
+    if MAX_REQUESTS is not None and _requests >= MAX_REQUESTS:
+        raise BudgetReached()
+    _requests += 1
     data = http_json(
         f"{BASE}/{path}?limit={PAGE}&offset={offset}") or {"total": "0"}
     if int(data.get("total", 0)) > 0:                     # never cache empty answers
@@ -127,8 +139,9 @@ def ingest_season(season, with_laps, refresh, T, skipped):
     if not results:
         print(f"{season}: no results published yet - skipped")
         return
+    sprints = collect(f"{season}/sprint.json", refresh, "SprintResults")
     quali = collect(f"{season}/qualifying.json", refresh, "QualifyingResults")
-    print(f"{season}: {len(results)} races with results")
+    print(f"{season}: {len(results)} races with results, {len(sprints)} sprint weekends")
 
     def add_people(d, c):
         T["drivers"][d["driverId"]] = dict(
@@ -161,6 +174,15 @@ def ingest_season(season, with_laps, refresh, T, skipped):
                 fastest_lap_rank=to_int(fl.get("rank")), fastest_lap_number=to_int(fl.get("lap")),
                 fastest_lap_s=secs((fl.get("Time") or {}).get("time"))))
 
+        # sprint points count in the championship
+        for s in sprints.get((yr, rnd), {}).get("SprintResults", []):
+            add_people(s["Driver"], s["Constructor"])
+            T["sprint_results"].append(dict(
+                race_id=race_id, driver_id=s["Driver"]["driverId"], constructor_id=s["Constructor"]["constructorId"],
+                car_number=to_int(s.get("number")), grid=to_int(s.get("grid")), position=to_int(s.get("position")),
+                position_text=s.get("positionText"), points=float(s.get("points", 0)), laps=to_int(s.get("laps")),
+                status=s.get("status"), finish_time_ms=to_int((s.get("Time") or {}).get("millis"))))
+
         for q in quali.get((yr, rnd), {}).get("QualifyingResults", []):
             add_people(q["Driver"], q["Constructor"])
             q1, q2, q3 = secs(q.get("Q1")), secs(
@@ -176,9 +198,11 @@ def ingest_season(season, with_laps, refresh, T, skipped):
             if p["driverId"] not in T["drivers"]:
                 skipped["pit_stops"] += 1
                 continue
+            dur = secs(p.get("duration"))
             T["pit_stops"].append(dict(
                 race_id=race_id, driver_id=p["driverId"], stop_number=to_int(p["stop"]), lap=to_int(p["lap"]),
-                local_time=p.get("time"), duration_s=secs(p.get("duration"))))
+                local_time=p.get("time"), duration_s=dur,
+                is_outlier=int(dur is not None and (dur < 10 or dur > 120))))
 
         if with_laps:
             for lap_no, timings in sorted(collect_laps(f"{yr}/{rnd}/laps.json", refresh).items()):
@@ -192,8 +216,11 @@ def ingest_season(season, with_laps, refresh, T, skipped):
 
 
 # ---------------------------------------------------------------- output
-TABLES = ["circuits", "constructors", "drivers", "races",
-          "race_results", "qualifying", "pit_stops", "lap_times"]
+TABLES = ["circuits", "constructors", "drivers", "races", "race_results", "sprint_results",
+          "qualifying", "pit_stops", "lap_times"]
+ORDER = {"circuits": "circuit_id", "constructors": "constructor_id", "drivers": "driver_id", "races": "race_id",
+         "race_results": "race_id, position", "sprint_results": "race_id, position", "qualifying": "race_id, position",
+         "pit_stops": "race_id, driver_id, stop_number", "lap_times": "race_id, driver_id, lap_number"}
 
 
 def rows_of(T, name):
@@ -205,19 +232,26 @@ def write_outputs(T):
     os.makedirs(os.path.dirname(DB), exist_ok=True)
     con = sqlite3.connect(DB)
     con.executescript(open(SCHEMA).read())
+    # upgrade an older database
+    if "is_outlier" not in [r[1] for r in con.execute("PRAGMA table_info(pit_stops)")]:
+        con.execute("ALTER TABLE pit_stops ADD COLUMN is_outlier INTEGER")
     for name in TABLES:
         rows = rows_of(T, name)
-        if not rows:
-            continue
-        cols = list(rows[0].keys())
-        with open(f"{CSV_DIR}/{name}.csv", "w", newline="") as f:      # CSVs for Power BI / Tableau
-            w = csv.DictWriter(f, fieldnames=cols)
-            w.writeheader()
-            w.writerows(rows)
-        con.executemany(                                                # upsert = safe to re-run
-            f"INSERT OR REPLACE INTO {name} ({','.join(cols)}) VALUES ({','.join('?' * len(cols))})",
-            [tuple(r[c] for c in cols) for r in rows])
+        if rows:
+            cols = list(rows[0].keys())
+            con.executemany(                                            # upsert = safe to re-run
+                f"INSERT OR REPLACE INTO {name} ({','.join(cols)}) VALUES ({','.join('?' * len(cols))})",
+                [tuple(r[c] for c in cols) for r in rows])
     con.commit()
+    # CSVs for Power BI / Tableau = whole database
+    for name in TABLES:
+        cur = con.execute(f"SELECT * FROM {name} ORDER BY {ORDER[name]}")
+        rows = cur.fetchall()
+        if rows:
+            with open(f"{CSV_DIR}/{name}.csv", "w", newline="") as f:
+                w = csv.writer(f)
+                w.writerow([d[0] for d in cur.description])
+                w.writerows(rows)
     return con
 
 
@@ -232,14 +266,18 @@ CHECKS = [  # (label, SQL returning a count of problems, severity)
     ("results pointing at a missing driver or constructor",
      "SELECT COUNT(*) FROM race_results x WHERE x.driver_id NOT IN (SELECT driver_id FROM drivers) "
      "OR x.constructor_id NOT IN (SELECT constructor_id FROM constructors)", "FAIL"),
+    ("sprint results pointing at a missing race",
+     "SELECT COUNT(*) FROM sprint_results s WHERE s.race_id NOT IN (SELECT race_id FROM races)", "FAIL"),
     ("negative points",
      "SELECT COUNT(*) FROM race_results WHERE points < 0", "FAIL"),
     ("races with an unusual number of entries (<16 or >26)",
      "SELECT COUNT(*) FROM (SELECT race_id FROM race_results GROUP BY race_id HAVING COUNT(*)<16 OR COUNT(*)>26)", "WARN"),
     ("races with no qualifying data",
      "SELECT COUNT(*) FROM races r WHERE NOT EXISTS (SELECT 1 FROM qualifying q WHERE q.race_id=r.race_id)", "WARN"),
-    ("pit stops outside 10-120 s",
-     "SELECT COUNT(*) FROM pit_stops WHERE duration_s < 10 OR duration_s > 120", "WARN"),
+    ("pit stops with no duration",
+     "SELECT COUNT(*) FROM pit_stops WHERE duration_s IS NULL", "WARN"),
+    ("pit stops flagged is_outlier (<10 s or >120 s) - kept in the data",
+     "SELECT COUNT(*) FROM pit_stops WHERE is_outlier = 1", "INFO"),
     ("lap times outside 40-300 s",
      "SELECT COUNT(*) FROM lap_times WHERE lap_time_s < 40 OR lap_time_s > 300", "WARN"),
     ("races with pit stops but no lap data (only meaningful with --laps)",
@@ -272,6 +310,8 @@ def parse_seasons(text):
 
 
 def main(argv=None):
+    global MAX_REQUESTS, _requests
+    _requests = 0
     now = datetime.now().year
     ap = argparse.ArgumentParser(
         description="Ingest real F1 data from the Jolpica API")
@@ -281,18 +321,26 @@ def main(argv=None):
                     help="also pull lap times (many requests per race)")
     ap.add_argument("--refresh", action="store_true",
                     help="ignore the cache (use for a season in progress)")
+    ap.add_argument("--max-requests", type=int,
+                    help="stop cleanly after this many NEW API requests")
     args = ap.parse_args(argv)
+    MAX_REQUESTS = args.max_requests
 
     T = {name: ({} if name in ("circuits", "constructors",
                 "drivers", "races") else []) for name in TABLES}
     skipped = {"pit_stops": 0, "lap_times": 0}
-    for season in parse_seasons(args.seasons):
-        ingest_season(season, args.laps, args.refresh, T, skipped)
-    if not T["races"]:
+    try:
+        for season in parse_seasons(args.seasons):
+            ingest_season(season, args.laps, args.refresh, T, skipped)
+    except BudgetReached:
+        print(f"\nStopped after {MAX_REQUESTS} new requests. Run the same command again later to continue "
+              f"(downloaded pages are cached).")
+    if not T["races"] and not os.path.exists(DB):
         sys.exit("No race data was loaded.")
 
     con = write_outputs(T)
-    print("\nRows loaded:", {n: len(rows_of(T, n)) for n in TABLES})
+    print("\nRows in database:", {n: con.execute(
+        f"SELECT COUNT(*) FROM {n}").fetchone()[0] for n in TABLES})
     if any(skipped.values()):
         print("Skipped rows with unknown drivers:", skipped)
     sys.exit(1 if run_checks(con) else 0)
