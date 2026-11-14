@@ -1,11 +1,15 @@
 -- Starter analysis queries for the REAL F1 data (SQLite 3.25+)
 
--- 1. Championship standings per season (drivers)
-SELECT r.season, RANK() OVER (PARTITION BY r.season ORDER BY SUM(x.points) DESC) AS pos,
-       d.first_name || ' ' || d.last_name AS driver, SUM(x.points) AS points,
-       SUM(x.position = 1) AS wins
-FROM race_results x JOIN races r USING (race_id) JOIN drivers d USING (driver_id)
-GROUP BY r.season, d.driver_id ORDER BY r.season, pos;
+-- 1. Championship standings per season (Grand Prix + sprint points)
+SELECT season, RANK() OVER (PARTITION BY season ORDER BY points DESC) AS pos, driver, points, wins
+FROM (
+  SELECT r.season, d.driver_id, d.first_name || ' ' || d.last_name AS driver,
+         SUM(v.points) AS points,
+         SUM(CASE WHEN v.is_sprint = 0 AND x.position = 1 THEN 1 ELSE 0 END) AS wins
+  FROM v_points v JOIN races r USING (race_id) JOIN drivers d USING (driver_id)
+  LEFT JOIN race_results x ON x.race_id = v.race_id AND x.driver_id = v.driver_id AND v.is_sprint = 0
+  GROUP BY r.season, d.driver_id)
+ORDER BY season, pos;
 
 -- 2. How much does the starting grid decide the race? Win and podium rate by grid slot
 SELECT grid, COUNT(*) AS starts, ROUND(100.0 * SUM(position = 1) / COUNT(*), 1) AS win_pct,
