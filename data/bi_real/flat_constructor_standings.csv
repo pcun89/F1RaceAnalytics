@@ -1,0 +1,1141 @@
+constructor_id,round,round_points,cum_points,season,championship_pos,race_id,constructor_name,race_label,race_date
+alfa,1,9.0,9.0,2022,4,202201,Alfa Romeo,2022 R01 Bahrain Grand Prix,2022-03-20
+alphatauri,1,4.0,4.0,2022,6,202201,AlphaTauri,2022 R01 Bahrain Grand Prix,2022-03-20
+alpine,1,8.0,8.0,2022,5,202201,Alpine F1 Team,2022 R01 Bahrain Grand Prix,2022-03-20
+aston_martin,1,0.0,0.0,2022,7,202201,Aston Martin,2022 R01 Bahrain Grand Prix,2022-03-20
+ferrari,1,44.0,44.0,2022,1,202201,Ferrari,2022 R01 Bahrain Grand Prix,2022-03-20
+haas,1,10.0,10.0,2022,3,202201,Haas F1 Team,2022 R01 Bahrain Grand Prix,2022-03-20
+mclaren,1,0.0,0.0,2022,7,202201,McLaren,2022 R01 Bahrain Grand Prix,2022-03-20
+mercedes,1,27.0,27.0,2022,2,202201,Mercedes,2022 R01 Bahrain Grand Prix,2022-03-20
+red_bull,1,0.0,0.0,2022,7,202201,Red Bull,2022 R01 Bahrain Grand Prix,2022-03-20
+williams,1,0.0,0.0,2022,7,202201,Williams,2022 R01 Bahrain Grand Prix,2022-03-20
+alfa,2,0.0,9.0,2022,6,202202,Alfa Romeo,2022 R02 Saudi Arabian Grand Prix,2022-03-27
+alphatauri,2,4.0,8.0,2022,7,202202,AlphaTauri,2022 R02 Saudi Arabian Grand Prix,2022-03-27
+alpine,2,8.0,16.0,2022,4,202202,Alpine F1 Team,2022 R02 Saudi Arabian Grand Prix,2022-03-27
+aston_martin,2,0.0,0.0,2022,9,202202,Aston Martin,2022 R02 Saudi Arabian Grand Prix,2022-03-27
+ferrari,2,34.0,78.0,2022,1,202202,Ferrari,2022 R02 Saudi Arabian Grand Prix,2022-03-27
+haas,2,2.0,12.0,2022,5,202202,Haas F1 Team,2022 R02 Saudi Arabian Grand Prix,2022-03-27
+mclaren,2,6.0,6.0,2022,8,202202,McLaren,2022 R02 Saudi Arabian Grand Prix,2022-03-27
+mercedes,2,11.0,38.0,2022,2,202202,Mercedes,2022 R02 Saudi Arabian Grand Prix,2022-03-27
+red_bull,2,37.0,37.0,2022,3,202202,Red Bull,2022 R02 Saudi Arabian Grand Prix,2022-03-27
+williams,2,0.0,0.0,2022,9,202202,Williams,2022 R02 Saudi Arabian Grand Prix,2022-03-27
+alfa,3,4.0,13.0,2022,6,202203,Alfa Romeo,2022 R03 Australian Grand Prix,2022-04-10
+alphatauri,3,2.0,10.0,2022,8,202203,AlphaTauri,2022 R03 Australian Grand Prix,2022-04-10
+alpine,3,6.0,22.0,2022,5,202203,Alpine F1 Team,2022 R03 Australian Grand Prix,2022-04-10
+aston_martin,3,0.0,0.0,2022,10,202203,Aston Martin,2022 R03 Australian Grand Prix,2022-04-10
+ferrari,3,26.0,104.0,2022,1,202203,Ferrari,2022 R03 Australian Grand Prix,2022-04-10
+haas,3,0.0,12.0,2022,7,202203,Haas F1 Team,2022 R03 Australian Grand Prix,2022-04-10
+mclaren,3,18.0,24.0,2022,4,202203,McLaren,2022 R03 Australian Grand Prix,2022-04-10
+mercedes,3,27.0,65.0,2022,2,202203,Mercedes,2022 R03 Australian Grand Prix,2022-04-10
+red_bull,3,18.0,55.0,2022,3,202203,Red Bull,2022 R03 Australian Grand Prix,2022-04-10
+williams,3,1.0,1.0,2022,9,202203,Williams,2022 R03 Australian Grand Prix,2022-04-10
+alfa,4,12.0,25.0,2022,5,202204,Alfa Romeo,2022 R04 Emilia Romagna Grand Prix,2022-04-24
+alphatauri,4,6.0,16.0,2022,7,202204,AlphaTauri,2022 R04 Emilia Romagna Grand Prix,2022-04-24
+alpine,4,0.0,22.0,2022,6,202204,Alpine F1 Team,2022 R04 Emilia Romagna Grand Prix,2022-04-24
+aston_martin,4,5.0,5.0,2022,9,202204,Aston Martin,2022 R04 Emilia Romagna Grand Prix,2022-04-24
+ferrari,4,20.0,124.0,2022,1,202204,Ferrari,2022 R04 Emilia Romagna Grand Prix,2022-04-24
+haas,4,3.0,15.0,2022,8,202204,Haas F1 Team,2022 R04 Emilia Romagna Grand Prix,2022-04-24
+mclaren,4,22.0,46.0,2022,4,202204,McLaren,2022 R04 Emilia Romagna Grand Prix,2022-04-24
+mercedes,4,12.0,77.0,2022,3,202204,Mercedes,2022 R04 Emilia Romagna Grand Prix,2022-04-24
+red_bull,4,58.0,113.0,2022,2,202204,Red Bull,2022 R04 Emilia Romagna Grand Prix,2022-04-24
+williams,4,0.0,1.0,2022,10,202204,Williams,2022 R04 Emilia Romagna Grand Prix,2022-04-24
+alfa,5,6.0,31.0,2022,5,202205,Alfa Romeo,2022 R05 Miami Grand Prix,2022-05-08
+alphatauri,5,0.0,16.0,2022,7,202205,AlphaTauri,2022 R05 Miami Grand Prix,2022-05-08
+alpine,5,4.0,26.0,2022,6,202205,Alpine F1 Team,2022 R05 Miami Grand Prix,2022-05-08
+aston_martin,5,1.0,6.0,2022,9,202205,Aston Martin,2022 R05 Miami Grand Prix,2022-05-08
+ferrari,5,33.0,157.0,2022,1,202205,Ferrari,2022 R05 Miami Grand Prix,2022-05-08
+haas,5,0.0,15.0,2022,8,202205,Haas F1 Team,2022 R05 Miami Grand Prix,2022-05-08
+mclaren,5,0.0,46.0,2022,4,202205,McLaren,2022 R05 Miami Grand Prix,2022-05-08
+mercedes,5,18.0,95.0,2022,3,202205,Mercedes,2022 R05 Miami Grand Prix,2022-05-08
+red_bull,5,38.0,151.0,2022,2,202205,Red Bull,2022 R05 Miami Grand Prix,2022-05-08
+williams,5,2.0,3.0,2022,10,202205,Williams,2022 R05 Miami Grand Prix,2022-05-08
+alfa,6,8.0,39.0,2022,5,202206,Alfa Romeo,2022 R06 Spanish Grand Prix,2022-05-22
+alphatauri,6,1.0,17.0,2022,7,202206,AlphaTauri,2022 R06 Spanish Grand Prix,2022-05-22
+alpine,6,8.0,34.0,2022,6,202206,Alpine F1 Team,2022 R06 Spanish Grand Prix,2022-05-22
+aston_martin,6,0.0,6.0,2022,9,202206,Aston Martin,2022 R06 Spanish Grand Prix,2022-05-22
+ferrari,6,12.0,169.0,2022,2,202206,Ferrari,2022 R06 Spanish Grand Prix,2022-05-22
+haas,6,0.0,15.0,2022,8,202206,Haas F1 Team,2022 R06 Spanish Grand Prix,2022-05-22
+mclaren,6,4.0,50.0,2022,4,202206,McLaren,2022 R06 Spanish Grand Prix,2022-05-22
+mercedes,6,25.0,120.0,2022,3,202206,Mercedes,2022 R06 Spanish Grand Prix,2022-05-22
+red_bull,6,44.0,195.0,2022,1,202206,Red Bull,2022 R06 Spanish Grand Prix,2022-05-22
+williams,6,0.0,3.0,2022,10,202206,Williams,2022 R06 Spanish Grand Prix,2022-05-22
+alfa,7,2.0,41.0,2022,5,202207,Alfa Romeo,2022 R07 Monaco Grand Prix,2022-05-29
+alphatauri,7,0.0,17.0,2022,7,202207,AlphaTauri,2022 R07 Monaco Grand Prix,2022-05-29
+alpine,7,6.0,40.0,2022,6,202207,Alpine F1 Team,2022 R07 Monaco Grand Prix,2022-05-29
+aston_martin,7,1.0,7.0,2022,9,202207,Aston Martin,2022 R07 Monaco Grand Prix,2022-05-29
+ferrari,7,30.0,199.0,2022,2,202207,Ferrari,2022 R07 Monaco Grand Prix,2022-05-29
+haas,7,0.0,15.0,2022,8,202207,Haas F1 Team,2022 R07 Monaco Grand Prix,2022-05-29
+mclaren,7,9.0,59.0,2022,4,202207,McLaren,2022 R07 Monaco Grand Prix,2022-05-29
+mercedes,7,14.0,134.0,2022,3,202207,Mercedes,2022 R07 Monaco Grand Prix,2022-05-29
+red_bull,7,40.0,235.0,2022,1,202207,Red Bull,2022 R07 Monaco Grand Prix,2022-05-29
+williams,7,0.0,3.0,2022,10,202207,Williams,2022 R07 Monaco Grand Prix,2022-05-29
+alfa,8,0.0,41.0,2022,6,202208,Alfa Romeo,2022 R08 Azerbaijan Grand Prix,2022-06-12
+alphatauri,8,10.0,27.0,2022,7,202208,AlphaTauri,2022 R08 Azerbaijan Grand Prix,2022-06-12
+alpine,8,7.0,47.0,2022,5,202208,Alpine F1 Team,2022 R08 Azerbaijan Grand Prix,2022-06-12
+aston_martin,8,8.0,15.0,2022,8,202208,Aston Martin,2022 R08 Azerbaijan Grand Prix,2022-06-12
+ferrari,8,0.0,199.0,2022,2,202208,Ferrari,2022 R08 Azerbaijan Grand Prix,2022-06-12
+haas,8,0.0,15.0,2022,8,202208,Haas F1 Team,2022 R08 Azerbaijan Grand Prix,2022-06-12
+mclaren,8,6.0,65.0,2022,4,202208,McLaren,2022 R08 Azerbaijan Grand Prix,2022-06-12
+mercedes,8,27.0,161.0,2022,3,202208,Mercedes,2022 R08 Azerbaijan Grand Prix,2022-06-12
+red_bull,8,44.0,279.0,2022,1,202208,Red Bull,2022 R08 Azerbaijan Grand Prix,2022-06-12
+williams,8,0.0,3.0,2022,10,202208,Williams,2022 R08 Azerbaijan Grand Prix,2022-06-12
+alfa,9,10.0,51.0,2022,6,202209,Alfa Romeo,2022 R09 Canadian Grand Prix,2022-06-19
+alphatauri,9,0.0,27.0,2022,7,202209,AlphaTauri,2022 R09 Canadian Grand Prix,2022-06-19
+alpine,9,10.0,57.0,2022,5,202209,Alpine F1 Team,2022 R09 Canadian Grand Prix,2022-06-19
+aston_martin,9,1.0,16.0,2022,8,202209,Aston Martin,2022 R09 Canadian Grand Prix,2022-06-19
+ferrari,9,29.0,228.0,2022,2,202209,Ferrari,2022 R09 Canadian Grand Prix,2022-06-19
+haas,9,0.0,15.0,2022,9,202209,Haas F1 Team,2022 R09 Canadian Grand Prix,2022-06-19
+mclaren,9,0.0,65.0,2022,4,202209,McLaren,2022 R09 Canadian Grand Prix,2022-06-19
+mercedes,9,27.0,188.0,2022,3,202209,Mercedes,2022 R09 Canadian Grand Prix,2022-06-19
+red_bull,9,25.0,304.0,2022,1,202209,Red Bull,2022 R09 Canadian Grand Prix,2022-06-19
+williams,9,0.0,3.0,2022,10,202209,Williams,2022 R09 Canadian Grand Prix,2022-06-19
+alfa,10,0.0,51.0,2022,6,202210,Alfa Romeo,2022 R10 British Grand Prix,2022-07-03
+alphatauri,10,0.0,27.0,2022,7,202210,AlphaTauri,2022 R10 British Grand Prix,2022-07-03
+alpine,10,10.0,67.0,2022,5,202210,Alpine F1 Team,2022 R10 British Grand Prix,2022-07-03
+aston_martin,10,2.0,18.0,2022,9,202210,Aston Martin,2022 R10 British Grand Prix,2022-07-03
+ferrari,10,37.0,265.0,2022,2,202210,Ferrari,2022 R10 British Grand Prix,2022-07-03
+haas,10,5.0,20.0,2022,8,202210,Haas F1 Team,2022 R10 British Grand Prix,2022-07-03
+mclaren,10,8.0,73.0,2022,4,202210,McLaren,2022 R10 British Grand Prix,2022-07-03
+mercedes,10,16.0,204.0,2022,3,202210,Mercedes,2022 R10 British Grand Prix,2022-07-03
+red_bull,10,24.0,328.0,2022,1,202210,Red Bull,2022 R10 British Grand Prix,2022-07-03
+williams,10,0.0,3.0,2022,10,202210,Williams,2022 R10 British Grand Prix,2022-07-03
+alfa,11,0.0,51.0,2022,6,202211,Alfa Romeo,2022 R11 Austrian Grand Prix,2022-07-10
+alphatauri,11,0.0,27.0,2022,8,202211,AlphaTauri,2022 R11 Austrian Grand Prix,2022-07-10
+alpine,11,14.0,81.0,2022,4,202211,Alpine F1 Team,2022 R11 Austrian Grand Prix,2022-07-10
+aston_martin,11,0.0,18.0,2022,9,202211,Aston Martin,2022 R11 Austrian Grand Prix,2022-07-10
+ferrari,11,38.0,303.0,2022,2,202211,Ferrari,2022 R11 Austrian Grand Prix,2022-07-10
+haas,11,14.0,34.0,2022,7,202211,Haas F1 Team,2022 R11 Austrian Grand Prix,2022-07-10
+mclaren,11,8.0,81.0,2022,4,202211,McLaren,2022 R11 Austrian Grand Prix,2022-07-10
+mercedes,11,33.0,237.0,2022,3,202211,Mercedes,2022 R11 Austrian Grand Prix,2022-07-10
+red_bull,11,31.0,359.0,2022,1,202211,Red Bull,2022 R11 Austrian Grand Prix,2022-07-10
+williams,11,0.0,3.0,2022,10,202211,Williams,2022 R11 Austrian Grand Prix,2022-07-10
+alfa,12,0.0,51.0,2022,6,202212,Alfa Romeo,2022 R12 French Grand Prix,2022-07-24
+alphatauri,12,0.0,27.0,2022,8,202212,AlphaTauri,2022 R12 French Grand Prix,2022-07-24
+alpine,12,12.0,93.0,2022,4,202212,Alpine F1 Team,2022 R12 French Grand Prix,2022-07-24
+aston_martin,12,1.0,19.0,2022,9,202212,Aston Martin,2022 R12 French Grand Prix,2022-07-24
+ferrari,12,11.0,314.0,2022,2,202212,Ferrari,2022 R12 French Grand Prix,2022-07-24
+haas,12,0.0,34.0,2022,7,202212,Haas F1 Team,2022 R12 French Grand Prix,2022-07-24
+mclaren,12,8.0,89.0,2022,5,202212,McLaren,2022 R12 French Grand Prix,2022-07-24
+mercedes,12,33.0,270.0,2022,3,202212,Mercedes,2022 R12 French Grand Prix,2022-07-24
+red_bull,12,37.0,396.0,2022,1,202212,Red Bull,2022 R12 French Grand Prix,2022-07-24
+williams,12,0.0,3.0,2022,10,202212,Williams,2022 R12 French Grand Prix,2022-07-24
+alfa,13,0.0,51.0,2022,6,202213,Alfa Romeo,2022 R13 Hungarian Grand Prix,2022-07-31
+alphatauri,13,0.0,27.0,2022,8,202213,AlphaTauri,2022 R13 Hungarian Grand Prix,2022-07-31
+alpine,13,6.0,99.0,2022,4,202213,Alpine F1 Team,2022 R13 Hungarian Grand Prix,2022-07-31
+aston_martin,13,1.0,20.0,2022,9,202213,Aston Martin,2022 R13 Hungarian Grand Prix,2022-07-31
+ferrari,13,20.0,334.0,2022,2,202213,Ferrari,2022 R13 Hungarian Grand Prix,2022-07-31
+haas,13,0.0,34.0,2022,7,202213,Haas F1 Team,2022 R13 Hungarian Grand Prix,2022-07-31
+mclaren,13,6.0,95.0,2022,5,202213,McLaren,2022 R13 Hungarian Grand Prix,2022-07-31
+mercedes,13,34.0,304.0,2022,3,202213,Mercedes,2022 R13 Hungarian Grand Prix,2022-07-31
+red_bull,13,35.0,431.0,2022,1,202213,Red Bull,2022 R13 Hungarian Grand Prix,2022-07-31
+williams,13,0.0,3.0,2022,10,202213,Williams,2022 R13 Hungarian Grand Prix,2022-07-31
+alfa,14,0.0,51.0,2022,6,202214,Alfa Romeo,2022 R14 Belgian Grand Prix,2022-08-28
+alphatauri,14,2.0,29.0,2022,8,202214,AlphaTauri,2022 R14 Belgian Grand Prix,2022-08-28
+alpine,14,16.0,115.0,2022,4,202214,Alpine F1 Team,2022 R14 Belgian Grand Prix,2022-08-28
+aston_martin,14,4.0,24.0,2022,9,202214,Aston Martin,2022 R14 Belgian Grand Prix,2022-08-28
+ferrari,14,23.0,357.0,2022,2,202214,Ferrari,2022 R14 Belgian Grand Prix,2022-08-28
+haas,14,0.0,34.0,2022,7,202214,Haas F1 Team,2022 R14 Belgian Grand Prix,2022-08-28
+mclaren,14,0.0,95.0,2022,5,202214,McLaren,2022 R14 Belgian Grand Prix,2022-08-28
+mercedes,14,12.0,316.0,2022,3,202214,Mercedes,2022 R14 Belgian Grand Prix,2022-08-28
+red_bull,14,44.0,475.0,2022,1,202214,Red Bull,2022 R14 Belgian Grand Prix,2022-08-28
+williams,14,1.0,4.0,2022,10,202214,Williams,2022 R14 Belgian Grand Prix,2022-08-28
+alfa,15,0.0,51.0,2022,6,202215,Alfa Romeo,2022 R15 Dutch Grand Prix,2022-09-04
+alphatauri,15,0.0,29.0,2022,8,202215,AlphaTauri,2022 R15 Dutch Grand Prix,2022-09-04
+alpine,15,10.0,125.0,2022,4,202215,Alpine F1 Team,2022 R15 Dutch Grand Prix,2022-09-04
+aston_martin,15,1.0,25.0,2022,9,202215,Aston Martin,2022 R15 Dutch Grand Prix,2022-09-04
+ferrari,15,19.0,376.0,2022,2,202215,Ferrari,2022 R15 Dutch Grand Prix,2022-09-04
+haas,15,0.0,34.0,2022,7,202215,Haas F1 Team,2022 R15 Dutch Grand Prix,2022-09-04
+mclaren,15,6.0,101.0,2022,5,202215,McLaren,2022 R15 Dutch Grand Prix,2022-09-04
+mercedes,15,30.0,346.0,2022,3,202215,Mercedes,2022 R15 Dutch Grand Prix,2022-09-04
+red_bull,15,36.0,511.0,2022,1,202215,Red Bull,2022 R15 Dutch Grand Prix,2022-09-04
+williams,15,0.0,4.0,2022,10,202215,Williams,2022 R15 Dutch Grand Prix,2022-09-04
+alfa,16,1.0,52.0,2022,6,202216,Alfa Romeo,2022 R16 Italian Grand Prix,2022-09-11
+alphatauri,16,4.0,33.0,2022,8,202216,AlphaTauri,2022 R16 Italian Grand Prix,2022-09-11
+alpine,16,0.0,125.0,2022,4,202216,Alpine F1 Team,2022 R16 Italian Grand Prix,2022-09-11
+aston_martin,16,0.0,25.0,2022,9,202216,Aston Martin,2022 R16 Italian Grand Prix,2022-09-11
+ferrari,16,30.0,406.0,2022,2,202216,Ferrari,2022 R16 Italian Grand Prix,2022-09-11
+haas,16,0.0,34.0,2022,7,202216,Haas F1 Team,2022 R16 Italian Grand Prix,2022-09-11
+mclaren,16,6.0,107.0,2022,5,202216,McLaren,2022 R16 Italian Grand Prix,2022-09-11
+mercedes,16,25.0,371.0,2022,3,202216,Mercedes,2022 R16 Italian Grand Prix,2022-09-11
+red_bull,16,34.0,545.0,2022,1,202216,Red Bull,2022 R16 Italian Grand Prix,2022-09-11
+williams,16,2.0,6.0,2022,10,202216,Williams,2022 R16 Italian Grand Prix,2022-09-11
+alfa,17,0.0,52.0,2022,6,202217,Alfa Romeo,2022 R17 Singapore Grand Prix,2022-10-02
+alphatauri,17,1.0,34.0,2022,8,202217,AlphaTauri,2022 R17 Singapore Grand Prix,2022-10-02
+alpine,17,0.0,125.0,2022,5,202217,Alpine F1 Team,2022 R17 Singapore Grand Prix,2022-10-02
+aston_martin,17,12.0,37.0,2022,7,202217,Aston Martin,2022 R17 Singapore Grand Prix,2022-10-02
+ferrari,17,33.0,439.0,2022,2,202217,Ferrari,2022 R17 Singapore Grand Prix,2022-10-02
+haas,17,0.0,34.0,2022,8,202217,Haas F1 Team,2022 R17 Singapore Grand Prix,2022-10-02
+mclaren,17,22.0,129.0,2022,4,202217,McLaren,2022 R17 Singapore Grand Prix,2022-10-02
+mercedes,17,2.0,373.0,2022,3,202217,Mercedes,2022 R17 Singapore Grand Prix,2022-10-02
+red_bull,17,31.0,576.0,2022,1,202217,Red Bull,2022 R17 Singapore Grand Prix,2022-10-02
+williams,17,0.0,6.0,2022,10,202217,Williams,2022 R17 Singapore Grand Prix,2022-10-02
+alfa,18,0.0,52.0,2022,6,202218,Alfa Romeo,2022 R18 Japanese Grand Prix,2022-10-09
+alphatauri,18,0.0,34.0,2022,8,202218,AlphaTauri,2022 R18 Japanese Grand Prix,2022-10-09
+alpine,18,18.0,143.0,2022,4,202218,Alpine F1 Team,2022 R18 Japanese Grand Prix,2022-10-09
+aston_martin,18,8.0,45.0,2022,7,202218,Aston Martin,2022 R18 Japanese Grand Prix,2022-10-09
+ferrari,18,15.0,454.0,2022,2,202218,Ferrari,2022 R18 Japanese Grand Prix,2022-10-09
+haas,18,0.0,34.0,2022,8,202218,Haas F1 Team,2022 R18 Japanese Grand Prix,2022-10-09
+mclaren,18,1.0,130.0,2022,5,202218,McLaren,2022 R18 Japanese Grand Prix,2022-10-09
+mercedes,18,14.0,387.0,2022,3,202218,Mercedes,2022 R18 Japanese Grand Prix,2022-10-09
+red_bull,18,43.0,619.0,2022,1,202218,Red Bull,2022 R18 Japanese Grand Prix,2022-10-09
+williams,18,2.0,8.0,2022,10,202218,Williams,2022 R18 Japanese Grand Prix,2022-10-09
+alfa,19,0.0,52.0,2022,6,202219,Alfa Romeo,2022 R19 United States Grand Prix,2022-10-23
+alphatauri,19,1.0,35.0,2022,9,202219,AlphaTauri,2022 R19 United States Grand Prix,2022-10-23
+alpine,19,6.0,149.0,2022,4,202219,Alpine F1 Team,2022 R19 United States Grand Prix,2022-10-23
+aston_martin,19,4.0,49.0,2022,7,202219,Aston Martin,2022 R19 United States Grand Prix,2022-10-23
+ferrari,19,15.0,469.0,2022,2,202219,Ferrari,2022 R19 United States Grand Prix,2022-10-23
+haas,19,2.0,36.0,2022,8,202219,Haas F1 Team,2022 R19 United States Grand Prix,2022-10-23
+mclaren,19,8.0,138.0,2022,5,202219,McLaren,2022 R19 United States Grand Prix,2022-10-23
+mercedes,19,29.0,416.0,2022,3,202219,Mercedes,2022 R19 United States Grand Prix,2022-10-23
+red_bull,19,37.0,656.0,2022,1,202219,Red Bull,2022 R19 United States Grand Prix,2022-10-23
+williams,19,0.0,8.0,2022,10,202219,Williams,2022 R19 United States Grand Prix,2022-10-23
+alfa,20,1.0,53.0,2022,6,202220,Alfa Romeo,2022 R20 Mexico City Grand Prix,2022-10-30
+alphatauri,20,0.0,35.0,2022,9,202220,AlphaTauri,2022 R20 Mexico City Grand Prix,2022-10-30
+alpine,20,4.0,153.0,2022,4,202220,Alpine F1 Team,2022 R20 Mexico City Grand Prix,2022-10-30
+aston_martin,20,0.0,49.0,2022,7,202220,Aston Martin,2022 R20 Mexico City Grand Prix,2022-10-30
+ferrari,20,18.0,487.0,2022,2,202220,Ferrari,2022 R20 Mexico City Grand Prix,2022-10-30
+haas,20,0.0,36.0,2022,8,202220,Haas F1 Team,2022 R20 Mexico City Grand Prix,2022-10-30
+mclaren,20,8.0,146.0,2022,5,202220,McLaren,2022 R20 Mexico City Grand Prix,2022-10-30
+mercedes,20,31.0,447.0,2022,3,202220,Mercedes,2022 R20 Mexico City Grand Prix,2022-10-30
+red_bull,20,40.0,696.0,2022,1,202220,Red Bull,2022 R20 Mexico City Grand Prix,2022-10-30
+williams,20,0.0,8.0,2022,10,202220,Williams,2022 R20 Mexico City Grand Prix,2022-10-30
+alfa,21,2.0,55.0,2022,6,202221,Alfa Romeo,2022 R21 São Paulo Grand Prix,2022-11-13
+alphatauri,21,0.0,35.0,2022,9,202221,AlphaTauri,2022 R21 São Paulo Grand Prix,2022-11-13
+alpine,21,14.0,167.0,2022,4,202221,Alpine F1 Team,2022 R21 São Paulo Grand Prix,2022-11-13
+aston_martin,21,1.0,50.0,2022,7,202221,Aston Martin,2022 R21 São Paulo Grand Prix,2022-11-13
+ferrari,21,37.0,524.0,2022,2,202221,Ferrari,2022 R21 São Paulo Grand Prix,2022-11-13
+haas,21,1.0,37.0,2022,8,202221,Haas F1 Team,2022 R21 São Paulo Grand Prix,2022-11-13
+mclaren,21,2.0,148.0,2022,5,202221,McLaren,2022 R21 São Paulo Grand Prix,2022-11-13
+mercedes,21,58.0,505.0,2022,3,202221,Mercedes,2022 R21 São Paulo Grand Prix,2022-11-13
+red_bull,21,23.0,719.0,2022,1,202221,Red Bull,2022 R21 São Paulo Grand Prix,2022-11-13
+williams,21,0.0,8.0,2022,10,202221,Williams,2022 R21 São Paulo Grand Prix,2022-11-13
+alfa,22,0.0,55.0,2022,6,202222,Alfa Romeo,2022 R22 Abu Dhabi Grand Prix,2022-11-20
+alphatauri,22,0.0,35.0,2022,9,202222,AlphaTauri,2022 R22 Abu Dhabi Grand Prix,2022-11-20
+alpine,22,6.0,173.0,2022,4,202222,Alpine F1 Team,2022 R22 Abu Dhabi Grand Prix,2022-11-20
+aston_martin,22,5.0,55.0,2022,6,202222,Aston Martin,2022 R22 Abu Dhabi Grand Prix,2022-11-20
+ferrari,22,30.0,554.0,2022,2,202222,Ferrari,2022 R22 Abu Dhabi Grand Prix,2022-11-20
+haas,22,0.0,37.0,2022,8,202222,Haas F1 Team,2022 R22 Abu Dhabi Grand Prix,2022-11-20
+mclaren,22,11.0,159.0,2022,5,202222,McLaren,2022 R22 Abu Dhabi Grand Prix,2022-11-20
+mercedes,22,10.0,515.0,2022,3,202222,Mercedes,2022 R22 Abu Dhabi Grand Prix,2022-11-20
+red_bull,22,40.0,759.0,2022,1,202222,Red Bull,2022 R22 Abu Dhabi Grand Prix,2022-11-20
+williams,22,0.0,8.0,2022,10,202222,Williams,2022 R22 Abu Dhabi Grand Prix,2022-11-20
+alfa,1,4.0,4.0,2023,5,202301,Alfa Romeo,2023 R01 Bahrain Grand Prix,2023-03-05
+alphatauri,1,0.0,0.0,2023,8,202301,AlphaTauri,2023 R01 Bahrain Grand Prix,2023-03-05
+alpine,1,2.0,2.0,2023,6,202301,Alpine F1 Team,2023 R01 Bahrain Grand Prix,2023-03-05
+aston_martin,1,23.0,23.0,2023,2,202301,Aston Martin,2023 R01 Bahrain Grand Prix,2023-03-05
+ferrari,1,12.0,12.0,2023,4,202301,Ferrari,2023 R01 Bahrain Grand Prix,2023-03-05
+haas,1,0.0,0.0,2023,8,202301,Haas F1 Team,2023 R01 Bahrain Grand Prix,2023-03-05
+mclaren,1,0.0,0.0,2023,8,202301,McLaren,2023 R01 Bahrain Grand Prix,2023-03-05
+mercedes,1,16.0,16.0,2023,3,202301,Mercedes,2023 R01 Bahrain Grand Prix,2023-03-05
+red_bull,1,43.0,43.0,2023,1,202301,Red Bull,2023 R01 Bahrain Grand Prix,2023-03-05
+williams,1,1.0,1.0,2023,7,202301,Williams,2023 R01 Bahrain Grand Prix,2023-03-05
+alfa,2,0.0,4.0,2023,6,202302,Alfa Romeo,2023 R02 Saudi Arabian Grand Prix,2023-03-19
+alphatauri,2,0.0,0.0,2023,9,202302,AlphaTauri,2023 R02 Saudi Arabian Grand Prix,2023-03-19
+alpine,2,6.0,8.0,2023,5,202302,Alpine F1 Team,2023 R02 Saudi Arabian Grand Prix,2023-03-19
+aston_martin,2,15.0,38.0,2023,2,202302,Aston Martin,2023 R02 Saudi Arabian Grand Prix,2023-03-19
+ferrari,2,14.0,26.0,2023,4,202302,Ferrari,2023 R02 Saudi Arabian Grand Prix,2023-03-19
+haas,2,1.0,1.0,2023,7,202302,Haas F1 Team,2023 R02 Saudi Arabian Grand Prix,2023-03-19
+mclaren,2,0.0,0.0,2023,9,202302,McLaren,2023 R02 Saudi Arabian Grand Prix,2023-03-19
+mercedes,2,22.0,38.0,2023,2,202302,Mercedes,2023 R02 Saudi Arabian Grand Prix,2023-03-19
+red_bull,2,44.0,87.0,2023,1,202302,Red Bull,2023 R02 Saudi Arabian Grand Prix,2023-03-19
+williams,2,0.0,1.0,2023,7,202302,Williams,2023 R02 Saudi Arabian Grand Prix,2023-03-19
+alfa,3,2.0,6.0,2023,8,202303,Alfa Romeo,2023 R03 Australian Grand Prix,2023-04-02
+alphatauri,3,1.0,1.0,2023,9,202303,AlphaTauri,2023 R03 Australian Grand Prix,2023-04-02
+alpine,3,0.0,8.0,2023,6,202303,Alpine F1 Team,2023 R03 Australian Grand Prix,2023-04-02
+aston_martin,3,27.0,65.0,2023,2,202303,Aston Martin,2023 R03 Australian Grand Prix,2023-04-02
+ferrari,3,0.0,26.0,2023,4,202303,Ferrari,2023 R03 Australian Grand Prix,2023-04-02
+haas,3,6.0,7.0,2023,7,202303,Haas F1 Team,2023 R03 Australian Grand Prix,2023-04-02
+mclaren,3,12.0,12.0,2023,5,202303,McLaren,2023 R03 Australian Grand Prix,2023-04-02
+mercedes,3,18.0,56.0,2023,3,202303,Mercedes,2023 R03 Australian Grand Prix,2023-04-02
+red_bull,3,36.0,123.0,2023,1,202303,Red Bull,2023 R03 Australian Grand Prix,2023-04-02
+williams,3,0.0,1.0,2023,9,202303,Williams,2023 R03 Australian Grand Prix,2023-04-02
+alfa,4,0.0,6.0,2023,8,202304,Alfa Romeo,2023 R04 Azerbaijan Grand Prix,2023-04-30
+alphatauri,4,1.0,2.0,2023,9,202304,AlphaTauri,2023 R04 Azerbaijan Grand Prix,2023-04-30
+alpine,4,0.0,8.0,2023,6,202304,Alpine F1 Team,2023 R04 Azerbaijan Grand Prix,2023-04-30
+aston_martin,4,22.0,87.0,2023,2,202304,Aston Martin,2023 R04 Azerbaijan Grand Prix,2023-04-30
+ferrari,4,36.0,62.0,2023,4,202304,Ferrari,2023 R04 Azerbaijan Grand Prix,2023-04-30
+haas,4,0.0,7.0,2023,7,202304,Haas F1 Team,2023 R04 Azerbaijan Grand Prix,2023-04-30
+mclaren,4,2.0,14.0,2023,5,202304,McLaren,2023 R04 Azerbaijan Grand Prix,2023-04-30
+mercedes,4,20.0,76.0,2023,3,202304,Mercedes,2023 R04 Azerbaijan Grand Prix,2023-04-30
+red_bull,4,57.0,180.0,2023,1,202304,Red Bull,2023 R04 Azerbaijan Grand Prix,2023-04-30
+williams,4,0.0,1.0,2023,10,202304,Williams,2023 R04 Azerbaijan Grand Prix,2023-04-30
+alfa,5,0.0,6.0,2023,8,202305,Alfa Romeo,2023 R05 Miami Grand Prix,2023-05-07
+alphatauri,5,0.0,2.0,2023,9,202305,AlphaTauri,2023 R05 Miami Grand Prix,2023-05-07
+alpine,5,6.0,14.0,2023,5,202305,Alpine F1 Team,2023 R05 Miami Grand Prix,2023-05-07
+aston_martin,5,15.0,102.0,2023,2,202305,Aston Martin,2023 R05 Miami Grand Prix,2023-05-07
+ferrari,5,16.0,78.0,2023,4,202305,Ferrari,2023 R05 Miami Grand Prix,2023-05-07
+haas,5,1.0,8.0,2023,7,202305,Haas F1 Team,2023 R05 Miami Grand Prix,2023-05-07
+mclaren,5,0.0,14.0,2023,5,202305,McLaren,2023 R05 Miami Grand Prix,2023-05-07
+mercedes,5,20.0,96.0,2023,3,202305,Mercedes,2023 R05 Miami Grand Prix,2023-05-07
+red_bull,5,44.0,224.0,2023,1,202305,Red Bull,2023 R05 Miami Grand Prix,2023-05-07
+williams,5,0.0,1.0,2023,10,202305,Williams,2023 R05 Miami Grand Prix,2023-05-07
+alfa,6,0.0,6.0,2023,8,202306,Alfa Romeo,2023 R06 Monaco Grand Prix,2023-05-28
+alphatauri,6,0.0,2.0,2023,9,202306,AlphaTauri,2023 R06 Monaco Grand Prix,2023-05-28
+alpine,6,21.0,35.0,2023,5,202306,Alpine F1 Team,2023 R06 Monaco Grand Prix,2023-05-28
+aston_martin,6,18.0,120.0,2023,2,202306,Aston Martin,2023 R06 Monaco Grand Prix,2023-05-28
+ferrari,6,12.0,90.0,2023,4,202306,Ferrari,2023 R06 Monaco Grand Prix,2023-05-28
+haas,6,0.0,8.0,2023,7,202306,Haas F1 Team,2023 R06 Monaco Grand Prix,2023-05-28
+mclaren,6,3.0,17.0,2023,6,202306,McLaren,2023 R06 Monaco Grand Prix,2023-05-28
+mercedes,6,23.0,119.0,2023,3,202306,Mercedes,2023 R06 Monaco Grand Prix,2023-05-28
+red_bull,6,25.0,249.0,2023,1,202306,Red Bull,2023 R06 Monaco Grand Prix,2023-05-28
+williams,6,0.0,1.0,2023,10,202306,Williams,2023 R06 Monaco Grand Prix,2023-05-28
+alfa,7,2.0,8.0,2023,7,202307,Alfa Romeo,2023 R07 Spanish Grand Prix,2023-06-04
+alphatauri,7,0.0,2.0,2023,9,202307,AlphaTauri,2023 R07 Spanish Grand Prix,2023-06-04
+alpine,7,5.0,40.0,2023,5,202307,Alpine F1 Team,2023 R07 Spanish Grand Prix,2023-06-04
+aston_martin,7,14.0,134.0,2023,3,202307,Aston Martin,2023 R07 Spanish Grand Prix,2023-06-04
+ferrari,7,10.0,100.0,2023,4,202307,Ferrari,2023 R07 Spanish Grand Prix,2023-06-04
+haas,7,0.0,8.0,2023,7,202307,Haas F1 Team,2023 R07 Spanish Grand Prix,2023-06-04
+mclaren,7,0.0,17.0,2023,6,202307,McLaren,2023 R07 Spanish Grand Prix,2023-06-04
+mercedes,7,33.0,152.0,2023,2,202307,Mercedes,2023 R07 Spanish Grand Prix,2023-06-04
+red_bull,7,38.0,287.0,2023,1,202307,Red Bull,2023 R07 Spanish Grand Prix,2023-06-04
+williams,7,0.0,1.0,2023,10,202307,Williams,2023 R07 Spanish Grand Prix,2023-06-04
+alfa,8,1.0,9.0,2023,7,202308,Alfa Romeo,2023 R08 Canadian Grand Prix,2023-06-18
+alphatauri,8,0.0,2.0,2023,10,202308,AlphaTauri,2023 R08 Canadian Grand Prix,2023-06-18
+alpine,8,4.0,44.0,2023,5,202308,Alpine F1 Team,2023 R08 Canadian Grand Prix,2023-06-18
+aston_martin,8,20.0,154.0,2023,3,202308,Aston Martin,2023 R08 Canadian Grand Prix,2023-06-18
+ferrari,8,22.0,122.0,2023,4,202308,Ferrari,2023 R08 Canadian Grand Prix,2023-06-18
+haas,8,0.0,8.0,2023,8,202308,Haas F1 Team,2023 R08 Canadian Grand Prix,2023-06-18
+mclaren,8,0.0,17.0,2023,6,202308,McLaren,2023 R08 Canadian Grand Prix,2023-06-18
+mercedes,8,15.0,167.0,2023,2,202308,Mercedes,2023 R08 Canadian Grand Prix,2023-06-18
+red_bull,8,34.0,321.0,2023,1,202308,Red Bull,2023 R08 Canadian Grand Prix,2023-06-18
+williams,8,6.0,7.0,2023,9,202308,Williams,2023 R08 Canadian Grand Prix,2023-06-18
+alfa,9,0.0,9.0,2023,8,202309,Alfa Romeo,2023 R09 Austrian Grand Prix,2023-07-02
+alphatauri,9,0.0,2.0,2023,10,202309,AlphaTauri,2023 R09 Austrian Grand Prix,2023-07-02
+alpine,9,3.0,47.0,2023,5,202309,Alpine F1 Team,2023 R09 Austrian Grand Prix,2023-07-02
+aston_martin,9,21.0,175.0,2023,3,202309,Aston Martin,2023 R09 Austrian Grand Prix,2023-07-02
+ferrari,9,32.0,154.0,2023,4,202309,Ferrari,2023 R09 Austrian Grand Prix,2023-07-02
+haas,9,3.0,11.0,2023,7,202309,Haas F1 Team,2023 R09 Austrian Grand Prix,2023-07-02
+mclaren,9,12.0,29.0,2023,6,202309,McLaren,2023 R09 Austrian Grand Prix,2023-07-02
+mercedes,9,11.0,178.0,2023,2,202309,Mercedes,2023 R09 Austrian Grand Prix,2023-07-02
+red_bull,9,56.0,377.0,2023,1,202309,Red Bull,2023 R09 Austrian Grand Prix,2023-07-02
+williams,9,0.0,7.0,2023,9,202309,Williams,2023 R09 Austrian Grand Prix,2023-07-02
+alfa,10,0.0,9.0,2023,9,202310,Alfa Romeo,2023 R10 British Grand Prix,2023-07-09
+alphatauri,10,0.0,2.0,2023,10,202310,AlphaTauri,2023 R10 British Grand Prix,2023-07-09
+alpine,10,0.0,47.0,2023,6,202310,Alpine F1 Team,2023 R10 British Grand Prix,2023-07-09
+aston_martin,10,6.0,181.0,2023,3,202310,Aston Martin,2023 R10 British Grand Prix,2023-07-09
+ferrari,10,3.0,157.0,2023,4,202310,Ferrari,2023 R10 British Grand Prix,2023-07-09
+haas,10,0.0,11.0,2023,7,202310,Haas F1 Team,2023 R10 British Grand Prix,2023-07-09
+mclaren,10,30.0,59.0,2023,5,202310,McLaren,2023 R10 British Grand Prix,2023-07-09
+mercedes,10,25.0,203.0,2023,2,202310,Mercedes,2023 R10 British Grand Prix,2023-07-09
+red_bull,10,34.0,411.0,2023,1,202310,Red Bull,2023 R10 British Grand Prix,2023-07-09
+williams,10,4.0,11.0,2023,7,202310,Williams,2023 R10 British Grand Prix,2023-07-09
+alfa,11,0.0,9.0,2023,9,202311,Alfa Romeo,2023 R11 Hungarian Grand Prix,2023-07-23
+alphatauri,11,0.0,2.0,2023,10,202311,AlphaTauri,2023 R11 Hungarian Grand Prix,2023-07-23
+alpine,11,0.0,47.0,2023,6,202311,Alpine F1 Team,2023 R11 Hungarian Grand Prix,2023-07-23
+aston_martin,11,3.0,184.0,2023,3,202311,Aston Martin,2023 R11 Hungarian Grand Prix,2023-07-23
+ferrari,11,10.0,167.0,2023,4,202311,Ferrari,2023 R11 Hungarian Grand Prix,2023-07-23
+haas,11,0.0,11.0,2023,7,202311,Haas F1 Team,2023 R11 Hungarian Grand Prix,2023-07-23
+mclaren,11,28.0,87.0,2023,5,202311,McLaren,2023 R11 Hungarian Grand Prix,2023-07-23
+mercedes,11,20.0,223.0,2023,2,202311,Mercedes,2023 R11 Hungarian Grand Prix,2023-07-23
+red_bull,11,41.0,452.0,2023,1,202311,Red Bull,2023 R11 Hungarian Grand Prix,2023-07-23
+williams,11,0.0,11.0,2023,7,202311,Williams,2023 R11 Hungarian Grand Prix,2023-07-23
+alfa,12,0.0,9.0,2023,9,202312,Alfa Romeo,2023 R12 Belgian Grand Prix,2023-07-30
+alphatauri,12,1.0,3.0,2023,10,202312,AlphaTauri,2023 R12 Belgian Grand Prix,2023-07-30
+alpine,12,10.0,57.0,2023,6,202312,Alpine F1 Team,2023 R12 Belgian Grand Prix,2023-07-30
+aston_martin,12,12.0,196.0,2023,3,202312,Aston Martin,2023 R12 Belgian Grand Prix,2023-07-30
+ferrari,12,24.0,191.0,2023,4,202312,Ferrari,2023 R12 Belgian Grand Prix,2023-07-30
+haas,12,0.0,11.0,2023,7,202312,Haas F1 Team,2023 R12 Belgian Grand Prix,2023-07-30
+mclaren,12,16.0,103.0,2023,5,202312,McLaren,2023 R12 Belgian Grand Prix,2023-07-30
+mercedes,12,24.0,247.0,2023,2,202312,Mercedes,2023 R12 Belgian Grand Prix,2023-07-30
+red_bull,12,51.0,503.0,2023,1,202312,Red Bull,2023 R12 Belgian Grand Prix,2023-07-30
+williams,12,0.0,11.0,2023,7,202312,Williams,2023 R12 Belgian Grand Prix,2023-07-30
+alfa,13,0.0,9.0,2023,9,202313,Alfa Romeo,2023 R13 Dutch Grand Prix,2023-08-27
+alphatauri,13,0.0,3.0,2023,10,202313,AlphaTauri,2023 R13 Dutch Grand Prix,2023-08-27
+alpine,13,16.0,73.0,2023,6,202313,Alpine F1 Team,2023 R13 Dutch Grand Prix,2023-08-27
+aston_martin,13,19.0,215.0,2023,3,202313,Aston Martin,2023 R13 Dutch Grand Prix,2023-08-27
+ferrari,13,10.0,201.0,2023,4,202313,Ferrari,2023 R13 Dutch Grand Prix,2023-08-27
+haas,13,0.0,11.0,2023,8,202313,Haas F1 Team,2023 R13 Dutch Grand Prix,2023-08-27
+mclaren,13,8.0,111.0,2023,5,202313,McLaren,2023 R13 Dutch Grand Prix,2023-08-27
+mercedes,13,8.0,255.0,2023,2,202313,Mercedes,2023 R13 Dutch Grand Prix,2023-08-27
+red_bull,13,37.0,540.0,2023,1,202313,Red Bull,2023 R13 Dutch Grand Prix,2023-08-27
+williams,13,4.0,15.0,2023,7,202313,Williams,2023 R13 Dutch Grand Prix,2023-08-27
+alfa,14,1.0,10.0,2023,9,202314,Alfa Romeo,2023 R14 Italian Grand Prix,2023-09-03
+alphatauri,14,0.0,3.0,2023,10,202314,AlphaTauri,2023 R14 Italian Grand Prix,2023-09-03
+alpine,14,0.0,73.0,2023,6,202314,Alpine F1 Team,2023 R14 Italian Grand Prix,2023-09-03
+aston_martin,14,2.0,217.0,2023,4,202314,Aston Martin,2023 R14 Italian Grand Prix,2023-09-03
+ferrari,14,27.0,228.0,2023,3,202314,Ferrari,2023 R14 Italian Grand Prix,2023-09-03
+haas,14,0.0,11.0,2023,8,202314,Haas F1 Team,2023 R14 Italian Grand Prix,2023-09-03
+mclaren,14,4.0,115.0,2023,5,202314,McLaren,2023 R14 Italian Grand Prix,2023-09-03
+mercedes,14,18.0,273.0,2023,2,202314,Mercedes,2023 R14 Italian Grand Prix,2023-09-03
+red_bull,14,43.0,583.0,2023,1,202314,Red Bull,2023 R14 Italian Grand Prix,2023-09-03
+williams,14,6.0,21.0,2023,7,202314,Williams,2023 R14 Italian Grand Prix,2023-09-03
+alfa,15,0.0,10.0,2023,9,202315,Alfa Romeo,2023 R15 Singapore Grand Prix,2023-09-17
+alphatauri,15,2.0,5.0,2023,10,202315,AlphaTauri,2023 R15 Singapore Grand Prix,2023-09-17
+alpine,15,8.0,81.0,2023,6,202315,Alpine F1 Team,2023 R15 Singapore Grand Prix,2023-09-17
+aston_martin,15,0.0,217.0,2023,4,202315,Aston Martin,2023 R15 Singapore Grand Prix,2023-09-17
+ferrari,15,37.0,265.0,2023,3,202315,Ferrari,2023 R15 Singapore Grand Prix,2023-09-17
+haas,15,1.0,12.0,2023,8,202315,Haas F1 Team,2023 R15 Singapore Grand Prix,2023-09-17
+mclaren,15,24.0,139.0,2023,5,202315,McLaren,2023 R15 Singapore Grand Prix,2023-09-17
+mercedes,15,16.0,289.0,2023,2,202315,Mercedes,2023 R15 Singapore Grand Prix,2023-09-17
+red_bull,15,14.0,597.0,2023,1,202315,Red Bull,2023 R15 Singapore Grand Prix,2023-09-17
+williams,15,0.0,21.0,2023,7,202315,Williams,2023 R15 Singapore Grand Prix,2023-09-17
+alfa,16,0.0,10.0,2023,9,202316,Alfa Romeo,2023 R16 Japanese Grand Prix,2023-09-24
+alphatauri,16,0.0,5.0,2023,10,202316,AlphaTauri,2023 R16 Japanese Grand Prix,2023-09-24
+alpine,16,3.0,84.0,2023,6,202316,Alpine F1 Team,2023 R16 Japanese Grand Prix,2023-09-24
+aston_martin,16,4.0,221.0,2023,4,202316,Aston Martin,2023 R16 Japanese Grand Prix,2023-09-24
+ferrari,16,20.0,285.0,2023,3,202316,Ferrari,2023 R16 Japanese Grand Prix,2023-09-24
+haas,16,0.0,12.0,2023,8,202316,Haas F1 Team,2023 R16 Japanese Grand Prix,2023-09-24
+mclaren,16,33.0,172.0,2023,5,202316,McLaren,2023 R16 Japanese Grand Prix,2023-09-24
+mercedes,16,16.0,305.0,2023,2,202316,Mercedes,2023 R16 Japanese Grand Prix,2023-09-24
+red_bull,16,26.0,623.0,2023,1,202316,Red Bull,2023 R16 Japanese Grand Prix,2023-09-24
+williams,16,0.0,21.0,2023,7,202316,Williams,2023 R16 Japanese Grand Prix,2023-09-24
+alfa,17,6.0,16.0,2023,8,202317,Alfa Romeo,2023 R17 Qatar Grand Prix,2023-10-08
+alphatauri,17,0.0,5.0,2023,10,202317,AlphaTauri,2023 R17 Qatar Grand Prix,2023-10-08
+alpine,17,6.0,90.0,2023,6,202317,Alpine F1 Team,2023 R17 Qatar Grand Prix,2023-10-08
+aston_martin,17,9.0,230.0,2023,4,202317,Aston Martin,2023 R17 Qatar Grand Prix,2023-10-08
+ferrari,17,13.0,298.0,2023,3,202317,Ferrari,2023 R17 Qatar Grand Prix,2023-10-08
+haas,17,0.0,12.0,2023,9,202317,Haas F1 Team,2023 R17 Qatar Grand Prix,2023-10-08
+mclaren,17,47.0,219.0,2023,5,202317,McLaren,2023 R17 Qatar Grand Prix,2023-10-08
+mercedes,17,21.0,326.0,2023,2,202317,Mercedes,2023 R17 Qatar Grand Prix,2023-10-08
+red_bull,17,34.0,657.0,2023,1,202317,Red Bull,2023 R17 Qatar Grand Prix,2023-10-08
+williams,17,2.0,23.0,2023,7,202317,Williams,2023 R17 Qatar Grand Prix,2023-10-08
+alfa,18,0.0,16.0,2023,8,202318,Alfa Romeo,2023 R18 United States Grand Prix,2023-10-22
+alphatauri,18,5.0,10.0,2023,10,202318,AlphaTauri,2023 R18 United States Grand Prix,2023-10-22
+alpine,18,10.0,100.0,2023,6,202318,Alpine F1 Team,2023 R18 United States Grand Prix,2023-10-22
+aston_martin,18,6.0,236.0,2023,5,202318,Aston Martin,2023 R18 United States Grand Prix,2023-10-22
+ferrari,18,24.0,322.0,2023,3,202318,Ferrari,2023 R18 United States Grand Prix,2023-10-22
+haas,18,0.0,12.0,2023,9,202318,Haas F1 Team,2023 R18 United States Grand Prix,2023-10-22
+mclaren,18,23.0,242.0,2023,4,202318,McLaren,2023 R18 United States Grand Prix,2023-10-22
+mercedes,18,18.0,344.0,2023,2,202318,Mercedes,2023 R18 United States Grand Prix,2023-10-22
+red_bull,18,49.0,706.0,2023,1,202318,Red Bull,2023 R18 United States Grand Prix,2023-10-22
+williams,18,3.0,26.0,2023,7,202318,Williams,2023 R18 United States Grand Prix,2023-10-22
+alfa,19,0.0,16.0,2023,8,202319,Alfa Romeo,2023 R19 Mexico City Grand Prix,2023-10-29
+alphatauri,19,6.0,16.0,2023,8,202319,AlphaTauri,2023 R19 Mexico City Grand Prix,2023-10-29
+alpine,19,1.0,101.0,2023,6,202319,Alpine F1 Team,2023 R19 Mexico City Grand Prix,2023-10-29
+aston_martin,19,0.0,236.0,2023,5,202319,Aston Martin,2023 R19 Mexico City Grand Prix,2023-10-29
+ferrari,19,27.0,349.0,2023,3,202319,Ferrari,2023 R19 Mexico City Grand Prix,2023-10-29
+haas,19,0.0,12.0,2023,10,202319,Haas F1 Team,2023 R19 Mexico City Grand Prix,2023-10-29
+mclaren,19,14.0,256.0,2023,4,202319,McLaren,2023 R19 Mexico City Grand Prix,2023-10-29
+mercedes,19,27.0,371.0,2023,2,202319,Mercedes,2023 R19 Mexico City Grand Prix,2023-10-29
+red_bull,19,25.0,731.0,2023,1,202319,Red Bull,2023 R19 Mexico City Grand Prix,2023-10-29
+williams,19,2.0,28.0,2023,7,202319,Williams,2023 R19 Mexico City Grand Prix,2023-10-29
+alfa,20,0.0,16.0,2023,9,202320,Alfa Romeo,2023 R20 São Paulo Grand Prix,2023-11-05
+alphatauri,20,5.0,21.0,2023,8,202320,AlphaTauri,2023 R20 São Paulo Grand Prix,2023-11-05
+alpine,20,7.0,108.0,2023,6,202320,Alpine F1 Team,2023 R20 São Paulo Grand Prix,2023-11-05
+aston_martin,20,25.0,261.0,2023,5,202320,Aston Martin,2023 R20 São Paulo Grand Prix,2023-11-05
+ferrari,20,13.0,362.0,2023,3,202320,Ferrari,2023 R20 São Paulo Grand Prix,2023-11-05
+haas,20,0.0,12.0,2023,10,202320,Haas F1 Team,2023 R20 São Paulo Grand Prix,2023-11-05
+mclaren,20,26.0,282.0,2023,4,202320,McLaren,2023 R20 São Paulo Grand Prix,2023-11-05
+mercedes,20,11.0,382.0,2023,2,202320,Mercedes,2023 R20 São Paulo Grand Prix,2023-11-05
+red_bull,20,51.0,782.0,2023,1,202320,Red Bull,2023 R20 São Paulo Grand Prix,2023-11-05
+williams,20,0.0,28.0,2023,7,202320,Williams,2023 R20 São Paulo Grand Prix,2023-11-05
+alfa,21,0.0,16.0,2023,9,202321,Alfa Romeo,2023 R21 Las Vegas Grand Prix,2023-11-19
+alphatauri,21,0.0,21.0,2023,8,202321,AlphaTauri,2023 R21 Las Vegas Grand Prix,2023-11-19
+alpine,21,12.0,120.0,2023,6,202321,Alpine F1 Team,2023 R21 Las Vegas Grand Prix,2023-11-19
+aston_martin,21,12.0,273.0,2023,5,202321,Aston Martin,2023 R21 Las Vegas Grand Prix,2023-11-19
+ferrari,21,26.0,388.0,2023,3,202321,Ferrari,2023 R21 Las Vegas Grand Prix,2023-11-19
+haas,21,0.0,12.0,2023,10,202321,Haas F1 Team,2023 R21 Las Vegas Grand Prix,2023-11-19
+mclaren,21,2.0,284.0,2023,4,202321,McLaren,2023 R21 Las Vegas Grand Prix,2023-11-19
+mercedes,21,10.0,392.0,2023,2,202321,Mercedes,2023 R21 Las Vegas Grand Prix,2023-11-19
+red_bull,21,40.0,822.0,2023,1,202321,Red Bull,2023 R21 Las Vegas Grand Prix,2023-11-19
+williams,21,0.0,28.0,2023,7,202321,Williams,2023 R21 Las Vegas Grand Prix,2023-11-19
+alfa,22,0.0,16.0,2023,9,202322,Alfa Romeo,2023 R22 Abu Dhabi Grand Prix,2023-11-26
+alphatauri,22,4.0,25.0,2023,8,202322,AlphaTauri,2023 R22 Abu Dhabi Grand Prix,2023-11-26
+alpine,22,0.0,120.0,2023,6,202322,Alpine F1 Team,2023 R22 Abu Dhabi Grand Prix,2023-11-26
+aston_martin,22,7.0,280.0,2023,5,202322,Aston Martin,2023 R22 Abu Dhabi Grand Prix,2023-11-26
+ferrari,22,18.0,406.0,2023,3,202322,Ferrari,2023 R22 Abu Dhabi Grand Prix,2023-11-26
+haas,22,0.0,12.0,2023,10,202322,Haas F1 Team,2023 R22 Abu Dhabi Grand Prix,2023-11-26
+mclaren,22,18.0,302.0,2023,4,202322,McLaren,2023 R22 Abu Dhabi Grand Prix,2023-11-26
+mercedes,22,17.0,409.0,2023,2,202322,Mercedes,2023 R22 Abu Dhabi Grand Prix,2023-11-26
+red_bull,22,38.0,860.0,2023,1,202322,Red Bull,2023 R22 Abu Dhabi Grand Prix,2023-11-26
+williams,22,0.0,28.0,2023,7,202322,Williams,2023 R22 Abu Dhabi Grand Prix,2023-11-26
+alpine,1,0.0,0.0,2024,6,202401,Alpine F1 Team,2024 R01 Bahrain Grand Prix,2024-03-02
+aston_martin,1,3.0,3.0,2024,5,202401,Aston Martin,2024 R01 Bahrain Grand Prix,2024-03-02
+ferrari,1,27.0,27.0,2024,2,202401,Ferrari,2024 R01 Bahrain Grand Prix,2024-03-02
+haas,1,0.0,0.0,2024,6,202401,Haas F1 Team,2024 R01 Bahrain Grand Prix,2024-03-02
+mclaren,1,12.0,12.0,2024,4,202401,McLaren,2024 R01 Bahrain Grand Prix,2024-03-02
+mercedes,1,16.0,16.0,2024,3,202401,Mercedes,2024 R01 Bahrain Grand Prix,2024-03-02
+rb,1,0.0,0.0,2024,6,202401,RB F1 Team,2024 R01 Bahrain Grand Prix,2024-03-02
+red_bull,1,44.0,44.0,2024,1,202401,Red Bull,2024 R01 Bahrain Grand Prix,2024-03-02
+sauber,1,0.0,0.0,2024,6,202401,Sauber,2024 R01 Bahrain Grand Prix,2024-03-02
+williams,1,0.0,0.0,2024,6,202401,Williams,2024 R01 Bahrain Grand Prix,2024-03-02
+alpine,2,0.0,0.0,2024,7,202402,Alpine F1 Team,2024 R02 Saudi Arabian Grand Prix,2024-03-09
+aston_martin,2,10.0,13.0,2024,5,202402,Aston Martin,2024 R02 Saudi Arabian Grand Prix,2024-03-09
+ferrari,2,22.0,49.0,2024,2,202402,Ferrari,2024 R02 Saudi Arabian Grand Prix,2024-03-09
+haas,2,1.0,1.0,2024,6,202402,Haas F1 Team,2024 R02 Saudi Arabian Grand Prix,2024-03-09
+mclaren,2,16.0,28.0,2024,3,202402,McLaren,2024 R02 Saudi Arabian Grand Prix,2024-03-09
+mercedes,2,10.0,26.0,2024,4,202402,Mercedes,2024 R02 Saudi Arabian Grand Prix,2024-03-09
+rb,2,0.0,0.0,2024,7,202402,RB F1 Team,2024 R02 Saudi Arabian Grand Prix,2024-03-09
+red_bull,2,43.0,87.0,2024,1,202402,Red Bull,2024 R02 Saudi Arabian Grand Prix,2024-03-09
+sauber,2,0.0,0.0,2024,7,202402,Sauber,2024 R02 Saudi Arabian Grand Prix,2024-03-09
+williams,2,0.0,0.0,2024,7,202402,Williams,2024 R02 Saudi Arabian Grand Prix,2024-03-09
+alpine,3,0.0,0.0,2024,8,202403,Alpine F1 Team,2024 R03 Australian Grand Prix,2024-03-24
+aston_martin,3,12.0,25.0,2024,5,202403,Aston Martin,2024 R03 Australian Grand Prix,2024-03-24
+ferrari,3,44.0,93.0,2024,2,202403,Ferrari,2024 R03 Australian Grand Prix,2024-03-24
+haas,3,3.0,4.0,2024,7,202403,Haas F1 Team,2024 R03 Australian Grand Prix,2024-03-24
+mclaren,3,27.0,55.0,2024,3,202403,McLaren,2024 R03 Australian Grand Prix,2024-03-24
+mercedes,3,0.0,26.0,2024,4,202403,Mercedes,2024 R03 Australian Grand Prix,2024-03-24
+rb,3,6.0,6.0,2024,6,202403,RB F1 Team,2024 R03 Australian Grand Prix,2024-03-24
+red_bull,3,10.0,97.0,2024,1,202403,Red Bull,2024 R03 Australian Grand Prix,2024-03-24
+sauber,3,0.0,0.0,2024,8,202403,Sauber,2024 R03 Australian Grand Prix,2024-03-24
+williams,3,0.0,0.0,2024,8,202403,Williams,2024 R03 Australian Grand Prix,2024-03-24
+alpine,4,0.0,0.0,2024,8,202404,Alpine F1 Team,2024 R04 Japanese Grand Prix,2024-04-07
+aston_martin,4,8.0,33.0,2024,5,202404,Aston Martin,2024 R04 Japanese Grand Prix,2024-04-07
+ferrari,4,27.0,120.0,2024,2,202404,Ferrari,2024 R04 Japanese Grand Prix,2024-04-07
+haas,4,0.0,4.0,2024,7,202404,Haas F1 Team,2024 R04 Japanese Grand Prix,2024-04-07
+mclaren,4,14.0,69.0,2024,3,202404,McLaren,2024 R04 Japanese Grand Prix,2024-04-07
+mercedes,4,8.0,34.0,2024,4,202404,Mercedes,2024 R04 Japanese Grand Prix,2024-04-07
+rb,4,1.0,7.0,2024,6,202404,RB F1 Team,2024 R04 Japanese Grand Prix,2024-04-07
+red_bull,4,44.0,141.0,2024,1,202404,Red Bull,2024 R04 Japanese Grand Prix,2024-04-07
+sauber,4,0.0,0.0,2024,8,202404,Sauber,2024 R04 Japanese Grand Prix,2024-04-07
+williams,4,0.0,0.0,2024,8,202404,Williams,2024 R04 Japanese Grand Prix,2024-04-07
+alpine,5,0.0,0.0,2024,8,202405,Alpine F1 Team,2024 R05 Chinese Grand Prix,2024-04-21
+aston_martin,5,7.0,40.0,2024,5,202405,Aston Martin,2024 R05 Chinese Grand Prix,2024-04-21
+ferrari,5,31.0,151.0,2024,2,202405,Ferrari,2024 R05 Chinese Grand Prix,2024-04-21
+haas,5,1.0,5.0,2024,7,202405,Haas F1 Team,2024 R05 Chinese Grand Prix,2024-04-21
+mclaren,5,27.0,96.0,2024,3,202405,McLaren,2024 R05 Chinese Grand Prix,2024-04-21
+mercedes,5,18.0,52.0,2024,4,202405,Mercedes,2024 R05 Chinese Grand Prix,2024-04-21
+rb,5,0.0,7.0,2024,6,202405,RB F1 Team,2024 R05 Chinese Grand Prix,2024-04-21
+red_bull,5,54.0,195.0,2024,1,202405,Red Bull,2024 R05 Chinese Grand Prix,2024-04-21
+sauber,5,0.0,0.0,2024,8,202405,Sauber,2024 R05 Chinese Grand Prix,2024-04-21
+williams,5,0.0,0.0,2024,8,202405,Williams,2024 R05 Chinese Grand Prix,2024-04-21
+alpine,6,1.0,1.0,2024,8,202406,Alpine F1 Team,2024 R06 Miami Grand Prix,2024-05-05
+aston_martin,6,2.0,42.0,2024,5,202406,Aston Martin,2024 R06 Miami Grand Prix,2024-05-05
+ferrari,6,36.0,187.0,2024,2,202406,Ferrari,2024 R06 Miami Grand Prix,2024-05-05
+haas,6,2.0,7.0,2024,7,202406,Haas F1 Team,2024 R06 Miami Grand Prix,2024-05-05
+mclaren,6,28.0,124.0,2024,3,202406,McLaren,2024 R06 Miami Grand Prix,2024-05-05
+mercedes,6,12.0,64.0,2024,4,202406,Mercedes,2024 R06 Miami Grand Prix,2024-05-05
+rb,6,12.0,19.0,2024,6,202406,RB F1 Team,2024 R06 Miami Grand Prix,2024-05-05
+red_bull,6,44.0,239.0,2024,1,202406,Red Bull,2024 R06 Miami Grand Prix,2024-05-05
+sauber,6,0.0,0.0,2024,9,202406,Sauber,2024 R06 Miami Grand Prix,2024-05-05
+williams,6,0.0,0.0,2024,9,202406,Williams,2024 R06 Miami Grand Prix,2024-05-05
+alpine,7,0.0,1.0,2024,8,202407,Alpine F1 Team,2024 R07 Emilia Romagna Grand Prix,2024-05-19
+aston_martin,7,2.0,44.0,2024,5,202407,Aston Martin,2024 R07 Emilia Romagna Grand Prix,2024-05-19
+ferrari,7,25.0,212.0,2024,2,202407,Ferrari,2024 R07 Emilia Romagna Grand Prix,2024-05-19
+haas,7,0.0,7.0,2024,7,202407,Haas F1 Team,2024 R07 Emilia Romagna Grand Prix,2024-05-19
+mclaren,7,30.0,154.0,2024,3,202407,McLaren,2024 R07 Emilia Romagna Grand Prix,2024-05-19
+mercedes,7,15.0,79.0,2024,4,202407,Mercedes,2024 R07 Emilia Romagna Grand Prix,2024-05-19
+rb,7,1.0,20.0,2024,6,202407,RB F1 Team,2024 R07 Emilia Romagna Grand Prix,2024-05-19
+red_bull,7,29.0,268.0,2024,1,202407,Red Bull,2024 R07 Emilia Romagna Grand Prix,2024-05-19
+sauber,7,0.0,0.0,2024,9,202407,Sauber,2024 R07 Emilia Romagna Grand Prix,2024-05-19
+williams,7,0.0,0.0,2024,9,202407,Williams,2024 R07 Emilia Romagna Grand Prix,2024-05-19
+alpine,8,1.0,2.0,2024,8,202408,Alpine F1 Team,2024 R08 Monaco Grand Prix,2024-05-26
+aston_martin,8,0.0,44.0,2024,5,202408,Aston Martin,2024 R08 Monaco Grand Prix,2024-05-26
+ferrari,8,40.0,252.0,2024,2,202408,Ferrari,2024 R08 Monaco Grand Prix,2024-05-26
+haas,8,0.0,7.0,2024,7,202408,Haas F1 Team,2024 R08 Monaco Grand Prix,2024-05-26
+mclaren,8,30.0,184.0,2024,3,202408,McLaren,2024 R08 Monaco Grand Prix,2024-05-26
+mercedes,8,17.0,96.0,2024,4,202408,Mercedes,2024 R08 Monaco Grand Prix,2024-05-26
+rb,8,4.0,24.0,2024,6,202408,RB F1 Team,2024 R08 Monaco Grand Prix,2024-05-26
+red_bull,8,8.0,276.0,2024,1,202408,Red Bull,2024 R08 Monaco Grand Prix,2024-05-26
+sauber,8,0.0,0.0,2024,10,202408,Sauber,2024 R08 Monaco Grand Prix,2024-05-26
+williams,8,2.0,2.0,2024,8,202408,Williams,2024 R08 Monaco Grand Prix,2024-05-26
+alpine,9,3.0,5.0,2024,8,202409,Alpine F1 Team,2024 R09 Canadian Grand Prix,2024-06-09
+aston_martin,9,14.0,58.0,2024,5,202409,Aston Martin,2024 R09 Canadian Grand Prix,2024-06-09
+ferrari,9,0.0,252.0,2024,2,202409,Ferrari,2024 R09 Canadian Grand Prix,2024-06-09
+haas,9,0.0,7.0,2024,7,202409,Haas F1 Team,2024 R09 Canadian Grand Prix,2024-06-09
+mclaren,9,28.0,212.0,2024,3,202409,McLaren,2024 R09 Canadian Grand Prix,2024-06-09
+mercedes,9,28.0,124.0,2024,4,202409,Mercedes,2024 R09 Canadian Grand Prix,2024-06-09
+rb,9,4.0,28.0,2024,6,202409,RB F1 Team,2024 R09 Canadian Grand Prix,2024-06-09
+red_bull,9,25.0,301.0,2024,1,202409,Red Bull,2024 R09 Canadian Grand Prix,2024-06-09
+sauber,9,0.0,0.0,2024,10,202409,Sauber,2024 R09 Canadian Grand Prix,2024-06-09
+williams,9,0.0,2.0,2024,9,202409,Williams,2024 R09 Canadian Grand Prix,2024-06-09
+alpine,10,3.0,8.0,2024,7,202410,Alpine F1 Team,2024 R10 Spanish Grand Prix,2024-06-23
+aston_martin,10,0.0,58.0,2024,5,202410,Aston Martin,2024 R10 Spanish Grand Prix,2024-06-23
+ferrari,10,18.0,270.0,2024,2,202410,Ferrari,2024 R10 Spanish Grand Prix,2024-06-23
+haas,10,0.0,7.0,2024,8,202410,Haas F1 Team,2024 R10 Spanish Grand Prix,2024-06-23
+mclaren,10,25.0,237.0,2024,3,202410,McLaren,2024 R10 Spanish Grand Prix,2024-06-23
+mercedes,10,27.0,151.0,2024,4,202410,Mercedes,2024 R10 Spanish Grand Prix,2024-06-23
+rb,10,0.0,28.0,2024,6,202410,RB F1 Team,2024 R10 Spanish Grand Prix,2024-06-23
+red_bull,10,29.0,330.0,2024,1,202410,Red Bull,2024 R10 Spanish Grand Prix,2024-06-23
+sauber,10,0.0,0.0,2024,10,202410,Sauber,2024 R10 Spanish Grand Prix,2024-06-23
+williams,10,0.0,2.0,2024,9,202410,Williams,2024 R10 Spanish Grand Prix,2024-06-23
+alpine,11,1.0,9.0,2024,8,202411,Alpine F1 Team,2024 R11 Austrian Grand Prix,2024-06-30
+aston_martin,11,0.0,58.0,2024,5,202411,Aston Martin,2024 R11 Austrian Grand Prix,2024-06-30
+ferrari,11,21.0,291.0,2024,2,202411,Ferrari,2024 R11 Austrian Grand Prix,2024-06-30
+haas,11,12.0,19.0,2024,7,202411,Haas F1 Team,2024 R11 Austrian Grand Prix,2024-06-30
+mclaren,11,31.0,268.0,2024,3,202411,McLaren,2024 R11 Austrian Grand Prix,2024-06-30
+mercedes,11,45.0,196.0,2024,4,202411,Mercedes,2024 R11 Austrian Grand Prix,2024-06-30
+rb,11,2.0,30.0,2024,6,202411,RB F1 Team,2024 R11 Austrian Grand Prix,2024-06-30
+red_bull,11,25.0,355.0,2024,1,202411,Red Bull,2024 R11 Austrian Grand Prix,2024-06-30
+sauber,11,0.0,0.0,2024,10,202411,Sauber,2024 R11 Austrian Grand Prix,2024-06-30
+williams,11,0.0,2.0,2024,9,202411,Williams,2024 R11 Austrian Grand Prix,2024-06-30
+alpine,12,0.0,9.0,2024,8,202412,Alpine F1 Team,2024 R12 British Grand Prix,2024-07-07
+aston_martin,12,10.0,68.0,2024,5,202412,Aston Martin,2024 R12 British Grand Prix,2024-07-07
+ferrari,12,11.0,302.0,2024,2,202412,Ferrari,2024 R12 British Grand Prix,2024-07-07
+haas,12,8.0,27.0,2024,7,202412,Haas F1 Team,2024 R12 British Grand Prix,2024-07-07
+mclaren,12,27.0,295.0,2024,3,202412,McLaren,2024 R12 British Grand Prix,2024-07-07
+mercedes,12,25.0,221.0,2024,4,202412,Mercedes,2024 R12 British Grand Prix,2024-07-07
+rb,12,1.0,31.0,2024,6,202412,RB F1 Team,2024 R12 British Grand Prix,2024-07-07
+red_bull,12,18.0,373.0,2024,1,202412,Red Bull,2024 R12 British Grand Prix,2024-07-07
+sauber,12,0.0,0.0,2024,10,202412,Sauber,2024 R12 British Grand Prix,2024-07-07
+williams,12,2.0,4.0,2024,9,202412,Williams,2024 R12 British Grand Prix,2024-07-07
+alpine,13,0.0,9.0,2024,8,202413,Alpine F1 Team,2024 R13 Hungarian Grand Prix,2024-07-21
+aston_martin,13,1.0,69.0,2024,5,202413,Aston Martin,2024 R13 Hungarian Grand Prix,2024-07-21
+ferrari,13,20.0,322.0,2024,3,202413,Ferrari,2024 R13 Hungarian Grand Prix,2024-07-21
+haas,13,0.0,27.0,2024,7,202413,Haas F1 Team,2024 R13 Hungarian Grand Prix,2024-07-21
+mclaren,13,43.0,338.0,2024,2,202413,McLaren,2024 R13 Hungarian Grand Prix,2024-07-21
+mercedes,13,20.0,241.0,2024,4,202413,Mercedes,2024 R13 Hungarian Grand Prix,2024-07-21
+rb,13,2.0,33.0,2024,6,202413,RB F1 Team,2024 R13 Hungarian Grand Prix,2024-07-21
+red_bull,13,16.0,389.0,2024,1,202413,Red Bull,2024 R13 Hungarian Grand Prix,2024-07-21
+sauber,13,0.0,0.0,2024,10,202413,Sauber,2024 R13 Hungarian Grand Prix,2024-07-21
+williams,13,0.0,4.0,2024,9,202413,Williams,2024 R13 Hungarian Grand Prix,2024-07-21
+alpine,14,2.0,11.0,2024,8,202414,Alpine F1 Team,2024 R14 Belgian Grand Prix,2024-07-28
+aston_martin,14,4.0,73.0,2024,5,202414,Aston Martin,2024 R14 Belgian Grand Prix,2024-07-28
+ferrari,14,23.0,345.0,2024,3,202414,Ferrari,2024 R14 Belgian Grand Prix,2024-07-28
+haas,14,0.0,27.0,2024,7,202414,Haas F1 Team,2024 R14 Belgian Grand Prix,2024-07-28
+mclaren,14,28.0,366.0,2024,2,202414,McLaren,2024 R14 Belgian Grand Prix,2024-07-28
+mercedes,14,25.0,266.0,2024,4,202414,Mercedes,2024 R14 Belgian Grand Prix,2024-07-28
+rb,14,1.0,34.0,2024,6,202414,RB F1 Team,2024 R14 Belgian Grand Prix,2024-07-28
+red_bull,14,19.0,408.0,2024,1,202414,Red Bull,2024 R14 Belgian Grand Prix,2024-07-28
+sauber,14,0.0,0.0,2024,10,202414,Sauber,2024 R14 Belgian Grand Prix,2024-07-28
+williams,14,0.0,4.0,2024,9,202414,Williams,2024 R14 Belgian Grand Prix,2024-07-28
+alpine,15,2.0,13.0,2024,8,202415,Alpine F1 Team,2024 R15 Dutch Grand Prix,2024-08-25
+aston_martin,15,1.0,74.0,2024,5,202415,Aston Martin,2024 R15 Dutch Grand Prix,2024-08-25
+ferrari,15,25.0,370.0,2024,3,202415,Ferrari,2024 R15 Dutch Grand Prix,2024-08-25
+haas,15,0.0,27.0,2024,7,202415,Haas F1 Team,2024 R15 Dutch Grand Prix,2024-08-25
+mclaren,15,38.0,404.0,2024,2,202415,McLaren,2024 R15 Dutch Grand Prix,2024-08-25
+mercedes,15,10.0,276.0,2024,4,202415,Mercedes,2024 R15 Dutch Grand Prix,2024-08-25
+rb,15,0.0,34.0,2024,6,202415,RB F1 Team,2024 R15 Dutch Grand Prix,2024-08-25
+red_bull,15,26.0,434.0,2024,1,202415,Red Bull,2024 R15 Dutch Grand Prix,2024-08-25
+sauber,15,0.0,0.0,2024,10,202415,Sauber,2024 R15 Dutch Grand Prix,2024-08-25
+williams,15,0.0,4.0,2024,9,202415,Williams,2024 R15 Dutch Grand Prix,2024-08-25
+alpine,16,0.0,13.0,2024,8,202416,Alpine F1 Team,2024 R16 Italian Grand Prix,2024-09-01
+aston_martin,16,0.0,74.0,2024,5,202416,Aston Martin,2024 R16 Italian Grand Prix,2024-09-01
+ferrari,16,37.0,407.0,2024,3,202416,Ferrari,2024 R16 Italian Grand Prix,2024-09-01
+haas,16,1.0,28.0,2024,7,202416,Haas F1 Team,2024 R16 Italian Grand Prix,2024-09-01
+mclaren,16,34.0,438.0,2024,2,202416,McLaren,2024 R16 Italian Grand Prix,2024-09-01
+mercedes,16,16.0,292.0,2024,4,202416,Mercedes,2024 R16 Italian Grand Prix,2024-09-01
+rb,16,0.0,34.0,2024,6,202416,RB F1 Team,2024 R16 Italian Grand Prix,2024-09-01
+red_bull,16,12.0,446.0,2024,1,202416,Red Bull,2024 R16 Italian Grand Prix,2024-09-01
+sauber,16,0.0,0.0,2024,10,202416,Sauber,2024 R16 Italian Grand Prix,2024-09-01
+williams,16,2.0,6.0,2024,9,202416,Williams,2024 R16 Italian Grand Prix,2024-09-01
+alpine,17,0.0,13.0,2024,9,202417,Alpine F1 Team,2024 R17 Azerbaijan Grand Prix,2024-09-15
+aston_martin,17,8.0,82.0,2024,5,202417,Aston Martin,2024 R17 Azerbaijan Grand Prix,2024-09-15
+ferrari,17,18.0,425.0,2024,3,202417,Ferrari,2024 R17 Azerbaijan Grand Prix,2024-09-15
+haas,17,1.0,29.0,2024,7,202417,Haas F1 Team,2024 R17 Azerbaijan Grand Prix,2024-09-15
+mclaren,17,38.0,476.0,2024,1,202417,McLaren,2024 R17 Azerbaijan Grand Prix,2024-09-15
+mercedes,17,17.0,309.0,2024,4,202417,Mercedes,2024 R17 Azerbaijan Grand Prix,2024-09-15
+rb,17,0.0,34.0,2024,6,202417,RB F1 Team,2024 R17 Azerbaijan Grand Prix,2024-09-15
+red_bull,17,10.0,456.0,2024,2,202417,Red Bull,2024 R17 Azerbaijan Grand Prix,2024-09-15
+sauber,17,0.0,0.0,2024,10,202417,Sauber,2024 R17 Azerbaijan Grand Prix,2024-09-15
+williams,17,10.0,16.0,2024,8,202417,Williams,2024 R17 Azerbaijan Grand Prix,2024-09-15
+alpine,18,0.0,13.0,2024,9,202418,Alpine F1 Team,2024 R18 Singapore Grand Prix,2024-09-22
+aston_martin,18,4.0,86.0,2024,5,202418,Aston Martin,2024 R18 Singapore Grand Prix,2024-09-22
+ferrari,18,16.0,441.0,2024,3,202418,Ferrari,2024 R18 Singapore Grand Prix,2024-09-22
+haas,18,2.0,31.0,2024,7,202418,Haas F1 Team,2024 R18 Singapore Grand Prix,2024-09-22
+mclaren,18,40.0,516.0,2024,1,202418,McLaren,2024 R18 Singapore Grand Prix,2024-09-22
+mercedes,18,20.0,329.0,2024,4,202418,Mercedes,2024 R18 Singapore Grand Prix,2024-09-22
+rb,18,0.0,34.0,2024,6,202418,RB F1 Team,2024 R18 Singapore Grand Prix,2024-09-22
+red_bull,18,19.0,475.0,2024,2,202418,Red Bull,2024 R18 Singapore Grand Prix,2024-09-22
+sauber,18,0.0,0.0,2024,10,202418,Sauber,2024 R18 Singapore Grand Prix,2024-09-22
+williams,18,0.0,16.0,2024,8,202418,Williams,2024 R18 Singapore Grand Prix,2024-09-22
+alpine,19,0.0,13.0,2024,9,202419,Alpine F1 Team,2024 R19 United States Grand Prix,2024-10-20
+aston_martin,19,0.0,86.0,2024,5,202419,Aston Martin,2024 R19 United States Grand Prix,2024-10-20
+ferrari,19,55.0,496.0,2024,3,202419,Ferrari,2024 R19 United States Grand Prix,2024-10-20
+haas,19,7.0,38.0,2024,6,202419,Haas F1 Team,2024 R19 United States Grand Prix,2024-10-20
+mclaren,19,28.0,544.0,2024,1,202419,McLaren,2024 R19 United States Grand Prix,2024-10-20
+mercedes,19,15.0,344.0,2024,4,202419,Mercedes,2024 R19 United States Grand Prix,2024-10-20
+rb,19,2.0,36.0,2024,7,202419,RB F1 Team,2024 R19 United States Grand Prix,2024-10-20
+red_bull,19,29.0,504.0,2024,2,202419,Red Bull,2024 R19 United States Grand Prix,2024-10-20
+sauber,19,0.0,0.0,2024,10,202419,Sauber,2024 R19 United States Grand Prix,2024-10-20
+williams,19,1.0,17.0,2024,8,202419,Williams,2024 R19 United States Grand Prix,2024-10-20
+alpine,20,1.0,14.0,2024,9,202420,Alpine F1 Team,2024 R20 Mexico City Grand Prix,2024-10-27
+aston_martin,20,0.0,86.0,2024,5,202420,Aston Martin,2024 R20 Mexico City Grand Prix,2024-10-27
+ferrari,20,41.0,537.0,2024,2,202420,Ferrari,2024 R20 Mexico City Grand Prix,2024-10-27
+haas,20,8.0,46.0,2024,6,202420,Haas F1 Team,2024 R20 Mexico City Grand Prix,2024-10-27
+mclaren,20,22.0,566.0,2024,1,202420,McLaren,2024 R20 Mexico City Grand Prix,2024-10-27
+mercedes,20,22.0,366.0,2024,4,202420,Mercedes,2024 R20 Mexico City Grand Prix,2024-10-27
+rb,20,0.0,36.0,2024,7,202420,RB F1 Team,2024 R20 Mexico City Grand Prix,2024-10-27
+red_bull,20,8.0,512.0,2024,3,202420,Red Bull,2024 R20 Mexico City Grand Prix,2024-10-27
+sauber,20,0.0,0.0,2024,10,202420,Sauber,2024 R20 Mexico City Grand Prix,2024-10-27
+williams,20,0.0,17.0,2024,8,202420,Williams,2024 R20 Mexico City Grand Prix,2024-10-27
+alpine,21,35.0,49.0,2024,6,202421,Alpine F1 Team,2024 R21 São Paulo Grand Prix,2024-11-03
+aston_martin,21,0.0,86.0,2024,5,202421,Aston Martin,2024 R21 São Paulo Grand Prix,2024-11-03
+ferrari,21,20.0,557.0,2024,2,202421,Ferrari,2024 R21 São Paulo Grand Prix,2024-11-03
+haas,21,0.0,46.0,2024,7,202421,Haas F1 Team,2024 R21 São Paulo Grand Prix,2024-11-03
+mclaren,21,27.0,593.0,2024,1,202421,McLaren,2024 R21 São Paulo Grand Prix,2024-11-03
+mercedes,21,16.0,382.0,2024,4,202421,Mercedes,2024 R21 São Paulo Grand Prix,2024-11-03
+rb,21,8.0,44.0,2024,8,202421,RB F1 Team,2024 R21 São Paulo Grand Prix,2024-11-03
+red_bull,21,32.0,544.0,2024,3,202421,Red Bull,2024 R21 São Paulo Grand Prix,2024-11-03
+sauber,21,0.0,0.0,2024,10,202421,Sauber,2024 R21 São Paulo Grand Prix,2024-11-03
+williams,21,0.0,17.0,2024,9,202421,Williams,2024 R21 São Paulo Grand Prix,2024-11-03
+alpine,22,0.0,49.0,2024,7,202422,Alpine F1 Team,2024 R22 Las Vegas Grand Prix,2024-11-23
+aston_martin,22,0.0,86.0,2024,5,202422,Aston Martin,2024 R22 Las Vegas Grand Prix,2024-11-23
+ferrari,22,27.0,584.0,2024,2,202422,Ferrari,2024 R22 Las Vegas Grand Prix,2024-11-23
+haas,22,4.0,50.0,2024,6,202422,Haas F1 Team,2024 R22 Las Vegas Grand Prix,2024-11-23
+mclaren,22,15.0,608.0,2024,1,202422,McLaren,2024 R22 Las Vegas Grand Prix,2024-11-23
+mercedes,22,43.0,425.0,2024,4,202422,Mercedes,2024 R22 Las Vegas Grand Prix,2024-11-23
+rb,22,2.0,46.0,2024,8,202422,RB F1 Team,2024 R22 Las Vegas Grand Prix,2024-11-23
+red_bull,22,11.0,555.0,2024,3,202422,Red Bull,2024 R22 Las Vegas Grand Prix,2024-11-23
+sauber,22,0.0,0.0,2024,10,202422,Sauber,2024 R22 Las Vegas Grand Prix,2024-11-23
+williams,22,0.0,17.0,2024,9,202422,Williams,2024 R22 Las Vegas Grand Prix,2024-11-23
+alpine,23,10.0,59.0,2024,6,202423,Alpine F1 Team,2024 R23 Qatar Grand Prix,2024-12-01
+aston_martin,23,6.0,92.0,2024,5,202423,Aston Martin,2024 R23 Qatar Grand Prix,2024-12-01
+ferrari,23,35.0,619.0,2024,2,202423,Ferrari,2024 R23 Qatar Grand Prix,2024-12-01
+haas,23,4.0,54.0,2024,7,202423,Haas F1 Team,2024 R23 Qatar Grand Prix,2024-12-01
+mclaren,23,32.0,640.0,2024,1,202423,McLaren,2024 R23 Qatar Grand Prix,2024-12-01
+mercedes,23,21.0,446.0,2024,4,202423,Mercedes,2024 R23 Qatar Grand Prix,2024-12-01
+rb,23,0.0,46.0,2024,8,202423,RB F1 Team,2024 R23 Qatar Grand Prix,2024-12-01
+red_bull,23,26.0,581.0,2024,3,202423,Red Bull,2024 R23 Qatar Grand Prix,2024-12-01
+sauber,23,4.0,4.0,2024,10,202423,Sauber,2024 R23 Qatar Grand Prix,2024-12-01
+williams,23,0.0,17.0,2024,9,202423,Williams,2024 R23 Qatar Grand Prix,2024-12-01
+alpine,24,6.0,65.0,2024,6,202424,Alpine F1 Team,2024 R24 Abu Dhabi Grand Prix,2024-12-08
+aston_martin,24,2.0,94.0,2024,5,202424,Aston Martin,2024 R24 Abu Dhabi Grand Prix,2024-12-08
+ferrari,24,33.0,652.0,2024,2,202424,Ferrari,2024 R24 Abu Dhabi Grand Prix,2024-12-08
+haas,24,4.0,58.0,2024,7,202424,Haas F1 Team,2024 R24 Abu Dhabi Grand Prix,2024-12-08
+mclaren,24,26.0,666.0,2024,1,202424,McLaren,2024 R24 Abu Dhabi Grand Prix,2024-12-08
+mercedes,24,22.0,468.0,2024,4,202424,Mercedes,2024 R24 Abu Dhabi Grand Prix,2024-12-08
+rb,24,0.0,46.0,2024,8,202424,RB F1 Team,2024 R24 Abu Dhabi Grand Prix,2024-12-08
+red_bull,24,8.0,589.0,2024,3,202424,Red Bull,2024 R24 Abu Dhabi Grand Prix,2024-12-08
+sauber,24,0.0,4.0,2024,10,202424,Sauber,2024 R24 Abu Dhabi Grand Prix,2024-12-08
+williams,24,0.0,17.0,2024,9,202424,Williams,2024 R24 Abu Dhabi Grand Prix,2024-12-08
+alpine,1,0.0,0.0,2025,8,202501,Alpine F1 Team,2025 R01 Australian Grand Prix,2025-03-16
+aston_martin,1,8.0,8.0,2025,5,202501,Aston Martin,2025 R01 Australian Grand Prix,2025-03-16
+ferrari,1,5.0,5.0,2025,7,202501,Ferrari,2025 R01 Australian Grand Prix,2025-03-16
+haas,1,0.0,0.0,2025,8,202501,Haas F1 Team,2025 R01 Australian Grand Prix,2025-03-16
+mclaren,1,27.0,27.0,2025,1,202501,McLaren,2025 R01 Australian Grand Prix,2025-03-16
+mercedes,1,27.0,27.0,2025,1,202501,Mercedes,2025 R01 Australian Grand Prix,2025-03-16
+rb,1,0.0,0.0,2025,8,202501,RB F1 Team,2025 R01 Australian Grand Prix,2025-03-16
+red_bull,1,18.0,18.0,2025,3,202501,Red Bull,2025 R01 Australian Grand Prix,2025-03-16
+sauber,1,6.0,6.0,2025,6,202501,Sauber,2025 R01 Australian Grand Prix,2025-03-16
+williams,1,10.0,10.0,2025,4,202501,Williams,2025 R01 Australian Grand Prix,2025-03-16
+alpine,2,0.0,0.0,2025,10,202502,Alpine F1 Team,2025 R02 Chinese Grand Prix,2025-03-23
+aston_martin,2,2.0,10.0,2025,7,202502,Aston Martin,2025 R02 Chinese Grand Prix,2025-03-23
+ferrari,2,12.0,17.0,2025,4,202502,Ferrari,2025 R02 Chinese Grand Prix,2025-03-23
+haas,2,14.0,14.0,2025,6,202502,Haas F1 Team,2025 R02 Chinese Grand Prix,2025-03-23
+mclaren,2,51.0,78.0,2025,1,202502,McLaren,2025 R02 Chinese Grand Prix,2025-03-23
+mercedes,2,30.0,57.0,2025,2,202502,Mercedes,2025 R02 Chinese Grand Prix,2025-03-23
+rb,2,3.0,3.0,2025,9,202502,RB F1 Team,2025 R02 Chinese Grand Prix,2025-03-23
+red_bull,2,18.0,36.0,2025,3,202502,Red Bull,2025 R02 Chinese Grand Prix,2025-03-23
+sauber,2,0.0,6.0,2025,8,202502,Sauber,2025 R02 Chinese Grand Prix,2025-03-23
+williams,2,7.0,17.0,2025,4,202502,Williams,2025 R02 Chinese Grand Prix,2025-03-23
+alpine,3,0.0,0.0,2025,10,202503,Alpine F1 Team,2025 R03 Japanese Grand Prix,2025-04-06
+aston_martin,3,0.0,10.0,2025,7,202503,Aston Martin,2025 R03 Japanese Grand Prix,2025-04-06
+ferrari,3,18.0,35.0,2025,4,202503,Ferrari,2025 R03 Japanese Grand Prix,2025-04-06
+haas,3,1.0,15.0,2025,6,202503,Haas F1 Team,2025 R03 Japanese Grand Prix,2025-04-06
+mclaren,3,33.0,111.0,2025,1,202503,McLaren,2025 R03 Japanese Grand Prix,2025-04-06
+mercedes,3,18.0,75.0,2025,2,202503,Mercedes,2025 R03 Japanese Grand Prix,2025-04-06
+rb,3,4.0,7.0,2025,8,202503,RB F1 Team,2025 R03 Japanese Grand Prix,2025-04-06
+red_bull,3,25.0,61.0,2025,3,202503,Red Bull,2025 R03 Japanese Grand Prix,2025-04-06
+sauber,3,0.0,6.0,2025,9,202503,Sauber,2025 R03 Japanese Grand Prix,2025-04-06
+williams,3,2.0,19.0,2025,5,202503,Williams,2025 R03 Japanese Grand Prix,2025-04-06
+alpine,4,6.0,6.0,2025,9,202504,Alpine F1 Team,2025 R04 Bahrain Grand Prix,2025-04-13
+aston_martin,4,0.0,10.0,2025,7,202504,Aston Martin,2025 R04 Bahrain Grand Prix,2025-04-13
+ferrari,4,22.0,57.0,2025,4,202504,Ferrari,2025 R04 Bahrain Grand Prix,2025-04-13
+haas,4,5.0,20.0,2025,5,202504,Haas F1 Team,2025 R04 Bahrain Grand Prix,2025-04-13
+mclaren,4,40.0,151.0,2025,1,202504,McLaren,2025 R04 Bahrain Grand Prix,2025-04-13
+mercedes,4,18.0,93.0,2025,2,202504,Mercedes,2025 R04 Bahrain Grand Prix,2025-04-13
+rb,4,0.0,7.0,2025,8,202504,RB F1 Team,2025 R04 Bahrain Grand Prix,2025-04-13
+red_bull,4,10.0,71.0,2025,3,202504,Red Bull,2025 R04 Bahrain Grand Prix,2025-04-13
+sauber,4,0.0,6.0,2025,9,202504,Sauber,2025 R04 Bahrain Grand Prix,2025-04-13
+williams,4,0.0,19.0,2025,6,202504,Williams,2025 R04 Bahrain Grand Prix,2025-04-13
+alpine,5,0.0,6.0,2025,9,202505,Alpine F1 Team,2025 R05 Saudi Arabian Grand Prix,2025-04-20
+aston_martin,5,0.0,10.0,2025,7,202505,Aston Martin,2025 R05 Saudi Arabian Grand Prix,2025-04-20
+ferrari,5,21.0,78.0,2025,4,202505,Ferrari,2025 R05 Saudi Arabian Grand Prix,2025-04-20
+haas,5,0.0,20.0,2025,6,202505,Haas F1 Team,2025 R05 Saudi Arabian Grand Prix,2025-04-20
+mclaren,5,37.0,188.0,2025,1,202505,McLaren,2025 R05 Saudi Arabian Grand Prix,2025-04-20
+mercedes,5,18.0,111.0,2025,2,202505,Mercedes,2025 R05 Saudi Arabian Grand Prix,2025-04-20
+rb,5,1.0,8.0,2025,8,202505,RB F1 Team,2025 R05 Saudi Arabian Grand Prix,2025-04-20
+red_bull,5,18.0,89.0,2025,3,202505,Red Bull,2025 R05 Saudi Arabian Grand Prix,2025-04-20
+sauber,5,0.0,6.0,2025,9,202505,Sauber,2025 R05 Saudi Arabian Grand Prix,2025-04-20
+williams,5,6.0,25.0,2025,5,202505,Williams,2025 R05 Saudi Arabian Grand Prix,2025-04-20
+alpine,6,1.0,7.0,2025,9,202506,Alpine F1 Team,2025 R06 Miami Grand Prix,2025-05-04
+aston_martin,6,4.0,14.0,2025,7,202506,Aston Martin,2025 R06 Miami Grand Prix,2025-05-04
+ferrari,6,16.0,94.0,2025,4,202506,Ferrari,2025 R06 Miami Grand Prix,2025-05-04
+haas,6,0.0,20.0,2025,6,202506,Haas F1 Team,2025 R06 Miami Grand Prix,2025-05-04
+mclaren,6,58.0,246.0,2025,1,202506,McLaren,2025 R06 Miami Grand Prix,2025-05-04
+mercedes,6,30.0,141.0,2025,2,202506,Mercedes,2025 R06 Miami Grand Prix,2025-05-04
+rb,6,0.0,8.0,2025,8,202506,RB F1 Team,2025 R06 Miami Grand Prix,2025-05-04
+red_bull,6,16.0,105.0,2025,3,202506,Red Bull,2025 R06 Miami Grand Prix,2025-05-04
+sauber,6,0.0,6.0,2025,10,202506,Sauber,2025 R06 Miami Grand Prix,2025-05-04
+williams,6,12.0,37.0,2025,5,202506,Williams,2025 R06 Miami Grand Prix,2025-05-04
+alpine,7,0.0,7.0,2025,9,202507,Alpine F1 Team,2025 R07 Emilia Romagna Grand Prix,2025-05-18
+aston_martin,7,0.0,14.0,2025,7,202507,Aston Martin,2025 R07 Emilia Romagna Grand Prix,2025-05-18
+ferrari,7,20.0,114.0,2025,4,202507,Ferrari,2025 R07 Emilia Romagna Grand Prix,2025-05-18
+haas,7,0.0,20.0,2025,6,202507,Haas F1 Team,2025 R07 Emilia Romagna Grand Prix,2025-05-18
+mclaren,7,33.0,279.0,2025,1,202507,McLaren,2025 R07 Emilia Romagna Grand Prix,2025-05-18
+mercedes,7,6.0,147.0,2025,2,202507,Mercedes,2025 R07 Emilia Romagna Grand Prix,2025-05-18
+rb,7,2.0,10.0,2025,8,202507,RB F1 Team,2025 R07 Emilia Romagna Grand Prix,2025-05-18
+red_bull,7,26.0,131.0,2025,3,202507,Red Bull,2025 R07 Emilia Romagna Grand Prix,2025-05-18
+sauber,7,0.0,6.0,2025,10,202507,Sauber,2025 R07 Emilia Romagna Grand Prix,2025-05-18
+williams,7,14.0,51.0,2025,5,202507,Williams,2025 R07 Emilia Romagna Grand Prix,2025-05-18
+alpine,8,0.0,7.0,2025,9,202508,Alpine F1 Team,2025 R08 Monaco Grand Prix,2025-05-25
+aston_martin,8,0.0,14.0,2025,8,202508,Aston Martin,2025 R08 Monaco Grand Prix,2025-05-25
+ferrari,8,28.0,142.0,2025,4,202508,Ferrari,2025 R08 Monaco Grand Prix,2025-05-25
+haas,8,6.0,26.0,2025,6,202508,Haas F1 Team,2025 R08 Monaco Grand Prix,2025-05-25
+mclaren,8,40.0,319.0,2025,1,202508,McLaren,2025 R08 Monaco Grand Prix,2025-05-25
+mercedes,8,0.0,147.0,2025,2,202508,Mercedes,2025 R08 Monaco Grand Prix,2025-05-25
+rb,8,12.0,22.0,2025,7,202508,RB F1 Team,2025 R08 Monaco Grand Prix,2025-05-25
+red_bull,8,12.0,143.0,2025,3,202508,Red Bull,2025 R08 Monaco Grand Prix,2025-05-25
+sauber,8,0.0,6.0,2025,10,202508,Sauber,2025 R08 Monaco Grand Prix,2025-05-25
+williams,8,3.0,54.0,2025,5,202508,Williams,2025 R08 Monaco Grand Prix,2025-05-25
+alpine,9,4.0,11.0,2025,10,202509,Alpine F1 Team,2025 R09 Spanish Grand Prix,2025-06-01
+aston_martin,9,2.0,16.0,2025,8,202509,Aston Martin,2025 R09 Spanish Grand Prix,2025-06-01
+ferrari,9,23.0,165.0,2025,2,202509,Ferrari,2025 R09 Spanish Grand Prix,2025-06-01
+haas,9,0.0,26.0,2025,7,202509,Haas F1 Team,2025 R09 Spanish Grand Prix,2025-06-01
+mclaren,9,43.0,362.0,2025,1,202509,McLaren,2025 R09 Spanish Grand Prix,2025-06-01
+mercedes,9,12.0,159.0,2025,3,202509,Mercedes,2025 R09 Spanish Grand Prix,2025-06-01
+rb,9,6.0,28.0,2025,6,202509,RB F1 Team,2025 R09 Spanish Grand Prix,2025-06-01
+red_bull,9,1.0,144.0,2025,4,202509,Red Bull,2025 R09 Spanish Grand Prix,2025-06-01
+sauber,9,10.0,16.0,2025,8,202509,Sauber,2025 R09 Spanish Grand Prix,2025-06-01
+williams,9,0.0,54.0,2025,5,202509,Williams,2025 R09 Spanish Grand Prix,2025-06-01
+alpine,10,0.0,11.0,2025,10,202510,Alpine F1 Team,2025 R10 Canadian Grand Prix,2025-06-15
+aston_martin,10,6.0,22.0,2025,8,202510,Aston Martin,2025 R10 Canadian Grand Prix,2025-06-15
+ferrari,10,18.0,183.0,2025,3,202510,Ferrari,2025 R10 Canadian Grand Prix,2025-06-15
+haas,10,2.0,28.0,2025,6,202510,Haas F1 Team,2025 R10 Canadian Grand Prix,2025-06-15
+mclaren,10,12.0,374.0,2025,1,202510,McLaren,2025 R10 Canadian Grand Prix,2025-06-15
+mercedes,10,40.0,199.0,2025,2,202510,Mercedes,2025 R10 Canadian Grand Prix,2025-06-15
+rb,10,0.0,28.0,2025,6,202510,RB F1 Team,2025 R10 Canadian Grand Prix,2025-06-15
+red_bull,10,18.0,162.0,2025,4,202510,Red Bull,2025 R10 Canadian Grand Prix,2025-06-15
+sauber,10,4.0,20.0,2025,9,202510,Sauber,2025 R10 Canadian Grand Prix,2025-06-15
+williams,10,1.0,55.0,2025,5,202510,Williams,2025 R10 Canadian Grand Prix,2025-06-15
+alpine,11,0.0,11.0,2025,10,202511,Alpine F1 Team,2025 R11 Austrian Grand Prix,2025-06-29
+aston_martin,11,6.0,28.0,2025,8,202511,Aston Martin,2025 R11 Austrian Grand Prix,2025-06-29
+ferrari,11,27.0,210.0,2025,2,202511,Ferrari,2025 R11 Austrian Grand Prix,2025-06-29
+haas,11,1.0,29.0,2025,7,202511,Haas F1 Team,2025 R11 Austrian Grand Prix,2025-06-29
+mclaren,11,43.0,417.0,2025,1,202511,McLaren,2025 R11 Austrian Grand Prix,2025-06-29
+mercedes,11,10.0,209.0,2025,3,202511,Mercedes,2025 R11 Austrian Grand Prix,2025-06-29
+rb,11,8.0,36.0,2025,6,202511,RB F1 Team,2025 R11 Austrian Grand Prix,2025-06-29
+red_bull,11,0.0,162.0,2025,4,202511,Red Bull,2025 R11 Austrian Grand Prix,2025-06-29
+sauber,11,6.0,26.0,2025,9,202511,Sauber,2025 R11 Austrian Grand Prix,2025-06-29
+williams,11,0.0,55.0,2025,5,202511,Williams,2025 R11 Austrian Grand Prix,2025-06-29
+alpine,12,8.0,19.0,2025,10,202512,Alpine F1 Team,2025 R12 British Grand Prix,2025-07-06
+aston_martin,12,8.0,36.0,2025,7,202512,Aston Martin,2025 R12 British Grand Prix,2025-07-06
+ferrari,12,12.0,222.0,2025,2,202512,Ferrari,2025 R12 British Grand Prix,2025-07-06
+haas,12,0.0,29.0,2025,9,202512,Haas F1 Team,2025 R12 British Grand Prix,2025-07-06
+mclaren,12,43.0,460.0,2025,1,202512,McLaren,2025 R12 British Grand Prix,2025-07-06
+mercedes,12,1.0,210.0,2025,3,202512,Mercedes,2025 R12 British Grand Prix,2025-07-06
+rb,12,0.0,36.0,2025,7,202512,RB F1 Team,2025 R12 British Grand Prix,2025-07-06
+red_bull,12,10.0,172.0,2025,4,202512,Red Bull,2025 R12 British Grand Prix,2025-07-06
+sauber,12,15.0,41.0,2025,6,202512,Sauber,2025 R12 British Grand Prix,2025-07-06
+williams,12,4.0,59.0,2025,5,202512,Williams,2025 R12 British Grand Prix,2025-07-06
+alpine,13,1.0,20.0,2025,10,202513,Alpine F1 Team,2025 R13 Belgian Grand Prix,2025-07-27
+aston_martin,13,0.0,36.0,2025,8,202513,Aston Martin,2025 R13 Belgian Grand Prix,2025-07-27
+ferrari,13,26.0,248.0,2025,2,202513,Ferrari,2025 R13 Belgian Grand Prix,2025-07-27
+haas,13,6.0,35.0,2025,9,202513,Haas F1 Team,2025 R13 Belgian Grand Prix,2025-07-27
+mclaren,13,56.0,516.0,2025,1,202513,McLaren,2025 R13 Belgian Grand Prix,2025-07-27
+mercedes,13,10.0,220.0,2025,3,202513,Mercedes,2025 R13 Belgian Grand Prix,2025-07-27
+rb,13,5.0,41.0,2025,7,202513,RB F1 Team,2025 R13 Belgian Grand Prix,2025-07-27
+red_bull,13,20.0,192.0,2025,4,202513,Red Bull,2025 R13 Belgian Grand Prix,2025-07-27
+sauber,13,2.0,43.0,2025,6,202513,Sauber,2025 R13 Belgian Grand Prix,2025-07-27
+williams,13,11.0,70.0,2025,5,202513,Williams,2025 R13 Belgian Grand Prix,2025-07-27
+alpine,14,0.0,20.0,2025,10,202514,Alpine F1 Team,2025 R14 Hungarian Grand Prix,2025-08-03
+aston_martin,14,16.0,52.0,2025,6,202514,Aston Martin,2025 R14 Hungarian Grand Prix,2025-08-03
+ferrari,14,12.0,260.0,2025,2,202514,Ferrari,2025 R14 Hungarian Grand Prix,2025-08-03
+haas,14,0.0,35.0,2025,9,202514,Haas F1 Team,2025 R14 Hungarian Grand Prix,2025-08-03
+mclaren,14,43.0,559.0,2025,1,202514,McLaren,2025 R14 Hungarian Grand Prix,2025-08-03
+mercedes,14,16.0,236.0,2025,3,202514,Mercedes,2025 R14 Hungarian Grand Prix,2025-08-03
+rb,14,4.0,45.0,2025,8,202514,RB F1 Team,2025 R14 Hungarian Grand Prix,2025-08-03
+red_bull,14,2.0,194.0,2025,4,202514,Red Bull,2025 R14 Hungarian Grand Prix,2025-08-03
+sauber,14,8.0,51.0,2025,7,202514,Sauber,2025 R14 Hungarian Grand Prix,2025-08-03
+williams,14,0.0,70.0,2025,5,202514,Williams,2025 R14 Hungarian Grand Prix,2025-08-03
+alpine,15,0.0,20.0,2025,10,202515,Alpine F1 Team,2025 R15 Dutch Grand Prix,2025-08-31
+aston_martin,15,10.0,62.0,2025,6,202515,Aston Martin,2025 R15 Dutch Grand Prix,2025-08-31
+ferrari,15,0.0,260.0,2025,2,202515,Ferrari,2025 R15 Dutch Grand Prix,2025-08-31
+haas,15,9.0,44.0,2025,9,202515,Haas F1 Team,2025 R15 Dutch Grand Prix,2025-08-31
+mclaren,15,25.0,584.0,2025,1,202515,McLaren,2025 R15 Dutch Grand Prix,2025-08-31
+mercedes,15,12.0,248.0,2025,3,202515,Mercedes,2025 R15 Dutch Grand Prix,2025-08-31
+rb,15,15.0,60.0,2025,7,202515,RB F1 Team,2025 R15 Dutch Grand Prix,2025-08-31
+red_bull,15,20.0,214.0,2025,4,202515,Red Bull,2025 R15 Dutch Grand Prix,2025-08-31
+sauber,15,0.0,51.0,2025,8,202515,Sauber,2025 R15 Dutch Grand Prix,2025-08-31
+williams,15,10.0,80.0,2025,5,202515,Williams,2025 R15 Dutch Grand Prix,2025-08-31
+alpine,16,0.0,20.0,2025,10,202516,Alpine F1 Team,2025 R16 Italian Grand Prix,2025-09-07
+aston_martin,16,0.0,62.0,2025,6,202516,Aston Martin,2025 R16 Italian Grand Prix,2025-09-07
+ferrari,16,20.0,280.0,2025,2,202516,Ferrari,2025 R16 Italian Grand Prix,2025-09-07
+haas,16,0.0,44.0,2025,9,202516,Haas F1 Team,2025 R16 Italian Grand Prix,2025-09-07
+mclaren,16,33.0,617.0,2025,1,202516,McLaren,2025 R16 Italian Grand Prix,2025-09-07
+mercedes,16,12.0,260.0,2025,3,202516,Mercedes,2025 R16 Italian Grand Prix,2025-09-07
+rb,16,1.0,61.0,2025,7,202516,RB F1 Team,2025 R16 Italian Grand Prix,2025-09-07
+red_bull,16,25.0,239.0,2025,4,202516,Red Bull,2025 R16 Italian Grand Prix,2025-09-07
+sauber,16,4.0,55.0,2025,8,202516,Sauber,2025 R16 Italian Grand Prix,2025-09-07
+williams,16,6.0,86.0,2025,5,202516,Williams,2025 R16 Italian Grand Prix,2025-09-07
+alpine,17,0.0,20.0,2025,10,202517,Alpine F1 Team,2025 R17 Azerbaijan Grand Prix,2025-09-21
+aston_martin,17,0.0,62.0,2025,7,202517,Aston Martin,2025 R17 Azerbaijan Grand Prix,2025-09-21
+ferrari,17,6.0,286.0,2025,3,202517,Ferrari,2025 R17 Azerbaijan Grand Prix,2025-09-21
+haas,17,0.0,44.0,2025,9,202517,Haas F1 Team,2025 R17 Azerbaijan Grand Prix,2025-09-21
+mclaren,17,6.0,623.0,2025,1,202517,McLaren,2025 R17 Azerbaijan Grand Prix,2025-09-21
+mercedes,17,30.0,290.0,2025,2,202517,Mercedes,2025 R17 Azerbaijan Grand Prix,2025-09-21
+rb,17,11.0,72.0,2025,6,202517,RB F1 Team,2025 R17 Azerbaijan Grand Prix,2025-09-21
+red_bull,17,33.0,272.0,2025,4,202517,Red Bull,2025 R17 Azerbaijan Grand Prix,2025-09-21
+sauber,17,0.0,55.0,2025,8,202517,Sauber,2025 R17 Azerbaijan Grand Prix,2025-09-21
+williams,17,15.0,101.0,2025,5,202517,Williams,2025 R17 Azerbaijan Grand Prix,2025-09-21
+alpine,18,0.0,20.0,2025,10,202518,Alpine F1 Team,2025 R18 Singapore Grand Prix,2025-10-05
+aston_martin,18,6.0,68.0,2025,7,202518,Aston Martin,2025 R18 Singapore Grand Prix,2025-10-05
+ferrari,18,12.0,298.0,2025,3,202518,Ferrari,2025 R18 Singapore Grand Prix,2025-10-05
+haas,18,2.0,46.0,2025,9,202518,Haas F1 Team,2025 R18 Singapore Grand Prix,2025-10-05
+mclaren,18,27.0,650.0,2025,1,202518,McLaren,2025 R18 Singapore Grand Prix,2025-10-05
+mercedes,18,35.0,325.0,2025,2,202518,Mercedes,2025 R18 Singapore Grand Prix,2025-10-05
+rb,18,0.0,72.0,2025,6,202518,RB F1 Team,2025 R18 Singapore Grand Prix,2025-10-05
+red_bull,18,18.0,290.0,2025,4,202518,Red Bull,2025 R18 Singapore Grand Prix,2025-10-05
+sauber,18,0.0,55.0,2025,8,202518,Sauber,2025 R18 Singapore Grand Prix,2025-10-05
+williams,18,1.0,102.0,2025,5,202518,Williams,2025 R18 Singapore Grand Prix,2025-10-05
+alpine,19,0.0,20.0,2025,10,202519,Alpine F1 Team,2025 R19 United States Grand Prix,2025-10-19
+aston_martin,19,1.0,69.0,2025,7,202519,Aston Martin,2025 R19 United States Grand Prix,2025-10-19
+ferrari,19,36.0,334.0,2025,3,202519,Ferrari,2025 R19 United States Grand Prix,2025-10-19
+haas,19,2.0,48.0,2025,9,202519,Haas F1 Team,2025 R19 United States Grand Prix,2025-10-19
+mclaren,19,28.0,678.0,2025,1,202519,McLaren,2025 R19 United States Grand Prix,2025-10-19
+mercedes,19,16.0,341.0,2025,2,202519,Mercedes,2025 R19 United States Grand Prix,2025-10-19
+rb,19,0.0,72.0,2025,6,202519,RB F1 Team,2025 R19 United States Grand Prix,2025-10-19
+red_bull,19,41.0,331.0,2025,4,202519,Red Bull,2025 R19 United States Grand Prix,2025-10-19
+sauber,19,4.0,59.0,2025,8,202519,Sauber,2025 R19 United States Grand Prix,2025-10-19
+williams,19,9.0,111.0,2025,5,202519,Williams,2025 R19 United States Grand Prix,2025-10-19
+alpine,20,0.0,20.0,2025,10,202520,Alpine F1 Team,2025 R20 Mexico City Grand Prix,2025-10-26
+aston_martin,20,0.0,69.0,2025,7,202520,Aston Martin,2025 R20 Mexico City Grand Prix,2025-10-26
+ferrari,20,22.0,356.0,2025,2,202520,Ferrari,2025 R20 Mexico City Grand Prix,2025-10-26
+haas,20,14.0,62.0,2025,8,202520,Haas F1 Team,2025 R20 Mexico City Grand Prix,2025-10-26
+mclaren,20,35.0,713.0,2025,1,202520,McLaren,2025 R20 Mexico City Grand Prix,2025-10-26
+mercedes,20,14.0,355.0,2025,3,202520,Mercedes,2025 R20 Mexico City Grand Prix,2025-10-26
+rb,20,0.0,72.0,2025,6,202520,RB F1 Team,2025 R20 Mexico City Grand Prix,2025-10-26
+red_bull,20,15.0,346.0,2025,4,202520,Red Bull,2025 R20 Mexico City Grand Prix,2025-10-26
+sauber,20,1.0,60.0,2025,9,202520,Sauber,2025 R20 Mexico City Grand Prix,2025-10-26
+williams,20,0.0,111.0,2025,5,202520,Williams,2025 R20 Mexico City Grand Prix,2025-10-26
+alpine,21,2.0,22.0,2025,10,202521,Alpine F1 Team,2025 R21 São Paulo Grand Prix,2025-11-09
+aston_martin,21,3.0,72.0,2025,7,202521,Aston Martin,2025 R21 São Paulo Grand Prix,2025-11-09
+ferrari,21,6.0,362.0,2025,4,202521,Ferrari,2025 R21 São Paulo Grand Prix,2025-11-09
+haas,21,8.0,70.0,2025,8,202521,Haas F1 Team,2025 R21 São Paulo Grand Prix,2025-11-09
+mclaren,21,43.0,756.0,2025,1,202521,McLaren,2025 R21 São Paulo Grand Prix,2025-11-09
+mercedes,21,43.0,398.0,2025,2,202521,Mercedes,2025 R21 São Paulo Grand Prix,2025-11-09
+rb,21,10.0,82.0,2025,6,202521,RB F1 Team,2025 R21 São Paulo Grand Prix,2025-11-09
+red_bull,21,20.0,366.0,2025,3,202521,Red Bull,2025 R21 São Paulo Grand Prix,2025-11-09
+sauber,21,2.0,62.0,2025,9,202521,Sauber,2025 R21 São Paulo Grand Prix,2025-11-09
+williams,21,0.0,111.0,2025,5,202521,Williams,2025 R21 São Paulo Grand Prix,2025-11-09
+alpine,22,0.0,22.0,2025,10,202522,Alpine F1 Team,2025 R22 Las Vegas Grand Prix,2025-11-23
+aston_martin,22,0.0,72.0,2025,8,202522,Aston Martin,2025 R22 Las Vegas Grand Prix,2025-11-23
+ferrari,22,16.0,378.0,2025,4,202522,Ferrari,2025 R22 Las Vegas Grand Prix,2025-11-23
+haas,22,3.0,73.0,2025,7,202522,Haas F1 Team,2025 R22 Las Vegas Grand Prix,2025-11-23
+mclaren,22,0.0,756.0,2025,1,202522,McLaren,2025 R22 Las Vegas Grand Prix,2025-11-23
+mercedes,22,33.0,431.0,2025,2,202522,Mercedes,2025 R22 Las Vegas Grand Prix,2025-11-23
+rb,22,8.0,90.0,2025,6,202522,RB F1 Team,2025 R22 Las Vegas Grand Prix,2025-11-23
+red_bull,22,25.0,391.0,2025,3,202522,Red Bull,2025 R22 Las Vegas Grand Prix,2025-11-23
+sauber,22,6.0,68.0,2025,9,202522,Sauber,2025 R22 Las Vegas Grand Prix,2025-11-23
+williams,22,10.0,121.0,2025,5,202522,Williams,2025 R22 Las Vegas Grand Prix,2025-11-23
+alpine,23,0.0,22.0,2025,10,202523,Alpine F1 Team,2025 R23 Qatar Grand Prix,2025-11-30
+aston_martin,23,8.0,80.0,2025,7,202523,Aston Martin,2025 R23 Qatar Grand Prix,2025-11-30
+ferrari,23,4.0,382.0,2025,4,202523,Ferrari,2025 R23 Qatar Grand Prix,2025-11-30
+haas,23,0.0,73.0,2025,8,202523,Haas F1 Team,2025 R23 Qatar Grand Prix,2025-11-30
+mclaren,23,44.0,800.0,2025,1,202523,McLaren,2025 R23 Qatar Grand Prix,2025-11-30
+mercedes,23,28.0,459.0,2025,2,202523,Mercedes,2025 R23 Qatar Grand Prix,2025-11-30
+rb,23,2.0,92.0,2025,6,202523,RB F1 Team,2025 R23 Qatar Grand Prix,2025-11-30
+red_bull,23,35.0,426.0,2025,3,202523,Red Bull,2025 R23 Qatar Grand Prix,2025-11-30
+sauber,23,0.0,68.0,2025,9,202523,Sauber,2025 R23 Qatar Grand Prix,2025-11-30
+williams,23,16.0,137.0,2025,5,202523,Williams,2025 R23 Qatar Grand Prix,2025-11-30
+alpine,24,0.0,22.0,2025,10,202524,Alpine F1 Team,2025 R24 Abu Dhabi Grand Prix,2025-12-07
+aston_martin,24,9.0,89.0,2025,7,202524,Aston Martin,2025 R24 Abu Dhabi Grand Prix,2025-12-07
+ferrari,24,16.0,398.0,2025,4,202524,Ferrari,2025 R24 Abu Dhabi Grand Prix,2025-12-07
+haas,24,6.0,79.0,2025,8,202524,Haas F1 Team,2025 R24 Abu Dhabi Grand Prix,2025-12-07
+mclaren,24,33.0,833.0,2025,1,202524,McLaren,2025 R24 Abu Dhabi Grand Prix,2025-12-07
+mercedes,24,10.0,469.0,2025,2,202524,Mercedes,2025 R24 Abu Dhabi Grand Prix,2025-12-07
+rb,24,0.0,92.0,2025,6,202524,RB F1 Team,2025 R24 Abu Dhabi Grand Prix,2025-12-07
+red_bull,24,25.0,451.0,2025,3,202524,Red Bull,2025 R24 Abu Dhabi Grand Prix,2025-12-07
+sauber,24,2.0,70.0,2025,9,202524,Sauber,2025 R24 Abu Dhabi Grand Prix,2025-12-07
+williams,24,0.0,137.0,2025,5,202524,Williams,2025 R24 Abu Dhabi Grand Prix,2025-12-07
+alpine,1,1.0,1.0,2026,8,202601,Alpine F1 Team,2026 R01 Australian Grand Prix,2026-03-08
+aston_martin,1,0.0,0.0,2026,9,202601,Aston Martin,2026 R01 Australian Grand Prix,2026-03-08
+audi,1,2.0,2.0,2026,7,202601,Audi,2026 R01 Australian Grand Prix,2026-03-08
+cadillac,1,0.0,0.0,2026,9,202601,Cadillac F1 Team,2026 R01 Australian Grand Prix,2026-03-08
+ferrari,1,27.0,27.0,2026,2,202601,Ferrari,2026 R01 Australian Grand Prix,2026-03-08
+haas,1,6.0,6.0,2026,5,202601,Haas F1 Team,2026 R01 Australian Grand Prix,2026-03-08
+mclaren,1,10.0,10.0,2026,3,202601,McLaren,2026 R01 Australian Grand Prix,2026-03-08
+mercedes,1,43.0,43.0,2026,1,202601,Mercedes,2026 R01 Australian Grand Prix,2026-03-08
+rb,1,4.0,4.0,2026,6,202601,RB F1 Team,2026 R01 Australian Grand Prix,2026-03-08
+red_bull,1,8.0,8.0,2026,4,202601,Red Bull,2026 R01 Australian Grand Prix,2026-03-08
+williams,1,0.0,0.0,2026,9,202601,Williams,2026 R01 Australian Grand Prix,2026-03-08
+alpine,2,9.0,10.0,2026,7,202602,Alpine F1 Team,2026 R02 Chinese Grand Prix,2026-03-15
+aston_martin,2,0.0,0.0,2026,10,202602,Aston Martin,2026 R02 Chinese Grand Prix,2026-03-15
+audi,2,0.0,2.0,2026,8,202602,Audi,2026 R02 Chinese Grand Prix,2026-03-15
+cadillac,2,0.0,0.0,2026,10,202602,Cadillac F1 Team,2026 R02 Chinese Grand Prix,2026-03-15
+ferrari,2,40.0,67.0,2026,2,202602,Ferrari,2026 R02 Chinese Grand Prix,2026-03-15
+haas,2,11.0,17.0,2026,4,202602,Haas F1 Team,2026 R02 Chinese Grand Prix,2026-03-15
+mclaren,2,8.0,18.0,2026,3,202602,McLaren,2026 R02 Chinese Grand Prix,2026-03-15
+mercedes,2,55.0,98.0,2026,1,202602,Mercedes,2026 R02 Chinese Grand Prix,2026-03-15
+rb,2,8.0,12.0,2026,5,202602,RB F1 Team,2026 R02 Chinese Grand Prix,2026-03-15
+red_bull,2,4.0,12.0,2026,5,202602,Red Bull,2026 R02 Chinese Grand Prix,2026-03-15
+williams,2,2.0,2.0,2026,8,202602,Williams,2026 R02 Chinese Grand Prix,2026-03-15
+alpine,3,6.0,16.0,2026,5,202603,Alpine F1 Team,2026 R03 Japanese Grand Prix,2026-03-29
+aston_martin,3,0.0,0.0,2026,10,202603,Aston Martin,2026 R03 Japanese Grand Prix,2026-03-29
+audi,3,0.0,2.0,2026,8,202603,Audi,2026 R03 Japanese Grand Prix,2026-03-29
+cadillac,3,0.0,0.0,2026,10,202603,Cadillac F1 Team,2026 R03 Japanese Grand Prix,2026-03-29
+ferrari,3,23.0,90.0,2026,2,202603,Ferrari,2026 R03 Japanese Grand Prix,2026-03-29
+haas,3,1.0,18.0,2026,4,202603,Haas F1 Team,2026 R03 Japanese Grand Prix,2026-03-29
+mclaren,3,28.0,46.0,2026,3,202603,McLaren,2026 R03 Japanese Grand Prix,2026-03-29
+mercedes,3,37.0,135.0,2026,1,202603,Mercedes,2026 R03 Japanese Grand Prix,2026-03-29
+rb,3,2.0,14.0,2026,7,202603,RB F1 Team,2026 R03 Japanese Grand Prix,2026-03-29
+red_bull,3,4.0,16.0,2026,5,202603,Red Bull,2026 R03 Japanese Grand Prix,2026-03-29
+williams,3,0.0,2.0,2026,8,202603,Williams,2026 R03 Japanese Grand Prix,2026-03-29
+alpine,4,7.0,23.0,2026,5,202604,Alpine F1 Team,2026 R04 Miami Grand Prix,2026-05-03
+aston_martin,4,0.0,0.0,2026,10,202604,Aston Martin,2026 R04 Miami Grand Prix,2026-05-03
+audi,4,0.0,2.0,2026,9,202604,Audi,2026 R04 Miami Grand Prix,2026-05-03
+cadillac,4,0.0,0.0,2026,10,202604,Cadillac F1 Team,2026 R04 Miami Grand Prix,2026-05-03
+ferrari,4,20.0,110.0,2026,2,202604,Ferrari,2026 R04 Miami Grand Prix,2026-05-03
+haas,4,0.0,18.0,2026,6,202604,Haas F1 Team,2026 R04 Miami Grand Prix,2026-05-03
+mclaren,4,48.0,94.0,2026,3,202604,McLaren,2026 R04 Miami Grand Prix,2026-05-03
+mercedes,4,45.0,180.0,2026,1,202604,Mercedes,2026 R04 Miami Grand Prix,2026-05-03
+rb,4,0.0,14.0,2026,7,202604,RB F1 Team,2026 R04 Miami Grand Prix,2026-05-03
+red_bull,4,14.0,30.0,2026,4,202604,Red Bull,2026 R04 Miami Grand Prix,2026-05-03
+williams,4,3.0,5.0,2026,8,202604,Williams,2026 R04 Miami Grand Prix,2026-05-03
+alpine,5,12.0,35.0,2026,5,202605,Alpine F1 Team,2026 R05 Canadian Grand Prix,2026-05-24
+aston_martin,5,0.0,0.0,2026,10,202605,Aston Martin,2026 R05 Canadian Grand Prix,2026-05-24
+audi,5,0.0,2.0,2026,9,202605,Audi,2026 R05 Canadian Grand Prix,2026-05-24
+cadillac,5,0.0,0.0,2026,10,202605,Cadillac F1 Team,2026 R05 Canadian Grand Prix,2026-05-24
+ferrari,5,37.0,147.0,2026,2,202605,Ferrari,2026 R05 Canadian Grand Prix,2026-05-24
+haas,5,1.0,19.0,2026,7,202605,Haas F1 Team,2026 R05 Canadian Grand Prix,2026-05-24
+mclaren,5,12.0,106.0,2026,3,202605,McLaren,2026 R05 Canadian Grand Prix,2026-05-24
+mercedes,5,39.0,219.0,2026,1,202605,Mercedes,2026 R05 Canadian Grand Prix,2026-05-24
+rb,5,7.0,21.0,2026,6,202605,RB F1 Team,2026 R05 Canadian Grand Prix,2026-05-24
+red_bull,5,27.0,57.0,2026,4,202605,Red Bull,2026 R05 Canadian Grand Prix,2026-05-24
+williams,5,2.0,7.0,2026,8,202605,Williams,2026 R05 Canadian Grand Prix,2026-05-24
+alpine,6,6.0,41.0,2026,5,202606,Alpine F1 Team,2026 R06 Monaco Grand Prix,2026-06-07
+aston_martin,6,1.0,1.0,2026,10,202606,Aston Martin,2026 R06 Monaco Grand Prix,2026-06-07
+audi,6,0.0,2.0,2026,9,202606,Audi,2026 R06 Monaco Grand Prix,2026-06-07
+cadillac,6,0.0,0.0,2026,11,202606,Cadillac F1 Team,2026 R06 Monaco Grand Prix,2026-06-07
+ferrari,6,18.0,165.0,2026,2,202606,Ferrari,2026 R06 Monaco Grand Prix,2026-06-07
+haas,6,2.0,21.0,2026,7,202606,Haas F1 Team,2026 R06 Monaco Grand Prix,2026-06-07
+mclaren,6,12.0,118.0,2026,3,202606,McLaren,2026 R06 Monaco Grand Prix,2026-06-07
+mercedes,6,25.0,244.0,2026,1,202606,Mercedes,2026 R06 Monaco Grand Prix,2026-06-07
+rb,6,18.0,39.0,2026,6,202606,RB F1 Team,2026 R06 Monaco Grand Prix,2026-06-07
+red_bull,6,15.0,72.0,2026,4,202606,Red Bull,2026 R06 Monaco Grand Prix,2026-06-07
+williams,6,4.0,11.0,2026,8,202606,Williams,2026 R06 Monaco Grand Prix,2026-06-07
+alpine,7,7.0,48.0,2026,5,202607,Alpine F1 Team,2026 R07 Barcelona Grand Prix,2026-06-14
+aston_martin,7,0.0,1.0,2026,10,202607,Aston Martin,2026 R07 Barcelona Grand Prix,2026-06-14
+audi,7,0.0,2.0,2026,9,202607,Audi,2026 R07 Barcelona Grand Prix,2026-06-14
+cadillac,7,0.0,0.0,2026,11,202607,Cadillac F1 Team,2026 R07 Barcelona Grand Prix,2026-06-14
+ferrari,7,25.0,190.0,2026,2,202607,Ferrari,2026 R07 Barcelona Grand Prix,2026-06-14
+haas,7,0.0,21.0,2026,7,202607,Haas F1 Team,2026 R07 Barcelona Grand Prix,2026-06-14
+mclaren,7,25.0,143.0,2026,3,202607,McLaren,2026 R07 Barcelona Grand Prix,2026-06-14
+mercedes,7,18.0,262.0,2026,1,202607,Mercedes,2026 R07 Barcelona Grand Prix,2026-06-14
+rb,7,6.0,45.0,2026,6,202607,RB F1 Team,2026 R07 Barcelona Grand Prix,2026-06-14
+red_bull,7,20.0,92.0,2026,4,202607,Red Bull,2026 R07 Barcelona Grand Prix,2026-06-14
+williams,7,0.0,11.0,2026,8,202607,Williams,2026 R07 Barcelona Grand Prix,2026-06-14
+alpine,8,0.0,48.0,2026,5,202608,Alpine F1 Team,2026 R08 Austrian Grand Prix,2026-06-28
+aston_martin,8,0.0,1.0,2026,10,202608,Aston Martin,2026 R08 Austrian Grand Prix,2026-06-28
+audi,8,0.0,2.0,2026,9,202608,Audi,2026 R08 Austrian Grand Prix,2026-06-28
+cadillac,8,0.0,0.0,2026,11,202608,Cadillac F1 Team,2026 R08 Austrian Grand Prix,2026-06-28
+ferrari,8,14.0,204.0,2026,2,202608,Ferrari,2026 R08 Austrian Grand Prix,2026-06-28
+haas,8,0.0,21.0,2026,7,202608,Haas F1 Team,2026 R08 Austrian Grand Prix,2026-06-28
+mclaren,8,18.0,161.0,2026,3,202608,McLaren,2026 R08 Austrian Grand Prix,2026-06-28
+mercedes,8,40.0,302.0,2026,1,202608,Mercedes,2026 R08 Austrian Grand Prix,2026-06-28
+rb,8,3.0,48.0,2026,5,202608,RB F1 Team,2026 R08 Austrian Grand Prix,2026-06-28
+red_bull,8,26.0,118.0,2026,4,202608,Red Bull,2026 R08 Austrian Grand Prix,2026-06-28
+williams,8,0.0,11.0,2026,8,202608,Williams,2026 R08 Austrian Grand Prix,2026-06-28
+alpine,9,3.0,51.0,2026,6,202609,Alpine F1 Team,2026 R09 British Grand Prix,2026-07-05
+aston_martin,9,0.0,1.0,2026,10,202609,Aston Martin,2026 R09 British Grand Prix,2026-07-05
+audi,9,4.0,6.0,2026,9,202609,Audi,2026 R09 British Grand Prix,2026-07-05
+cadillac,9,0.0,0.0,2026,11,202609,Cadillac F1 Team,2026 R09 British Grand Prix,2026-07-05
+ferrari,9,51.0,255.0,2026,2,202609,Ferrari,2026 R09 British Grand Prix,2026-07-05
+haas,9,0.0,21.0,2026,7,202609,Haas F1 Team,2026 R09 British Grand Prix,2026-07-05
+mclaren,9,20.0,181.0,2026,3,202609,McLaren,2026 R09 British Grand Prix,2026-07-05
+mercedes,9,31.0,333.0,2026,1,202609,Mercedes,2026 R09 British Grand Prix,2026-07-05
+rb,9,15.0,63.0,2026,5,202609,RB F1 Team,2026 R09 British Grand Prix,2026-07-05
+red_bull,9,13.0,131.0,2026,4,202609,Red Bull,2026 R09 British Grand Prix,2026-07-05
+williams,9,0.0,11.0,2026,8,202609,Williams,2026 R09 British Grand Prix,2026-07-05
+alpine,10,1.0,52.0,2026,6,202610,Alpine F1 Team,2026 R10 Belgian Grand Prix,2026-07-19
+aston_martin,10,0.0,1.0,2026,10,202610,Aston Martin,2026 R10 Belgian Grand Prix,2026-07-19
+audi,10,4.0,10.0,2026,9,202610,Audi,2026 R10 Belgian Grand Prix,2026-07-19
+cadillac,10,0.0,0.0,2026,11,202610,Cadillac F1 Team,2026 R10 Belgian Grand Prix,2026-07-19
+ferrari,10,30.0,285.0,2026,2,202610,Ferrari,2026 R10 Belgian Grand Prix,2026-07-19
+haas,10,0.0,21.0,2026,7,202610,Haas F1 Team,2026 R10 Belgian Grand Prix,2026-07-19
+mclaren,10,16.0,197.0,2026,3,202610,McLaren,2026 R10 Belgian Grand Prix,2026-07-19
+mercedes,10,25.0,358.0,2026,1,202610,Mercedes,2026 R10 Belgian Grand Prix,2026-07-19
+rb,10,2.0,65.0,2026,5,202610,RB F1 Team,2026 R10 Belgian Grand Prix,2026-07-19
+red_bull,10,23.0,154.0,2026,4,202610,Red Bull,2026 R10 Belgian Grand Prix,2026-07-19
+williams,10,0.0,11.0,2026,8,202610,Williams,2026 R10 Belgian Grand Prix,2026-07-19
+alpine,11,0.0,52.0,2026,6,202611,Alpine F1 Team,2026 R11 Hungarian Grand Prix,2026-07-26
+aston_martin,11,0.0,1.0,2026,10,202611,Aston Martin,2026 R11 Hungarian Grand Prix,2026-07-26
+audi,11,2.0,12.0,2026,8,202611,Audi,2026 R11 Hungarian Grand Prix,2026-07-26
+cadillac,11,0.0,0.0,2026,11,202611,Cadillac F1 Team,2026 R11 Hungarian Grand Prix,2026-07-26
+ferrari,11,22.0,307.0,2026,2,202611,Ferrari,2026 R11 Hungarian Grand Prix,2026-07-26
+haas,11,0.0,21.0,2026,7,202611,Haas F1 Team,2026 R11 Hungarian Grand Prix,2026-07-26
+mclaren,11,25.0,222.0,2026,3,202611,McLaren,2026 R11 Hungarian Grand Prix,2026-07-26
+mercedes,11,21.0,379.0,2026,1,202611,Mercedes,2026 R11 Hungarian Grand Prix,2026-07-26
+rb,11,5.0,70.0,2026,5,202611,RB F1 Team,2026 R11 Hungarian Grand Prix,2026-07-26
+red_bull,11,26.0,180.0,2026,4,202611,Red Bull,2026 R11 Hungarian Grand Prix,2026-07-26
+williams,11,0.0,11.0,2026,9,202611,Williams,2026 R11 Hungarian Grand Prix,2026-07-26
+alpine,12,2.0,54.0,2026,6,202612,Alpine F1 Team,2026 R12 Dutch Grand Prix,2026-08-23
+aston_martin,12,2.0,3.0,2026,10,202612,Aston Martin,2026 R12 Dutch Grand Prix,2026-08-23
+audi,12,4.0,16.0,2026,8,202612,Audi,2026 R12 Dutch Grand Prix,2026-08-23
+cadillac,12,0.0,0.0,2026,11,202612,Cadillac F1 Team,2026 R12 Dutch Grand Prix,2026-08-23
+ferrari,12,31.0,338.0,2026,2,202612,Ferrari,2026 R12 Dutch Grand Prix,2026-08-23
+haas,12,0.0,21.0,2026,7,202612,Haas F1 Team,2026 R12 Dutch Grand Prix,2026-08-23
+mclaren,12,43.0,265.0,2026,3,202612,McLaren,2026 R12 Dutch Grand Prix,2026-08-23
+mercedes,12,46.0,425.0,2026,1,202612,Mercedes,2026 R12 Dutch Grand Prix,2026-08-23
+rb,12,0.0,70.0,2026,5,202612,RB F1 Team,2026 R12 Dutch Grand Prix,2026-08-23
+red_bull,12,9.0,189.0,2026,4,202612,Red Bull,2026 R12 Dutch Grand Prix,2026-08-23
+williams,12,0.0,11.0,2026,9,202612,Williams,2026 R12 Dutch Grand Prix,2026-08-23
+alpine,13,8.0,62.0,2026,6,202613,Alpine F1 Team,2026 R13 Italian Grand Prix,2026-09-06
+aston_martin,13,0.0,3.0,2026,10,202613,Aston Martin,2026 R13 Italian Grand Prix,2026-09-06
+audi,13,0.0,16.0,2026,8,202613,Audi,2026 R13 Italian Grand Prix,2026-09-06
+cadillac,13,0.0,0.0,2026,11,202613,Cadillac F1 Team,2026 R13 Italian Grand Prix,2026-09-06
+ferrari,13,8.0,346.0,2026,2,202613,Ferrari,2026 R13 Italian Grand Prix,2026-09-06
+haas,13,0.0,21.0,2026,7,202613,Haas F1 Team,2026 R13 Italian Grand Prix,2026-09-06
+mclaren,13,22.0,287.0,2026,3,202613,McLaren,2026 R13 Italian Grand Prix,2026-09-06
+mercedes,13,43.0,468.0,2026,1,202613,Mercedes,2026 R13 Italian Grand Prix,2026-09-06
+rb,13,5.0,75.0,2026,5,202613,RB F1 Team,2026 R13 Italian Grand Prix,2026-09-06
+red_bull,13,15.0,204.0,2026,4,202613,Red Bull,2026 R13 Italian Grand Prix,2026-09-06
+williams,13,0.0,11.0,2026,9,202613,Williams,2026 R13 Italian Grand Prix,2026-09-06
+alpine,14,6.0,68.0,2026,6,202614,Alpine F1 Team,2026 R14 Spanish Grand Prix,2026-09-13
+aston_martin,14,0.0,3.0,2026,10,202614,Aston Martin,2026 R14 Spanish Grand Prix,2026-09-13
+audi,14,1.0,17.0,2026,8,202614,Audi,2026 R14 Spanish Grand Prix,2026-09-13
+cadillac,14,0.0,0.0,2026,11,202614,Cadillac F1 Team,2026 R14 Spanish Grand Prix,2026-09-13
+ferrari,14,12.0,358.0,2026,2,202614,Ferrari,2026 R14 Spanish Grand Prix,2026-09-13
+haas,14,0.0,21.0,2026,7,202614,Haas F1 Team,2026 R14 Spanish Grand Prix,2026-09-13
+mclaren,14,19.0,306.0,2026,3,202614,McLaren,2026 R14 Spanish Grand Prix,2026-09-13
+mercedes,14,35.0,503.0,2026,1,202614,Mercedes,2026 R14 Spanish Grand Prix,2026-09-13
+rb,14,2.0,77.0,2026,5,202614,RB F1 Team,2026 R14 Spanish Grand Prix,2026-09-13
+red_bull,14,26.0,230.0,2026,4,202614,Red Bull,2026 R14 Spanish Grand Prix,2026-09-13
+williams,14,0.0,11.0,2026,9,202614,Williams,2026 R14 Spanish Grand Prix,2026-09-13
+alpine,15,0.0,68.0,2026,6,202615,Alpine F1 Team,2026 R15 Azerbaijan Grand Prix,2026-09-26
+aston_martin,15,0.0,3.0,2026,10,202615,Aston Martin,2026 R15 Azerbaijan Grand Prix,2026-09-26
+audi,15,0.0,17.0,2026,8,202615,Audi,2026 R15 Azerbaijan Grand Prix,2026-09-26
+cadillac,15,0.0,0.0,2026,11,202615,Cadillac F1 Team,2026 R15 Azerbaijan Grand Prix,2026-09-26
+ferrari,15,20.0,378.0,2026,2,202615,Ferrari,2026 R15 Azerbaijan Grand Prix,2026-09-26
+haas,15,6.0,27.0,2026,7,202615,Haas F1 Team,2026 R15 Azerbaijan Grand Prix,2026-09-26
+mclaren,15,0.0,306.0,2026,3,202615,McLaren,2026 R15 Azerbaijan Grand Prix,2026-09-26
+mercedes,15,35.0,538.0,2026,1,202615,Mercedes,2026 R15 Azerbaijan Grand Prix,2026-09-26
+rb,15,6.0,83.0,2026,5,202615,RB F1 Team,2026 R15 Azerbaijan Grand Prix,2026-09-26
+red_bull,15,33.0,263.0,2026,4,202615,Red Bull,2026 R15 Azerbaijan Grand Prix,2026-09-26
+williams,15,1.0,12.0,2026,9,202615,Williams,2026 R15 Azerbaijan Grand Prix,2026-09-26
+alpine,16,0.0,68.0,2026,6,202616,Alpine F1 Team,2026 R16 Bahrain Grand Prix in Malaysia,2026-10-04
+aston_martin,16,4.0,7.0,2026,10,202616,Aston Martin,2026 R16 Bahrain Grand Prix in Malaysia,2026-10-04
+audi,16,0.0,17.0,2026,8,202616,Audi,2026 R16 Bahrain Grand Prix in Malaysia,2026-10-04
+cadillac,16,0.0,0.0,2026,11,202616,Cadillac F1 Team,2026 R16 Bahrain Grand Prix in Malaysia,2026-10-04
+ferrari,16,27.0,405.0,2026,2,202616,Ferrari,2026 R16 Bahrain Grand Prix in Malaysia,2026-10-04
+haas,16,0.0,27.0,2026,7,202616,Haas F1 Team,2026 R16 Bahrain Grand Prix in Malaysia,2026-10-04
+mclaren,16,10.0,316.0,2026,3,202616,McLaren,2026 R16 Bahrain Grand Prix in Malaysia,2026-10-04
+mercedes,16,18.0,556.0,2026,1,202616,Mercedes,2026 R16 Bahrain Grand Prix in Malaysia,2026-10-04
+rb,16,7.0,90.0,2026,5,202616,RB F1 Team,2026 R16 Bahrain Grand Prix in Malaysia,2026-10-04
+red_bull,16,35.0,298.0,2026,4,202616,Red Bull,2026 R16 Bahrain Grand Prix in Malaysia,2026-10-04
+williams,16,0.0,12.0,2026,9,202616,Williams,2026 R16 Bahrain Grand Prix in Malaysia,2026-10-04
+alpine,17,0.0,68.0,2026,6,202617,Alpine F1 Team,2026 R17 Singapore Grand Prix,2026-10-11
+aston_martin,17,0.0,7.0,2026,10,202617,Aston Martin,2026 R17 Singapore Grand Prix,2026-10-11
+audi,17,6.0,23.0,2026,8,202617,Audi,2026 R17 Singapore Grand Prix,2026-10-11
+cadillac,17,0.0,0.0,2026,11,202617,Cadillac F1 Team,2026 R17 Singapore Grand Prix,2026-10-11
+ferrari,17,39.0,444.0,2026,2,202617,Ferrari,2026 R17 Singapore Grand Prix,2026-10-11
+haas,17,3.0,30.0,2026,7,202617,Haas F1 Team,2026 R17 Singapore Grand Prix,2026-10-11
+mclaren,17,23.0,339.0,2026,3,202617,McLaren,2026 R17 Singapore Grand Prix,2026-10-11
+mercedes,17,22.0,578.0,2026,1,202617,Mercedes,2026 R17 Singapore Grand Prix,2026-10-11
+rb,17,10.0,100.0,2026,5,202617,RB F1 Team,2026 R17 Singapore Grand Prix,2026-10-11
+red_bull,17,34.0,332.0,2026,4,202617,Red Bull,2026 R17 Singapore Grand Prix,2026-10-11
+williams,17,0.0,12.0,2026,9,202617,Williams,2026 R17 Singapore Grand Prix,2026-10-11
+alpine,18,1.0,69.0,2026,6,202618,Alpine F1 Team,2026 R18 United States Grand Prix,2026-10-25
+aston_martin,18,0.0,7.0,2026,10,202618,Aston Martin,2026 R18 United States Grand Prix,2026-10-25
+audi,18,0.0,23.0,2026,8,202618,Audi,2026 R18 United States Grand Prix,2026-10-25
+cadillac,18,0.0,0.0,2026,11,202618,Cadillac F1 Team,2026 R18 United States Grand Prix,2026-10-25
+ferrari,18,30.0,474.0,2026,2,202618,Ferrari,2026 R18 United States Grand Prix,2026-10-25
+haas,18,0.0,30.0,2026,7,202618,Haas F1 Team,2026 R18 United States Grand Prix,2026-10-25
+mclaren,18,16.0,355.0,2026,3,202618,McLaren,2026 R18 United States Grand Prix,2026-10-25
+mercedes,18,29.0,607.0,2026,1,202618,Mercedes,2026 R18 United States Grand Prix,2026-10-25
+rb,18,2.0,102.0,2026,5,202618,RB F1 Team,2026 R18 United States Grand Prix,2026-10-25
+red_bull,18,23.0,355.0,2026,3,202618,Red Bull,2026 R18 United States Grand Prix,2026-10-25
+williams,18,0.0,12.0,2026,9,202618,Williams,2026 R18 United States Grand Prix,2026-10-25
+alpine,19,0.0,69.0,2026,6,202619,Alpine F1 Team,2026 R19 Mexico City Grand Prix,2026-11-01
+aston_martin,19,0.0,7.0,2026,10,202619,Aston Martin,2026 R19 Mexico City Grand Prix,2026-11-01
+audi,19,4.0,27.0,2026,8,202619,Audi,2026 R19 Mexico City Grand Prix,2026-11-01
+cadillac,19,0.0,0.0,2026,11,202619,Cadillac F1 Team,2026 R19 Mexico City Grand Prix,2026-11-01
+ferrari,19,30.0,504.0,2026,2,202619,Ferrari,2026 R19 Mexico City Grand Prix,2026-11-01
+haas,19,1.0,31.0,2026,7,202619,Haas F1 Team,2026 R19 Mexico City Grand Prix,2026-11-01
+mclaren,19,10.0,365.0,2026,4,202619,McLaren,2026 R19 Mexico City Grand Prix,2026-11-01
+mercedes,19,23.0,630.0,2026,1,202619,Mercedes,2026 R19 Mexico City Grand Prix,2026-11-01
+rb,19,6.0,108.0,2026,5,202619,RB F1 Team,2026 R19 Mexico City Grand Prix,2026-11-01
+red_bull,19,27.0,382.0,2026,3,202619,Red Bull,2026 R19 Mexico City Grand Prix,2026-11-01
+williams,19,0.0,12.0,2026,9,202619,Williams,2026 R19 Mexico City Grand Prix,2026-11-01
+alpine,20,0.0,69.0,2026,6,202620,Alpine F1 Team,2026 R20 Brazilian Grand Prix,2026-11-08
+aston_martin,20,0.0,7.0,2026,10,202620,Aston Martin,2026 R20 Brazilian Grand Prix,2026-11-08
+audi,20,1.0,28.0,2026,8,202620,Audi,2026 R20 Brazilian Grand Prix,2026-11-08
+cadillac,20,0.0,0.0,2026,11,202620,Cadillac F1 Team,2026 R20 Brazilian Grand Prix,2026-11-08
+ferrari,20,6.0,510.0,2026,2,202620,Ferrari,2026 R20 Brazilian Grand Prix,2026-11-08
+haas,20,0.0,31.0,2026,7,202620,Haas F1 Team,2026 R20 Brazilian Grand Prix,2026-11-08
+mclaren,20,33.0,398.0,2026,4,202620,McLaren,2026 R20 Brazilian Grand Prix,2026-11-08
+mercedes,20,22.0,652.0,2026,1,202620,Mercedes,2026 R20 Brazilian Grand Prix,2026-11-08
+rb,20,6.0,114.0,2026,5,202620,RB F1 Team,2026 R20 Brazilian Grand Prix,2026-11-08
+red_bull,20,33.0,415.0,2026,3,202620,Red Bull,2026 R20 Brazilian Grand Prix,2026-11-08
+williams,20,0.0,12.0,2026,9,202620,Williams,2026 R20 Brazilian Grand Prix,2026-11-08
