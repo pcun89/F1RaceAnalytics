@@ -1,38 +1,66 @@
-// ===== Core results =====
-Total Points = SUM ( fact_race_results[points] )
+// =====================================================================
+// Measures for the REAL F1 data model (data/bi_real/*.csv)
+// Tables: fact_race_results, fact_sprint_results, fact_qualifying, fact_pit_stops,
+//         fact_lap_times, fact_driver_standings, fact_constructor_standings,
+//         dim_driver, dim_constructor, dim_race, dim_circuit, dim_date
+// =====================================================================
+
+// ---------- Points and results ----------
+Total Points = SUM ( fact_race_results[total_points] )          // Grand Prix + sprint points
+GP Points Only = SUM ( fact_race_results[points] )
 Races Entered = COUNTROWS ( fact_race_results )
-Wins = CALCULATE ( COUNTROWS ( fact_race_results ), fact_race_results[finish_position] = 1 )
-Podiums = CALCULATE ( COUNTROWS ( fact_race_results ), fact_race_results[finish_position] <= 3 )
-Poles = CALCULATE ( COUNTROWS ( fact_race_results ), fact_race_results[grid_position] = 1 )
+Wins = SUM ( fact_race_results[is_win] )
+Podiums = SUM ( fact_race_results[is_podium] )
+Poles = SUM ( fact_race_results[is_pole] )
+Points Finishes = SUM ( fact_race_results[is_points_finish] )
 Win Rate % = DIVIDE ( [Wins], [Races Entered] )
 Podium Rate % = DIVIDE ( [Podiums], [Races Entered] )
 Points Per Race = DIVIDE ( [Total Points], [Races Entered] )
-// ===== Reliability =====
-DNFs =
-CALCULATE (
-    COUNTROWS ( fact_race_results ),
-    NOT ( fact_race_results[status] IN { "Finished", "Lapped" } )
-)
+Share Of Team Points % =                                          // use with driver and constructor in the same visual
+    DIVIDE ( [Total Points], CALCULATE ( [Total Points], REMOVEFILTERS ( dim_driver ) ) )
+
+// ---------- Reliability ----------
+DNFs = SUM ( fact_race_results[is_dnf] )
 DNF Rate % = DIVIDE ( [DNFs], [Races Entered] )
 
-// ===== Grid vs finish =====
-Avg Grid Position = AVERAGE ( fact_race_results[grid_position] )
-Avg Finish Position = AVERAGE ( fact_race_results[finish_position] )
-Avg Positions Gained =
-CALCULATE (
-    AVERAGE ( fact_race_results[positions_gained] ),
-    fact_race_results[status] IN { "Finished", "Lapped" }
-)
+// ---------- Grid vs finish ----------
+Avg Grid = CALCULATE ( AVERAGE ( fact_race_results[grid] ), fact_race_results[grid] > 0 )   // ignores pit-lane starts
+Avg Finish = CALCULATE ( AVERAGE ( fact_race_results[position] ), fact_race_results[is_classified] = 1 )
+Avg Places Gained = AVERAGE ( fact_race_results[places_gained] )  // blank for DNFs and pit-lane starts
 
-// ===== Standings =====
-Driver Rank =
-RANKX ( ALL ( dim_driver[driver_name] ), [Total Points], , DESC, DENSE )
-
-Cumulative Points =
-VAR _round = MAX ( dim_race[round] )
+// ---------- Championship progress (use with round on the axis and a season filter) ----------
+Cum Points =
+VAR _r = MAX ( dim_race[round] )
 RETURN
-    CALCULATE (
-        [Total Points],
-        FILTER ( ALL ( dim_race[round] ), dim_race[round] <= _round ),
-        VALUES ( dim_race[season] )
-    )
+    CALCULATE ( SUM ( fact_driver_standings[cum_points] ), dim_race[round] = _r )
+
+Championship Pos =
+VAR _r = MAX ( dim_race[round] )
+RETURN
+    CALCULATE ( MIN ( fact_driver_standings[championship_pos] ), dim_race[round] = _r )
+
+Constructor Cum Points =
+VAR _r = MAX ( dim_race[round] )
+RETURN
+    CALCULATE ( SUM ( fact_constructor_standings[cum_points] ), dim_race[round] = _r )
+
+Points Prior Season =
+VAR _s = MAX ( dim_race[season] )
+RETURN
+    CALCULATE ( [Total Points], REMOVEFILTERS ( dim_race ), dim_race[season] = _s - 1 )
+// A season in progress has fewer races, so compare [Points Per Race] across seasons, not raw totals.
+
+// ---------- Qualifying ----------
+Avg Quali Position = AVERAGE ( fact_qualifying[position] )
+Avg Gap To Pole % = AVERAGE ( fact_qualifying[gap_to_pole_pct] )
+
+// ---------- Pit stops ----------
+Pit Stops = COUNTROWS ( fact_pit_stops )
+Pit Stops Per Race = DIVIDE ( [Pit Stops], DISTINCTCOUNT ( fact_pit_stops[race_id] ) )
+Avg Pit Stop (s) = CALCULATE ( AVERAGE ( fact_pit_stops[duration_s] ), fact_pit_stops[is_outlier] <> 1 )
+Pit Stop Outliers = CALCULATE ( COUNTROWS ( fact_pit_stops ), fact_pit_stops[is_outlier] = 1 )
+
+// ---------- Race pace (lap data, currently 2025 only) ----------
+Avg Clean Lap (s) = CALCULATE ( AVERAGE ( fact_lap_times[lap_time_s] ), fact_lap_times[is_clean_lap] = 1 )
+Avg Pace Delta (s) = CALCULATE ( AVERAGE ( fact_lap_times[pace_delta_s] ), fact_lap_times[is_clean_lap] = 1 )
+Fastest Clean Lap (s) = CALCULATE ( MIN ( fact_lap_times[lap_time_s] ), fact_lap_times[is_clean_lap] = 1 )
